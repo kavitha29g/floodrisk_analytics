@@ -1,0 +1,34 @@
+{
+  "api_name": "chennai_smart_city_mock_api",
+  "generated_at": "2026-11-02T06:00:00+05:30",
+  "note": "SIMULATED API RESPONSE - not a live government API",
+  "records": [
+    {
+      "record_id": "API001",
+      "recorded_at": "2026-11-02T05:00:00+05:30",
+      "zone_id": 5,
+      "zone_name": "Royapuram",
+      "rainfall_mm": 18.5,
+      "traffic_congestion_index": 78,
+      "waterlogging_alert": true
+    },
+    {
+      "record_id": "API002",
+      "recorded_at": "2026-11-02T05:00:00+05:30",
+      "zone_id": 14,
+      "zone_name": "Perungudi",
+      "rainfall_mm": 9.2,
+      "traffic_congestion_index": 61,
+      "waterlogging_alert": false
+    },
+    {
+      "record_id": "API003",
+      "recorded_at": "2026-11-02T05:00:00+05:30",
+      "zone_id": 6,
+      "zone_name": "Thiru-Vi-Ka Nagar",
+      "rainfall_mm": 27.0,
+      "traffic_congestion_index": 86,
+      "waterlogging_alert": true
+    }
+  ]
+}

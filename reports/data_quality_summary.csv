@@ -1,0 +1,9 @@
+Dataset,Total_Rows,Total_Columns,Total_Null_Values,Total_Duplicate_Rows
+Rainfall,32880,6,99,0
+Flood,1000,13,0,0
+Road Complaints,5020,13,0,20
+Traffic,15000,13,0,0
+Public Grievances,6025,14,0,25
+Waterlogging,320,12,0,0
+Population,90,6,0,0
+Emergency Response,1600,16,0,0

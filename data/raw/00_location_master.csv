@@ -1,0 +1,121 @@
+location_id,zone_id,zone_name,location_name,latitude,longitude
+L0101,1,Tiruvottiyur,Tiruvottiyur Sector 1,13.156989,80.310817
+L0102,1,Tiruvottiyur,Tiruvottiyur Sector 2,13.165568,80.302368
+L0103,1,Tiruvottiyur,Tiruvottiyur Sector 3,13.151744,80.291744
+L0104,1,Tiruvottiyur,Tiruvottiyur Sector 4,13.149394,80.308788
+L0105,1,Tiruvottiyur,Tiruvottiyur Sector 5,13.162427,80.304994
+L0106,1,Tiruvottiyur,Tiruvottiyur Sector 6,13.148494,80.311278
+L0107,1,Tiruvottiyur,Tiruvottiyur Sector 7,13.167979,80.293096
+L0108,1,Tiruvottiyur,Tiruvottiyur Sector 8,13.152364,80.292402
+L0201,2,Manali,Manali Sector 1,13.165302,80.270594
+L0202,2,Manali,Manali Sector 2,13.168367,80.264989
+L0203,2,Manali,Manali Sector 3,13.172684,80.261348
+L0204,2,Manali,Manali Sector 4,13.165011,80.266793
+L0205,2,Manali,Manali Sector 5,13.168946,80.276844
+L0206,2,Manali,Manali Sector 6,13.162792,80.270342
+L0207,2,Manali,Manali Sector 7,13.172218,80.259115
+L0208,2,Manali,Manali Sector 8,13.172581,80.262093
+L0301,3,Madhavaram,Madhavaram Sector 1,13.137561,80.241773
+L0302,3,Madhavaram,Madhavaram Sector 2,13.159175,80.238402
+L0303,3,Madhavaram,Madhavaram Sector 3,13.143311,80.221344
+L0304,3,Madhavaram,Madhavaram Sector 4,13.152422,80.229564
+L0305,3,Madhavaram,Madhavaram Sector 5,13.138929,80.230884
+L0306,3,Madhavaram,Madhavaram Sector 6,13.136825,80.240824
+L0307,3,Madhavaram,Madhavaram Sector 7,13.142211,80.234901
+L0308,3,Madhavaram,Madhavaram Sector 8,13.143481,80.231482
+L0401,4,Tondiarpet,Tondiarpet Sector 1,13.128121,80.282437
+L0402,4,Tondiarpet,Tondiarpet Sector 2,13.13827,80.296603
+L0403,4,Tondiarpet,Tondiarpet Sector 3,13.137548,80.299476
+L0404,4,Tondiarpet,Tondiarpet Sector 4,13.12935,80.300125
+L0405,4,Tondiarpet,Tondiarpet Sector 5,13.117124,80.282704
+L0406,4,Tondiarpet,Tondiarpet Sector 6,13.116085,80.285808
+L0407,4,Tondiarpet,Tondiarpet Sector 7,13.124328,80.284512
+L0408,4,Tondiarpet,Tondiarpet Sector 8,13.13489,80.286562
+L0501,5,Royapuram,Royapuram Sector 1,13.107742,80.296025
+L0502,5,Royapuram,Royapuram Sector 2,13.104382,80.302253
+L0503,5,Royapuram,Royapuram Sector 3,13.102789,80.306685
+L0504,5,Royapuram,Royapuram Sector 4,13.119534,80.287769
+L0505,5,Royapuram,Royapuram Sector 5,13.101133,80.302571
+L0506,5,Royapuram,Royapuram Sector 6,13.117965,80.300496
+L0507,5,Royapuram,Royapuram Sector 7,13.11951,80.284777
+L0508,5,Royapuram,Royapuram Sector 8,13.109603,80.285781
+L0601,6,Thiru-Vi-Ka Nagar,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959
+L0602,6,Thiru-Vi-Ka Nagar,Thiru-Vi-Ka Nagar Sector 2,13.103942,80.224525
+L0603,6,Thiru-Vi-Ka Nagar,Thiru-Vi-Ka Nagar Sector 3,13.103464,80.230804
+L0604,6,Thiru-Vi-Ka Nagar,Thiru-Vi-Ka Nagar Sector 4,13.113511,80.238301
+L0605,6,Thiru-Vi-Ka Nagar,Thiru-Vi-Ka Nagar Sector 5,13.117293,80.234333
+L0606,6,Thiru-Vi-Ka Nagar,Thiru-Vi-Ka Nagar Sector 6,13.09887,80.240118
+L0607,6,Thiru-Vi-Ka Nagar,Thiru-Vi-Ka Nagar Sector 7,13.114259,80.236471
+L0608,6,Thiru-Vi-Ka Nagar,Thiru-Vi-Ka Nagar Sector 8,13.114503,80.234851
+L0701,7,Ambattur,Ambattur Sector 1,13.114546,80.152261
+L0702,7,Ambattur,Ambattur Sector 2,13.10261,80.144589
+L0703,7,Ambattur,Ambattur Sector 3,13.102754,80.157274
+L0704,7,Ambattur,Ambattur Sector 4,13.109545,80.154206
+L0705,7,Ambattur,Ambattur Sector 5,13.123782,80.147983
+L0706,7,Ambattur,Ambattur Sector 6,13.111849,80.160133
+L0707,7,Ambattur,Ambattur Sector 7,13.107491,80.143848
+L0708,7,Ambattur,Ambattur Sector 8,13.108954,80.145869
+L0801,8,Anna Nagar,Anna Nagar Sector 1,13.095313,80.217395
+L0802,8,Anna Nagar,Anna Nagar Sector 2,13.088202,80.218915
+L0803,8,Anna Nagar,Anna Nagar Sector 3,13.092288,80.202478
+L0804,8,Anna Nagar,Anna Nagar Sector 4,13.094421,80.210944
+L0805,8,Anna Nagar,Anna Nagar Sector 5,13.092379,80.219506
+L0806,8,Anna Nagar,Anna Nagar Sector 6,13.080632,80.200641
+L0807,8,Anna Nagar,Anna Nagar Sector 7,13.07847,80.208251
+L0808,8,Anna Nagar,Anna Nagar Sector 8,13.092632,80.218658
+L0901,9,Teynampet,Teynampet Sector 1,13.029167,80.250258
+L0902,9,Teynampet,Teynampet Sector 2,13.039018,80.243331
+L0903,9,Teynampet,Teynampet Sector 3,13.031877,80.246103
+L0904,9,Teynampet,Teynampet Sector 4,13.05163,80.245757
+L0905,9,Teynampet,Teynampet Sector 5,13.041451,80.254872
+L0906,9,Teynampet,Teynampet Sector 6,13.037727,80.261323
+L0907,9,Teynampet,Teynampet Sector 7,13.052099,80.244043
+L0908,9,Teynampet,Teynampet Sector 8,13.040934,80.245221
+L1001,10,Kodambakkam,Kodambakkam Sector 1,13.046836,80.213885
+L1002,10,Kodambakkam,Kodambakkam Sector 2,13.05463,80.225064
+L1003,10,Kodambakkam,Kodambakkam Sector 3,13.041235,80.219688
+L1004,10,Kodambakkam,Kodambakkam Sector 4,13.061798,80.218749
+L1005,10,Kodambakkam,Kodambakkam Sector 5,13.043477,80.224747
+L1006,10,Kodambakkam,Kodambakkam Sector 6,13.063656,80.218809
+L1007,10,Kodambakkam,Kodambakkam Sector 7,13.056131,80.231279
+L1008,10,Kodambakkam,Kodambakkam Sector 8,13.045703,80.230477
+L1101,11,Valasaravakkam,Valasaravakkam Sector 1,13.043827,80.178175
+L1102,11,Valasaravakkam,Valasaravakkam Sector 2,13.050205,80.175859
+L1103,11,Valasaravakkam,Valasaravakkam Sector 3,13.037167,80.183047
+L1104,11,Valasaravakkam,Valasaravakkam Sector 4,13.042699,80.167476
+L1105,11,Valasaravakkam,Valasaravakkam Sector 5,13.035979,80.177181
+L1106,11,Valasaravakkam,Valasaravakkam Sector 6,13.051262,80.163398
+L1107,11,Valasaravakkam,Valasaravakkam Sector 7,13.04729,80.168436
+L1108,11,Valasaravakkam,Valasaravakkam Sector 8,13.050484,80.167185
+L1201,12,Alandur,Alandur Sector 1,13.001583,80.197282
+L1202,12,Alandur,Alandur Sector 2,13.007482,80.191301
+L1203,12,Alandur,Alandur Sector 3,12.993186,80.190723
+L1204,12,Alandur,Alandur Sector 4,13.007193,80.209056
+L1205,12,Alandur,Alandur Sector 5,12.991191,80.20384
+L1206,12,Alandur,Alandur Sector 6,13.004613,80.201325
+L1207,12,Alandur,Alandur Sector 7,12.997712,80.193804
+L1208,12,Alandur,Alandur Sector 8,12.987234,80.209533
+L1301,13,Adyar,Adyar Sector 1,13.01561,80.260194
+L1302,13,Adyar,Adyar Sector 2,13.002137,80.253381
+L1303,13,Adyar,Adyar Sector 3,13.011423,80.266531
+L1304,13,Adyar,Adyar Sector 4,13.01529,80.263717
+L1305,13,Adyar,Adyar Sector 5,13.009409,80.247019
+L1306,13,Adyar,Adyar Sector 6,12.997879,80.266565
+L1307,13,Adyar,Adyar Sector 7,13.008554,80.245221
+L1308,13,Adyar,Adyar Sector 8,12.996435,80.260924
+L1401,14,Perungudi,Perungudi Sector 1,12.953121,80.236859
+L1402,14,Perungudi,Perungudi Sector 2,12.96617,80.249605
+L1403,14,Perungudi,Perungudi Sector 3,12.968647,80.238382
+L1404,14,Perungudi,Perungudi Sector 4,12.970092,80.238694
+L1405,14,Perungudi,Perungudi Sector 5,12.96081,80.250916
+L1406,14,Perungudi,Perungudi Sector 6,12.968591,80.253381
+L1407,14,Perungudi,Perungudi Sector 7,12.968783,80.246639
+L1408,14,Perungudi,Perungudi Sector 8,12.955248,80.241825
+L1501,15,Sholinganallur,Sholinganallur Sector 1,12.894365,80.220856
+L1502,15,Sholinganallur,Sholinganallur Sector 2,12.911352,80.224434
+L1503,15,Sholinganallur,Sholinganallur Sector 3,12.909409,80.230147
+L1504,15,Sholinganallur,Sholinganallur Sector 4,12.907075,80.227063
+L1505,15,Sholinganallur,Sholinganallur Sector 5,12.901846,80.22682
+L1506,15,Sholinganallur,Sholinganallur Sector 6,12.892686,80.232339
+L1507,15,Sholinganallur,Sholinganallur Sector 7,12.894739,80.215584
+L1508,15,Sholinganallur,Sholinganallur Sector 8,12.903491,80.219251
