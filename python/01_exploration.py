@@ -156,3 +156,30 @@ for name, df in datasets.items():
 
     print(df.isnull().sum())
 
+#  Check duplicate records
+
+for name, df in datasets.items():
+
+    print("\nDataset:", name)
+
+    duplicate_count = df.duplicated().sum()
+
+    print("Total Duplicate Rows:", duplicate_count)
+
+# Check abnormal rainfall values
+
+print("\n========== RAINFALL CHECK ==========")
+
+print("Minimum Rainfall:")
+print(rainfall["rainfall_mm"].min())
+
+print("\nMaximum Rainfall:")
+print(rainfall["rainfall_mm"].max())
+
+print("\nRainfall values greater than 300 mm:")
+
+abnormal_rainfall = rainfall[
+    rainfall["rainfall_mm"] > 300
+]
+
+print(abnormal_rainfall)

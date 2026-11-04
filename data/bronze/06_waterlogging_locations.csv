@@ -1,0 +1,321 @@
+waterlogging_id,zone_id,zone_name,location_id,location_name,latitude,longitude,site_type,historical_risk_level,waterlogging_reports_2020_2025,likely_cause,current_status
+W0001,9,Teynampet,L0901,Teynampet Sector 1,13.029167,80.250258,Low point,Low,1,Canal proximity,Active
+W0002,9,Teynampet,L0902,Teynampet Sector 2,13.039018,80.243331,Residential street,Medium,4,Road gradient,Needs inspection
+W0003,4,Tondiarpet,L0401,Tondiarpet Sector 1,13.128121,80.282437,Low point,High,2,Open drain,Mitigation completed
+W0004,11,Valasaravakkam,L1104,Valasaravakkam Sector 4,13.042699,80.167476,Bus route,High,2,Open drain,Active
+W0005,14,Perungudi,L1403,Perungudi Sector 3,12.968647,80.238382,Residential street,High,11,Storm-water drain,Active
+W0006,12,Alandur,L1203,Alandur Sector 3,12.993186,80.190723,Market road,Medium,8,Open drain,Mitigation completed
+W0007,8,Anna Nagar,L0805,Anna Nagar Sector 5,13.092379,80.219506,Residential street,High,11,Road gradient,Needs inspection
+W0008,3,Madhavaram,L0302,Madhavaram Sector 2,13.159175,80.238402,Market road,Low,7,Canal proximity,Needs inspection
+W0009,1,Tiruvottiyur,L0105,Tiruvottiyur Sector 5,13.162427,80.304994,Market road,Low,8,Open drain,Needs inspection
+W0010,15,Sholinganallur,L1504,Sholinganallur Sector 4,12.907075,80.227063,Bus route,Medium,3,Canal proximity,Active
+W0011,3,Madhavaram,L0307,Madhavaram Sector 7,13.142211,80.234901,Underpass,High,11,Open drain,Needs inspection
+W0012,12,Alandur,L1205,Alandur Sector 5,12.991191,80.20384,Low point,Low,2,Open drain,Mitigation completed
+W0013,12,Alandur,L1205,Alandur Sector 5,12.991191,80.20384,Residential street,Low,8,Storm-water drain,Mitigation completed
+W0014,11,Valasaravakkam,L1101,Valasaravakkam Sector 1,13.043827,80.178175,Low point,High,7,Road gradient,Active
+W0015,12,Alandur,L1206,Alandur Sector 6,13.004613,80.201325,Residential street,High,1,Canal proximity,Needs inspection
+W0016,7,Ambattur,L0707,Ambattur Sector 7,13.107491,80.143848,Low point,High,4,Open drain,Needs inspection
+W0017,12,Alandur,L1208,Alandur Sector 8,12.987234,80.209533,Low point,High,9,Road gradient,Needs inspection
+W0018,11,Valasaravakkam,L1105,Valasaravakkam Sector 5,13.035979,80.177181,Residential street,Low,11,Open drain,Needs inspection
+W0019,9,Teynampet,L0906,Teynampet Sector 6,13.037727,80.261323,Low point,Medium,5,Storm-water drain,Active
+W0020,9,Teynampet,L0901,Teynampet Sector 1,13.029167,80.250258,Residential street,High,4,Road gradient,Mitigation completed
+W0021,7,Ambattur,L0702,Ambattur Sector 2,13.10261,80.144589,Market road,Medium,2,Canal proximity,Mitigation completed
+W0022,4,Tondiarpet,L0403,Tondiarpet Sector 3,13.137548,80.299476,Low point,Low,1,Storm-water drain,Needs inspection
+W0023,7,Ambattur,L0702,Ambattur Sector 2,13.10261,80.144589,Bus route,High,5,Canal proximity,Mitigation completed
+W0024,14,Perungudi,L1408,Perungudi Sector 8,12.955248,80.241825,Low point,Low,6,Open drain,Needs inspection
+W0025,13,Adyar,L1301,Adyar Sector 1,13.01561,80.260194,Residential street,Low,4,Canal proximity,Mitigation completed
+W0026,14,Perungudi,L1403,Perungudi Sector 3,12.968647,80.238382,Bus route,Low,2,Open drain,Mitigation completed
+W0027,3,Madhavaram,L0308,Madhavaram Sector 8,13.143481,80.231482,Low point,Medium,10,Open drain,Active
+W0028,12,Alandur,L1203,Alandur Sector 3,12.993186,80.190723,Low point,Low,11,Open drain,Needs inspection
+W0029,14,Perungudi,L1402,Perungudi Sector 2,12.96617,80.249605,Residential street,High,3,Open drain,Active
+W0030,2,Manali,L0208,Manali Sector 8,13.172581,80.262093,Bus route,High,4,Open drain,Active
+W0031,7,Ambattur,L0706,Ambattur Sector 6,13.111849,80.160133,Residential street,Medium,2,Storm-water drain,Needs inspection
+W0032,14,Perungudi,L1404,Perungudi Sector 4,12.970092,80.238694,Low point,High,3,Road gradient,Active
+W0033,2,Manali,L0205,Manali Sector 5,13.168946,80.276844,Underpass,Medium,3,Road gradient,Mitigation completed
+W0034,3,Madhavaram,L0308,Madhavaram Sector 8,13.143481,80.231482,Underpass,High,1,Storm-water drain,Active
+W0035,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Underpass,Low,8,Open drain,Active
+W0036,1,Tiruvottiyur,L0103,Tiruvottiyur Sector 3,13.151744,80.291744,Low point,High,11,Road gradient,Needs inspection
+W0037,12,Alandur,L1208,Alandur Sector 8,12.987234,80.209533,Underpass,Low,3,Road gradient,Mitigation completed
+W0038,8,Anna Nagar,L0807,Anna Nagar Sector 7,13.07847,80.208251,Underpass,Low,10,Open drain,Mitigation completed
+W0039,3,Madhavaram,L0308,Madhavaram Sector 8,13.143481,80.231482,Bus route,Low,11,Road gradient,Needs inspection
+W0040,7,Ambattur,L0701,Ambattur Sector 1,13.114546,80.152261,Bus route,Low,4,Open drain,Mitigation completed
+W0041,2,Manali,L0206,Manali Sector 6,13.162792,80.270342,Bus route,High,4,Canal proximity,Mitigation completed
+W0042,11,Valasaravakkam,L1104,Valasaravakkam Sector 4,13.042699,80.167476,Market road,Low,4,Open drain,Active
+W0043,11,Valasaravakkam,L1108,Valasaravakkam Sector 8,13.050484,80.167185,Residential street,Low,3,Open drain,Active
+W0044,11,Valasaravakkam,L1106,Valasaravakkam Sector 6,13.051262,80.163398,Market road,Low,7,Road gradient,Needs inspection
+W0045,10,Kodambakkam,L1008,Kodambakkam Sector 8,13.045703,80.230477,Low point,Low,12,Open drain,Mitigation completed
+W0046,3,Madhavaram,L0303,Madhavaram Sector 3,13.143311,80.221344,Low point,Medium,9,Open drain,Active
+W0047,15,Sholinganallur,L1504,Sholinganallur Sector 4,12.907075,80.227063,Residential street,High,10,Road gradient,Needs inspection
+W0048,4,Tondiarpet,L0406,Tondiarpet Sector 6,13.116085,80.285808,Underpass,Low,6,Storm-water drain,Active
+W0049,4,Tondiarpet,L0407,Tondiarpet Sector 7,13.124328,80.284512,Underpass,Medium,4,Open drain,Needs inspection
+W0050,10,Kodambakkam,L1008,Kodambakkam Sector 8,13.045703,80.230477,Low point,Medium,3,Storm-water drain,Mitigation completed
+W0051,8,Anna Nagar,L0803,Anna Nagar Sector 3,13.092288,80.202478,Residential street,Medium,3,Canal proximity,Mitigation completed
+W0052,4,Tondiarpet,L0406,Tondiarpet Sector 6,13.116085,80.285808,Market road,Low,6,Storm-water drain,Active
+W0053,12,Alandur,L1201,Alandur Sector 1,13.001583,80.197282,Market road,Low,2,Canal proximity,Needs inspection
+W0054,7,Ambattur,L0703,Ambattur Sector 3,13.102754,80.157274,Market road,Low,5,Storm-water drain,Mitigation completed
+W0055,10,Kodambakkam,L1003,Kodambakkam Sector 3,13.041235,80.219688,Bus route,High,4,Open drain,Needs inspection
+W0056,14,Perungudi,L1408,Perungudi Sector 8,12.955248,80.241825,Underpass,High,8,Canal proximity,Needs inspection
+W0057,1,Tiruvottiyur,L0107,Tiruvottiyur Sector 7,13.167979,80.293096,Underpass,Low,6,Canal proximity,Mitigation completed
+W0058,4,Tondiarpet,L0403,Tondiarpet Sector 3,13.137548,80.299476,Bus route,Low,7,Open drain,Active
+W0059,8,Anna Nagar,L0801,Anna Nagar Sector 1,13.095313,80.217395,Residential street,High,7,Canal proximity,Mitigation completed
+W0060,14,Perungudi,L1402,Perungudi Sector 2,12.96617,80.249605,Residential street,Medium,4,Open drain,Mitigation completed
+W0061,13,Adyar,L1301,Adyar Sector 1,13.01561,80.260194,Residential street,Low,3,Road gradient,Needs inspection
+W0062,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Low point,Medium,11,Road gradient,Active
+W0063,12,Alandur,L1208,Alandur Sector 8,12.987234,80.209533,Bus route,High,10,Open drain,Needs inspection
+W0064,8,Anna Nagar,L0803,Anna Nagar Sector 3,13.092288,80.202478,Residential street,Low,6,Canal proximity,Mitigation completed
+W0065,11,Valasaravakkam,L1101,Valasaravakkam Sector 1,13.043827,80.178175,Low point,Medium,12,Road gradient,Mitigation completed
+W0066,1,Tiruvottiyur,L0105,Tiruvottiyur Sector 5,13.162427,80.304994,Residential street,Medium,12,Storm-water drain,Mitigation completed
+W0067,2,Manali,L0206,Manali Sector 6,13.162792,80.270342,Low point,High,11,Road gradient,Active
+W0068,2,Manali,L0207,Manali Sector 7,13.172218,80.259115,Market road,Medium,10,Open drain,Needs inspection
+W0069,6,Thiru-Vi-Ka Nagar,L0603,Thiru-Vi-Ka Nagar Sector 3,13.103464,80.230804,Bus route,High,2,Storm-water drain,Active
+W0070,6,Thiru-Vi-Ka Nagar,L0604,Thiru-Vi-Ka Nagar Sector 4,13.113511,80.238301,Bus route,Low,11,Canal proximity,Mitigation completed
+W0071,13,Adyar,L1304,Adyar Sector 4,13.01529,80.263717,Underpass,Medium,6,Road gradient,Mitigation completed
+W0072,11,Valasaravakkam,L1107,Valasaravakkam Sector 7,13.04729,80.168436,Market road,Low,2,Road gradient,Needs inspection
+W0073,8,Anna Nagar,L0808,Anna Nagar Sector 8,13.092632,80.218658,Bus route,High,2,Canal proximity,Mitigation completed
+W0074,9,Teynampet,L0905,Teynampet Sector 5,13.041451,80.254872,Residential street,High,6,Open drain,Active
+W0075,15,Sholinganallur,L1508,Sholinganallur Sector 8,12.903491,80.219251,Low point,Low,7,Storm-water drain,Needs inspection
+W0076,2,Manali,L0202,Manali Sector 2,13.168367,80.264989,Underpass,Medium,2,Storm-water drain,Needs inspection
+W0077,3,Madhavaram,L0304,Madhavaram Sector 4,13.152422,80.229564,Bus route,High,1,Road gradient,Needs inspection
+W0078,11,Valasaravakkam,L1103,Valasaravakkam Sector 3,13.037167,80.183047,Residential street,Medium,7,Canal proximity,Mitigation completed
+W0079,11,Valasaravakkam,L1101,Valasaravakkam Sector 1,13.043827,80.178175,Market road,Low,2,Open drain,Active
+W0080,14,Perungudi,L1406,Perungudi Sector 6,12.968591,80.253381,Residential street,High,6,Road gradient,Needs inspection
+W0081,10,Kodambakkam,L1008,Kodambakkam Sector 8,13.045703,80.230477,Residential street,Medium,10,Storm-water drain,Needs inspection
+W0082,3,Madhavaram,L0305,Madhavaram Sector 5,13.138929,80.230884,Underpass,Medium,6,Road gradient,Active
+W0083,3,Madhavaram,L0306,Madhavaram Sector 6,13.136825,80.240824,Market road,Medium,3,Storm-water drain,Mitigation completed
+W0084,9,Teynampet,L0905,Teynampet Sector 5,13.041451,80.254872,Underpass,Low,12,Storm-water drain,Active
+W0085,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Low point,Medium,10,Storm-water drain,Needs inspection
+W0086,5,Royapuram,L0506,Royapuram Sector 6,13.117965,80.300496,Underpass,Low,9,Open drain,Mitigation completed
+W0087,6,Thiru-Vi-Ka Nagar,L0606,Thiru-Vi-Ka Nagar Sector 6,13.09887,80.240118,Underpass,Medium,8,Storm-water drain,Mitigation completed
+W0088,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Low point,Medium,8,Storm-water drain,Needs inspection
+W0089,15,Sholinganallur,L1506,Sholinganallur Sector 6,12.892686,80.232339,Underpass,Low,12,Road gradient,Mitigation completed
+W0090,12,Alandur,L1205,Alandur Sector 5,12.991191,80.20384,Residential street,Medium,10,Storm-water drain,Mitigation completed
+W0091,12,Alandur,L1208,Alandur Sector 8,12.987234,80.209533,Market road,High,2,Canal proximity,Active
+W0092,3,Madhavaram,L0302,Madhavaram Sector 2,13.159175,80.238402,Market road,Low,7,Storm-water drain,Needs inspection
+W0093,6,Thiru-Vi-Ka Nagar,L0602,Thiru-Vi-Ka Nagar Sector 2,13.103942,80.224525,Market road,Low,10,Storm-water drain,Mitigation completed
+W0094,9,Teynampet,L0904,Teynampet Sector 4,13.05163,80.245757,Market road,Low,1,Open drain,Mitigation completed
+W0095,14,Perungudi,L1408,Perungudi Sector 8,12.955248,80.241825,Low point,High,7,Storm-water drain,Needs inspection
+W0096,6,Thiru-Vi-Ka Nagar,L0601,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959,Market road,Medium,3,Canal proximity,Needs inspection
+W0097,7,Ambattur,L0706,Ambattur Sector 6,13.111849,80.160133,Low point,Medium,6,Road gradient,Needs inspection
+W0098,8,Anna Nagar,L0802,Anna Nagar Sector 2,13.088202,80.218915,Underpass,High,8,Canal proximity,Needs inspection
+W0099,5,Royapuram,L0503,Royapuram Sector 3,13.102789,80.306685,Residential street,High,7,Storm-water drain,Mitigation completed
+W0100,10,Kodambakkam,L1002,Kodambakkam Sector 2,13.05463,80.225064,Underpass,Low,5,Canal proximity,Mitigation completed
+W0101,6,Thiru-Vi-Ka Nagar,L0602,Thiru-Vi-Ka Nagar Sector 2,13.103942,80.224525,Bus route,Medium,2,Open drain,Needs inspection
+W0102,11,Valasaravakkam,L1105,Valasaravakkam Sector 5,13.035979,80.177181,Residential street,Low,9,Canal proximity,Mitigation completed
+W0103,10,Kodambakkam,L1003,Kodambakkam Sector 3,13.041235,80.219688,Underpass,Low,7,Road gradient,Mitigation completed
+W0104,8,Anna Nagar,L0801,Anna Nagar Sector 1,13.095313,80.217395,Market road,High,5,Canal proximity,Mitigation completed
+W0105,12,Alandur,L1208,Alandur Sector 8,12.987234,80.209533,Underpass,Low,1,Storm-water drain,Needs inspection
+W0106,5,Royapuram,L0508,Royapuram Sector 8,13.109603,80.285781,Low point,High,11,Road gradient,Needs inspection
+W0107,3,Madhavaram,L0308,Madhavaram Sector 8,13.143481,80.231482,Underpass,Low,2,Road gradient,Needs inspection
+W0108,2,Manali,L0206,Manali Sector 6,13.162792,80.270342,Bus route,Medium,10,Canal proximity,Needs inspection
+W0109,11,Valasaravakkam,L1108,Valasaravakkam Sector 8,13.050484,80.167185,Low point,Medium,9,Open drain,Needs inspection
+W0110,3,Madhavaram,L0301,Madhavaram Sector 1,13.137561,80.241773,Underpass,Medium,8,Storm-water drain,Needs inspection
+W0111,3,Madhavaram,L0301,Madhavaram Sector 1,13.137561,80.241773,Market road,Medium,7,Road gradient,Active
+W0112,5,Royapuram,L0505,Royapuram Sector 5,13.101133,80.302571,Bus route,High,2,Storm-water drain,Mitigation completed
+W0113,3,Madhavaram,L0302,Madhavaram Sector 2,13.159175,80.238402,Bus route,Low,9,Road gradient,Needs inspection
+W0114,14,Perungudi,L1405,Perungudi Sector 5,12.96081,80.250916,Market road,High,12,Road gradient,Active
+W0115,9,Teynampet,L0906,Teynampet Sector 6,13.037727,80.261323,Underpass,Low,3,Road gradient,Needs inspection
+W0116,13,Adyar,L1308,Adyar Sector 8,12.996435,80.260924,Residential street,Medium,3,Open drain,Active
+W0117,3,Madhavaram,L0304,Madhavaram Sector 4,13.152422,80.229564,Underpass,High,10,Open drain,Needs inspection
+W0118,8,Anna Nagar,L0802,Anna Nagar Sector 2,13.088202,80.218915,Low point,Low,1,Canal proximity,Needs inspection
+W0119,5,Royapuram,L0506,Royapuram Sector 6,13.117965,80.300496,Underpass,Medium,10,Road gradient,Active
+W0120,12,Alandur,L1205,Alandur Sector 5,12.991191,80.20384,Low point,High,2,Storm-water drain,Active
+W0121,14,Perungudi,L1403,Perungudi Sector 3,12.968647,80.238382,Underpass,Medium,3,Storm-water drain,Active
+W0122,2,Manali,L0207,Manali Sector 7,13.172218,80.259115,Low point,Low,1,Canal proximity,Needs inspection
+W0123,1,Tiruvottiyur,L0104,Tiruvottiyur Sector 4,13.149394,80.308788,Low point,Low,11,Open drain,Needs inspection
+W0124,2,Manali,L0205,Manali Sector 5,13.168946,80.276844,Low point,Low,5,Open drain,Active
+W0125,13,Adyar,L1302,Adyar Sector 2,13.002137,80.253381,Bus route,Low,10,Storm-water drain,Active
+W0126,11,Valasaravakkam,L1106,Valasaravakkam Sector 6,13.051262,80.163398,Low point,Low,3,Road gradient,Mitigation completed
+W0127,6,Thiru-Vi-Ka Nagar,L0606,Thiru-Vi-Ka Nagar Sector 6,13.09887,80.240118,Underpass,High,12,Storm-water drain,Mitigation completed
+W0128,10,Kodambakkam,L1002,Kodambakkam Sector 2,13.05463,80.225064,Low point,High,1,Storm-water drain,Mitigation completed
+W0129,4,Tondiarpet,L0405,Tondiarpet Sector 5,13.117124,80.282704,Underpass,High,1,Open drain,Active
+W0130,15,Sholinganallur,L1508,Sholinganallur Sector 8,12.903491,80.219251,Market road,High,10,Storm-water drain,Needs inspection
+W0131,11,Valasaravakkam,L1102,Valasaravakkam Sector 2,13.050205,80.175859,Underpass,Medium,7,Canal proximity,Active
+W0132,9,Teynampet,L0904,Teynampet Sector 4,13.05163,80.245757,Residential street,Low,6,Open drain,Needs inspection
+W0133,2,Manali,L0203,Manali Sector 3,13.172684,80.261348,Residential street,Medium,12,Road gradient,Mitigation completed
+W0134,12,Alandur,L1201,Alandur Sector 1,13.001583,80.197282,Low point,Medium,8,Open drain,Needs inspection
+W0135,5,Royapuram,L0508,Royapuram Sector 8,13.109603,80.285781,Bus route,High,5,Canal proximity,Active
+W0136,9,Teynampet,L0907,Teynampet Sector 7,13.052099,80.244043,Market road,Medium,4,Open drain,Needs inspection
+W0137,11,Valasaravakkam,L1106,Valasaravakkam Sector 6,13.051262,80.163398,Underpass,Low,11,Canal proximity,Mitigation completed
+W0138,2,Manali,L0207,Manali Sector 7,13.172218,80.259115,Residential street,High,11,Open drain,Active
+W0139,3,Madhavaram,L0307,Madhavaram Sector 7,13.142211,80.234901,Residential street,High,10,Open drain,Mitigation completed
+W0140,15,Sholinganallur,L1503,Sholinganallur Sector 3,12.909409,80.230147,Low point,Medium,4,Road gradient,Active
+W0141,10,Kodambakkam,L1007,Kodambakkam Sector 7,13.056131,80.231279,Low point,Low,7,Canal proximity,Needs inspection
+W0142,13,Adyar,L1305,Adyar Sector 5,13.009409,80.247019,Residential street,Medium,8,Canal proximity,Needs inspection
+W0143,9,Teynampet,L0905,Teynampet Sector 5,13.041451,80.254872,Underpass,Medium,2,Open drain,Needs inspection
+W0144,8,Anna Nagar,L0808,Anna Nagar Sector 8,13.092632,80.218658,Underpass,High,3,Open drain,Active
+W0145,12,Alandur,L1201,Alandur Sector 1,13.001583,80.197282,Low point,Medium,11,Open drain,Active
+W0146,7,Ambattur,L0706,Ambattur Sector 6,13.111849,80.160133,Underpass,Medium,10,Open drain,Active
+W0147,11,Valasaravakkam,L1108,Valasaravakkam Sector 8,13.050484,80.167185,Residential street,Low,5,Canal proximity,Needs inspection
+W0148,9,Teynampet,L0905,Teynampet Sector 5,13.041451,80.254872,Bus route,Medium,9,Open drain,Active
+W0149,7,Ambattur,L0702,Ambattur Sector 2,13.10261,80.144589,Residential street,Medium,6,Canal proximity,Needs inspection
+W0150,8,Anna Nagar,L0801,Anna Nagar Sector 1,13.095313,80.217395,Low point,Low,9,Road gradient,Mitigation completed
+W0151,3,Madhavaram,L0308,Madhavaram Sector 8,13.143481,80.231482,Residential street,Low,5,Canal proximity,Needs inspection
+W0152,13,Adyar,L1302,Adyar Sector 2,13.002137,80.253381,Bus route,High,8,Canal proximity,Needs inspection
+W0153,9,Teynampet,L0903,Teynampet Sector 3,13.031877,80.246103,Bus route,Low,7,Road gradient,Needs inspection
+W0154,10,Kodambakkam,L1007,Kodambakkam Sector 7,13.056131,80.231279,Bus route,High,6,Road gradient,Needs inspection
+W0155,1,Tiruvottiyur,L0101,Tiruvottiyur Sector 1,13.156989,80.310817,Bus route,Low,3,Road gradient,Needs inspection
+W0156,13,Adyar,L1301,Adyar Sector 1,13.01561,80.260194,Market road,Medium,2,Canal proximity,Needs inspection
+W0157,6,Thiru-Vi-Ka Nagar,L0607,Thiru-Vi-Ka Nagar Sector 7,13.114259,80.236471,Market road,Low,11,Storm-water drain,Active
+W0158,4,Tondiarpet,L0405,Tondiarpet Sector 5,13.117124,80.282704,Bus route,Low,12,Open drain,Needs inspection
+W0159,2,Manali,L0206,Manali Sector 6,13.162792,80.270342,Underpass,Low,9,Road gradient,Active
+W0160,8,Anna Nagar,L0807,Anna Nagar Sector 7,13.07847,80.208251,Bus route,High,7,Road gradient,Active
+W0161,12,Alandur,L1208,Alandur Sector 8,12.987234,80.209533,Bus route,Low,6,Canal proximity,Mitigation completed
+W0162,7,Ambattur,L0706,Ambattur Sector 6,13.111849,80.160133,Bus route,Low,8,Open drain,Mitigation completed
+W0163,11,Valasaravakkam,L1104,Valasaravakkam Sector 4,13.042699,80.167476,Market road,Medium,9,Road gradient,Active
+W0164,10,Kodambakkam,L1005,Kodambakkam Sector 5,13.043477,80.224747,Market road,Medium,4,Canal proximity,Mitigation completed
+W0165,14,Perungudi,L1402,Perungudi Sector 2,12.96617,80.249605,Bus route,Low,5,Road gradient,Active
+W0166,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Underpass,High,12,Open drain,Mitigation completed
+W0167,14,Perungudi,L1402,Perungudi Sector 2,12.96617,80.249605,Bus route,Medium,5,Open drain,Mitigation completed
+W0168,13,Adyar,L1308,Adyar Sector 8,12.996435,80.260924,Residential street,Low,6,Open drain,Mitigation completed
+W0169,14,Perungudi,L1405,Perungudi Sector 5,12.96081,80.250916,Bus route,Medium,7,Road gradient,Active
+W0170,7,Ambattur,L0707,Ambattur Sector 7,13.107491,80.143848,Market road,High,9,Canal proximity,Mitigation completed
+W0171,13,Adyar,L1303,Adyar Sector 3,13.011423,80.266531,Low point,High,12,Storm-water drain,Mitigation completed
+W0172,8,Anna Nagar,L0804,Anna Nagar Sector 4,13.094421,80.210944,Residential street,Medium,11,Canal proximity,Mitigation completed
+W0173,12,Alandur,L1201,Alandur Sector 1,13.001583,80.197282,Bus route,Low,6,Canal proximity,Active
+W0174,4,Tondiarpet,L0403,Tondiarpet Sector 3,13.137548,80.299476,Market road,Medium,7,Road gradient,Active
+W0175,11,Valasaravakkam,L1104,Valasaravakkam Sector 4,13.042699,80.167476,Residential street,Medium,5,Storm-water drain,Needs inspection
+W0176,11,Valasaravakkam,L1104,Valasaravakkam Sector 4,13.042699,80.167476,Residential street,Low,2,Storm-water drain,Active
+W0177,1,Tiruvottiyur,L0104,Tiruvottiyur Sector 4,13.149394,80.308788,Market road,Medium,8,Canal proximity,Needs inspection
+W0178,11,Valasaravakkam,L1101,Valasaravakkam Sector 1,13.043827,80.178175,Underpass,Low,5,Storm-water drain,Active
+W0179,5,Royapuram,L0505,Royapuram Sector 5,13.101133,80.302571,Bus route,Low,11,Open drain,Mitigation completed
+W0180,8,Anna Nagar,L0801,Anna Nagar Sector 1,13.095313,80.217395,Low point,Low,6,Road gradient,Active
+W0181,15,Sholinganallur,L1507,Sholinganallur Sector 7,12.894739,80.215584,Market road,High,11,Open drain,Needs inspection
+W0182,14,Perungudi,L1403,Perungudi Sector 3,12.968647,80.238382,Underpass,Low,10,Open drain,Mitigation completed
+W0183,11,Valasaravakkam,L1105,Valasaravakkam Sector 5,13.035979,80.177181,Residential street,Low,4,Open drain,Needs inspection
+W0184,6,Thiru-Vi-Ka Nagar,L0607,Thiru-Vi-Ka Nagar Sector 7,13.114259,80.236471,Underpass,Medium,4,Storm-water drain,Active
+W0185,3,Madhavaram,L0304,Madhavaram Sector 4,13.152422,80.229564,Market road,Medium,7,Road gradient,Mitigation completed
+W0186,1,Tiruvottiyur,L0108,Tiruvottiyur Sector 8,13.152364,80.292402,Bus route,Medium,12,Open drain,Needs inspection
+W0187,9,Teynampet,L0907,Teynampet Sector 7,13.052099,80.244043,Residential street,High,4,Road gradient,Active
+W0188,6,Thiru-Vi-Ka Nagar,L0608,Thiru-Vi-Ka Nagar Sector 8,13.114503,80.234851,Market road,Medium,1,Open drain,Mitigation completed
+W0189,11,Valasaravakkam,L1101,Valasaravakkam Sector 1,13.043827,80.178175,Underpass,Medium,9,Canal proximity,Needs inspection
+W0190,11,Valasaravakkam,L1106,Valasaravakkam Sector 6,13.051262,80.163398,Low point,High,4,Canal proximity,Needs inspection
+W0191,1,Tiruvottiyur,L0107,Tiruvottiyur Sector 7,13.167979,80.293096,Market road,Medium,2,Storm-water drain,Needs inspection
+W0192,4,Tondiarpet,L0403,Tondiarpet Sector 3,13.137548,80.299476,Residential street,High,6,Canal proximity,Active
+W0193,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Residential street,Medium,12,Canal proximity,Needs inspection
+W0194,12,Alandur,L1207,Alandur Sector 7,12.997712,80.193804,Low point,Low,12,Road gradient,Mitigation completed
+W0195,2,Manali,L0206,Manali Sector 6,13.162792,80.270342,Residential street,High,12,Road gradient,Needs inspection
+W0196,12,Alandur,L1201,Alandur Sector 1,13.001583,80.197282,Low point,High,11,Storm-water drain,Mitigation completed
+W0197,8,Anna Nagar,L0803,Anna Nagar Sector 3,13.092288,80.202478,Low point,Medium,4,Road gradient,Needs inspection
+W0198,10,Kodambakkam,L1002,Kodambakkam Sector 2,13.05463,80.225064,Low point,Low,4,Storm-water drain,Mitigation completed
+W0199,11,Valasaravakkam,L1107,Valasaravakkam Sector 7,13.04729,80.168436,Market road,Medium,8,Storm-water drain,Needs inspection
+W0200,3,Madhavaram,L0306,Madhavaram Sector 6,13.136825,80.240824,Market road,Low,2,Canal proximity,Needs inspection
+W0201,3,Madhavaram,L0307,Madhavaram Sector 7,13.142211,80.234901,Residential street,High,4,Open drain,Active
+W0202,15,Sholinganallur,L1504,Sholinganallur Sector 4,12.907075,80.227063,Low point,Medium,4,Road gradient,Mitigation completed
+W0203,14,Perungudi,L1403,Perungudi Sector 3,12.968647,80.238382,Low point,Medium,10,Canal proximity,Mitigation completed
+W0204,5,Royapuram,L0503,Royapuram Sector 3,13.102789,80.306685,Low point,Medium,3,Open drain,Active
+W0205,12,Alandur,L1207,Alandur Sector 7,12.997712,80.193804,Residential street,High,8,Open drain,Active
+W0206,12,Alandur,L1204,Alandur Sector 4,13.007193,80.209056,Underpass,Medium,5,Canal proximity,Needs inspection
+W0207,3,Madhavaram,L0307,Madhavaram Sector 7,13.142211,80.234901,Underpass,High,4,Road gradient,Mitigation completed
+W0208,11,Valasaravakkam,L1104,Valasaravakkam Sector 4,13.042699,80.167476,Residential street,Low,7,Storm-water drain,Active
+W0209,5,Royapuram,L0505,Royapuram Sector 5,13.101133,80.302571,Underpass,High,8,Storm-water drain,Needs inspection
+W0210,10,Kodambakkam,L1008,Kodambakkam Sector 8,13.045703,80.230477,Low point,Low,8,Storm-water drain,Needs inspection
+W0211,12,Alandur,L1207,Alandur Sector 7,12.997712,80.193804,Underpass,High,7,Canal proximity,Mitigation completed
+W0212,10,Kodambakkam,L1005,Kodambakkam Sector 5,13.043477,80.224747,Low point,Low,9,Open drain,Active
+W0213,6,Thiru-Vi-Ka Nagar,L0604,Thiru-Vi-Ka Nagar Sector 4,13.113511,80.238301,Residential street,Medium,10,Open drain,Active
+W0214,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Market road,Medium,11,Road gradient,Active
+W0215,15,Sholinganallur,L1501,Sholinganallur Sector 1,12.894365,80.220856,Bus route,Low,5,Storm-water drain,Mitigation completed
+W0216,8,Anna Nagar,L0806,Anna Nagar Sector 6,13.080632,80.200641,Residential street,Low,2,Road gradient,Mitigation completed
+W0217,9,Teynampet,L0907,Teynampet Sector 7,13.052099,80.244043,Underpass,Medium,2,Road gradient,Active
+W0218,3,Madhavaram,L0308,Madhavaram Sector 8,13.143481,80.231482,Market road,High,6,Canal proximity,Needs inspection
+W0219,15,Sholinganallur,L1505,Sholinganallur Sector 5,12.901846,80.22682,Bus route,Medium,9,Road gradient,Needs inspection
+W0220,15,Sholinganallur,L1503,Sholinganallur Sector 3,12.909409,80.230147,Market road,High,8,Storm-water drain,Mitigation completed
+W0221,14,Perungudi,L1408,Perungudi Sector 8,12.955248,80.241825,Low point,Low,3,Open drain,Active
+W0222,3,Madhavaram,L0301,Madhavaram Sector 1,13.137561,80.241773,Residential street,Medium,3,Canal proximity,Needs inspection
+W0223,2,Manali,L0208,Manali Sector 8,13.172581,80.262093,Low point,Medium,6,Canal proximity,Needs inspection
+W0224,8,Anna Nagar,L0802,Anna Nagar Sector 2,13.088202,80.218915,Underpass,Low,6,Open drain,Active
+W0225,14,Perungudi,L1405,Perungudi Sector 5,12.96081,80.250916,Underpass,Low,12,Road gradient,Mitigation completed
+W0226,15,Sholinganallur,L1504,Sholinganallur Sector 4,12.907075,80.227063,Bus route,Low,9,Storm-water drain,Needs inspection
+W0227,15,Sholinganallur,L1502,Sholinganallur Sector 2,12.911352,80.224434,Underpass,Medium,11,Open drain,Needs inspection
+W0228,1,Tiruvottiyur,L0105,Tiruvottiyur Sector 5,13.162427,80.304994,Low point,Medium,6,Open drain,Needs inspection
+W0229,3,Madhavaram,L0301,Madhavaram Sector 1,13.137561,80.241773,Low point,Medium,12,Canal proximity,Needs inspection
+W0230,11,Valasaravakkam,L1105,Valasaravakkam Sector 5,13.035979,80.177181,Bus route,High,1,Road gradient,Active
+W0231,11,Valasaravakkam,L1108,Valasaravakkam Sector 8,13.050484,80.167185,Market road,High,12,Storm-water drain,Active
+W0232,14,Perungudi,L1401,Perungudi Sector 1,12.953121,80.236859,Market road,Medium,1,Open drain,Mitigation completed
+W0233,10,Kodambakkam,L1007,Kodambakkam Sector 7,13.056131,80.231279,Low point,Medium,5,Storm-water drain,Active
+W0234,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Low point,Low,4,Storm-water drain,Needs inspection
+W0235,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Market road,High,11,Storm-water drain,Active
+W0236,5,Royapuram,L0508,Royapuram Sector 8,13.109603,80.285781,Residential street,High,5,Storm-water drain,Needs inspection
+W0237,11,Valasaravakkam,L1102,Valasaravakkam Sector 2,13.050205,80.175859,Market road,High,4,Canal proximity,Needs inspection
+W0238,15,Sholinganallur,L1507,Sholinganallur Sector 7,12.894739,80.215584,Residential street,Medium,10,Canal proximity,Active
+W0239,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Market road,High,3,Canal proximity,Mitigation completed
+W0240,7,Ambattur,L0702,Ambattur Sector 2,13.10261,80.144589,Low point,High,6,Canal proximity,Mitigation completed
+W0241,4,Tondiarpet,L0403,Tondiarpet Sector 3,13.137548,80.299476,Residential street,High,11,Open drain,Needs inspection
+W0242,8,Anna Nagar,L0807,Anna Nagar Sector 7,13.07847,80.208251,Low point,Medium,5,Storm-water drain,Active
+W0243,11,Valasaravakkam,L1105,Valasaravakkam Sector 5,13.035979,80.177181,Underpass,High,7,Road gradient,Mitigation completed
+W0244,1,Tiruvottiyur,L0102,Tiruvottiyur Sector 2,13.165568,80.302368,Low point,High,2,Canal proximity,Needs inspection
+W0245,2,Manali,L0208,Manali Sector 8,13.172581,80.262093,Bus route,Medium,6,Road gradient,Mitigation completed
+W0246,2,Manali,L0201,Manali Sector 1,13.165302,80.270594,Low point,High,11,Canal proximity,Active
+W0247,13,Adyar,L1303,Adyar Sector 3,13.011423,80.266531,Residential street,Low,2,Canal proximity,Mitigation completed
+W0248,5,Royapuram,L0506,Royapuram Sector 6,13.117965,80.300496,Bus route,High,8,Canal proximity,Mitigation completed
+W0249,13,Adyar,L1305,Adyar Sector 5,13.009409,80.247019,Market road,Low,4,Storm-water drain,Active
+W0250,12,Alandur,L1205,Alandur Sector 5,12.991191,80.20384,Low point,Medium,9,Open drain,Active
+W0251,7,Ambattur,L0702,Ambattur Sector 2,13.10261,80.144589,Low point,Low,11,Canal proximity,Needs inspection
+W0252,12,Alandur,L1207,Alandur Sector 7,12.997712,80.193804,Bus route,High,8,Road gradient,Mitigation completed
+W0253,14,Perungudi,L1406,Perungudi Sector 6,12.968591,80.253381,Residential street,Medium,2,Storm-water drain,Active
+W0254,1,Tiruvottiyur,L0104,Tiruvottiyur Sector 4,13.149394,80.308788,Low point,Low,12,Storm-water drain,Active
+W0255,4,Tondiarpet,L0408,Tondiarpet Sector 8,13.13489,80.286562,Underpass,High,4,Canal proximity,Mitigation completed
+W0256,14,Perungudi,L1404,Perungudi Sector 4,12.970092,80.238694,Low point,Medium,8,Storm-water drain,Needs inspection
+W0257,7,Ambattur,L0701,Ambattur Sector 1,13.114546,80.152261,Low point,Low,3,Canal proximity,Needs inspection
+W0258,8,Anna Nagar,L0801,Anna Nagar Sector 1,13.095313,80.217395,Residential street,High,4,Storm-water drain,Needs inspection
+W0259,10,Kodambakkam,L1007,Kodambakkam Sector 7,13.056131,80.231279,Low point,Medium,1,Open drain,Mitigation completed
+W0260,14,Perungudi,L1407,Perungudi Sector 7,12.968783,80.246639,Residential street,Medium,12,Road gradient,Active
+W0261,8,Anna Nagar,L0807,Anna Nagar Sector 7,13.07847,80.208251,Residential street,High,10,Canal proximity,Active
+W0262,12,Alandur,L1201,Alandur Sector 1,13.001583,80.197282,Bus route,Low,7,Road gradient,Mitigation completed
+W0263,2,Manali,L0205,Manali Sector 5,13.168946,80.276844,Residential street,Medium,2,Canal proximity,Mitigation completed
+W0264,11,Valasaravakkam,L1106,Valasaravakkam Sector 6,13.051262,80.163398,Residential street,High,7,Open drain,Active
+W0265,5,Royapuram,L0504,Royapuram Sector 4,13.119534,80.287769,Residential street,Medium,8,Storm-water drain,Mitigation completed
+W0266,4,Tondiarpet,L0406,Tondiarpet Sector 6,13.116085,80.285808,Bus route,High,11,Canal proximity,Active
+W0267,15,Sholinganallur,L1505,Sholinganallur Sector 5,12.901846,80.22682,Residential street,Medium,11,Road gradient,Needs inspection
+W0268,13,Adyar,L1303,Adyar Sector 3,13.011423,80.266531,Bus route,Low,5,Open drain,Mitigation completed
+W0269,8,Anna Nagar,L0803,Anna Nagar Sector 3,13.092288,80.202478,Underpass,Low,3,Canal proximity,Active
+W0270,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Residential street,Medium,4,Storm-water drain,Mitigation completed
+W0271,1,Tiruvottiyur,L0101,Tiruvottiyur Sector 1,13.156989,80.310817,Market road,Medium,6,Storm-water drain,Active
+W0272,14,Perungudi,L1401,Perungudi Sector 1,12.953121,80.236859,Low point,Medium,7,Open drain,Mitigation completed
+W0273,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Bus route,Low,8,Road gradient,Needs inspection
+W0274,13,Adyar,L1306,Adyar Sector 6,12.997879,80.266565,Low point,High,5,Storm-water drain,Mitigation completed
+W0275,14,Perungudi,L1402,Perungudi Sector 2,12.96617,80.249605,Low point,Medium,8,Open drain,Active
+W0276,13,Adyar,L1302,Adyar Sector 2,13.002137,80.253381,Bus route,Low,9,Open drain,Active
+W0277,11,Valasaravakkam,L1102,Valasaravakkam Sector 2,13.050205,80.175859,Underpass,Medium,3,Road gradient,Mitigation completed
+W0278,8,Anna Nagar,L0808,Anna Nagar Sector 8,13.092632,80.218658,Low point,Low,11,Road gradient,Needs inspection
+W0279,14,Perungudi,L1403,Perungudi Sector 3,12.968647,80.238382,Low point,Low,8,Canal proximity,Active
+W0280,4,Tondiarpet,L0408,Tondiarpet Sector 8,13.13489,80.286562,Market road,Medium,9,Storm-water drain,Active
+W0281,5,Royapuram,L0506,Royapuram Sector 6,13.117965,80.300496,Residential street,Medium,11,Storm-water drain,Active
+W0282,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Underpass,Low,7,Canal proximity,Needs inspection
+W0283,15,Sholinganallur,L1508,Sholinganallur Sector 8,12.903491,80.219251,Bus route,High,6,Open drain,Needs inspection
+W0284,3,Madhavaram,L0301,Madhavaram Sector 1,13.137561,80.241773,Bus route,Low,2,Road gradient,Needs inspection
+W0285,7,Ambattur,L0703,Ambattur Sector 3,13.102754,80.157274,Residential street,Low,7,Open drain,Mitigation completed
+W0286,15,Sholinganallur,L1503,Sholinganallur Sector 3,12.909409,80.230147,Bus route,Low,11,Road gradient,Needs inspection
+W0287,7,Ambattur,L0705,Ambattur Sector 5,13.123782,80.147983,Market road,Medium,1,Road gradient,Mitigation completed
+W0288,10,Kodambakkam,L1003,Kodambakkam Sector 3,13.041235,80.219688,Residential street,Medium,11,Storm-water drain,Mitigation completed
+W0289,10,Kodambakkam,L1008,Kodambakkam Sector 8,13.045703,80.230477,Market road,High,7,Storm-water drain,Needs inspection
+W0290,2,Manali,L0201,Manali Sector 1,13.165302,80.270594,Bus route,Medium,7,Storm-water drain,Mitigation completed
+W0291,9,Teynampet,L0905,Teynampet Sector 5,13.041451,80.254872,Underpass,Low,9,Road gradient,Mitigation completed
+W0292,6,Thiru-Vi-Ka Nagar,L0603,Thiru-Vi-Ka Nagar Sector 3,13.103464,80.230804,Low point,Low,9,Road gradient,Active
+W0293,14,Perungudi,L1405,Perungudi Sector 5,12.96081,80.250916,Residential street,High,2,Open drain,Needs inspection
+W0294,5,Royapuram,L0506,Royapuram Sector 6,13.117965,80.300496,Low point,Low,11,Open drain,Needs inspection
+W0295,5,Royapuram,L0501,Royapuram Sector 1,13.107742,80.296025,Residential street,Medium,4,Storm-water drain,Needs inspection
+W0296,5,Royapuram,L0505,Royapuram Sector 5,13.101133,80.302571,Bus route,High,3,Canal proximity,Mitigation completed
+W0297,12,Alandur,L1204,Alandur Sector 4,13.007193,80.209056,Low point,Medium,9,Storm-water drain,Needs inspection
+W0298,8,Anna Nagar,L0802,Anna Nagar Sector 2,13.088202,80.218915,Underpass,High,7,Canal proximity,Active
+W0299,2,Manali,L0201,Manali Sector 1,13.165302,80.270594,Residential street,Low,8,Storm-water drain,Needs inspection
+W0300,2,Manali,L0206,Manali Sector 6,13.162792,80.270342,Bus route,Medium,10,Canal proximity,Needs inspection
+W0301,10,Kodambakkam,L1008,Kodambakkam Sector 8,13.045703,80.230477,Residential street,Medium,12,Canal proximity,Mitigation completed
+W0302,7,Ambattur,L0703,Ambattur Sector 3,13.102754,80.157274,Underpass,High,3,Canal proximity,Mitigation completed
+W0303,8,Anna Nagar,L0803,Anna Nagar Sector 3,13.092288,80.202478,Bus route,High,2,Storm-water drain,Needs inspection
+W0304,8,Anna Nagar,L0801,Anna Nagar Sector 1,13.095313,80.217395,Underpass,High,6,Open drain,Mitigation completed
+W0305,14,Perungudi,L1407,Perungudi Sector 7,12.968783,80.246639,Low point,Low,6,Road gradient,Active
+W0306,9,Teynampet,L0903,Teynampet Sector 3,13.031877,80.246103,Low point,Medium,5,Road gradient,Needs inspection
+W0307,5,Royapuram,L0508,Royapuram Sector 8,13.109603,80.285781,Low point,Low,3,Canal proximity,Active
+W0308,15,Sholinganallur,L1505,Sholinganallur Sector 5,12.901846,80.22682,Market road,Low,3,Canal proximity,Active
+W0309,2,Manali,L0206,Manali Sector 6,13.162792,80.270342,Low point,Low,7,Canal proximity,Mitigation completed
+W0310,5,Royapuram,L0508,Royapuram Sector 8,13.109603,80.285781,Market road,Medium,8,Storm-water drain,Active
+W0311,9,Teynampet,L0908,Teynampet Sector 8,13.040934,80.245221,Residential street,High,8,Storm-water drain,Mitigation completed
+W0312,6,Thiru-Vi-Ka Nagar,L0602,Thiru-Vi-Ka Nagar Sector 2,13.103942,80.224525,Bus route,High,10,Canal proximity,Needs inspection
+W0313,4,Tondiarpet,L0407,Tondiarpet Sector 7,13.124328,80.284512,Market road,High,1,Canal proximity,Mitigation completed
+W0314,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Underpass,High,1,Road gradient,Mitigation completed
+W0315,11,Valasaravakkam,L1102,Valasaravakkam Sector 2,13.050205,80.175859,Bus route,Low,4,Open drain,Mitigation completed
+W0316,9,Teynampet,L0904,Teynampet Sector 4,13.05163,80.245757,Residential street,High,1,Open drain,Mitigation completed
+W0317,15,Sholinganallur,L1503,Sholinganallur Sector 3,12.909409,80.230147,Low point,Medium,4,Storm-water drain,Mitigation completed
+W0318,14,Perungudi,L1408,Perungudi Sector 8,12.955248,80.241825,Low point,High,10,Road gradient,Needs inspection
+W0319,10,Kodambakkam,L1001,Kodambakkam Sector 1,13.046836,80.213885,Residential street,Low,6,Canal proximity,Active
+W0320,7,Ambattur,L0701,Ambattur Sector 1,13.114546,80.152261,Bus route,Medium,7,Road gradient,Active
