@@ -1,0 +1,1001 @@
+flood_event_id,event_date,zone_id,zone_name,location_id,location_name,latitude,longitude,flood_type,severity,estimated_affected_people,event_rainfall_mm,source
+F00001,2021-06-15,1,Tiruvottiyur,L0105,Tiruvottiyur Sector 5,13.162427,80.304994,Residential flooding,Moderate,76,20.0,synthetic_incident
+F00002,2020-12-27,10,Kodambakkam,L1002,Kodambakkam Sector 2,13.05463,80.225064,Canal overflow,Low,20,62.0,synthetic_incident
+F00003,2020-12-09,4,Tondiarpet,L0401,Tondiarpet Sector 1,13.128121,80.282437,Residential flooding,Severe,117,135.0,synthetic_incident
+F00004,2024-08-03,9,Teynampet,L0901,Teynampet Sector 1,13.029167,80.250258,Residential flooding,Severe,179,62.0,synthetic_incident
+F00005,2022-10-20,3,Madhavaram,L0306,Madhavaram Sector 6,13.136825,80.240824,Street flooding,Low,199,85.0,synthetic_incident
+F00006,2020-12-16,5,Royapuram,L0506,Royapuram Sector 6,13.117965,80.300496,Subway flooding,Low,378,85.0,synthetic_incident
+F00007,2024-08-24,8,Anna Nagar,L0807,Anna Nagar Sector 7,13.07847,80.208251,Street flooding,High,429,20.0,synthetic_incident
+F00008,2025-12-14,14,Perungudi,L1406,Perungudi Sector 6,12.968591,80.253381,Residential flooding,Low,28,48.0,synthetic_incident
+F00009,2022-07-09,12,Alandur,L1202,Alandur Sector 2,13.007482,80.191301,Residential flooding,Low,199,110.0,synthetic_incident
+F00010,2022-10-20,6,Thiru-Vi-Ka Nagar,L0606,Thiru-Vi-Ka Nagar Sector 6,13.09887,80.240118,Residential flooding,High,186,62.0,synthetic_incident
+F00011,2022-06-02,10,Kodambakkam,L1002,Kodambakkam Sector 2,13.05463,80.225064,Residential flooding,Moderate,88,135.0,synthetic_incident
+F00012,2024-08-30,6,Thiru-Vi-Ka Nagar,L0604,Thiru-Vi-Ka Nagar Sector 4,13.113511,80.238301,Subway flooding,Low,122,110.0,synthetic_incident
+F00013,2020-08-05,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Subway flooding,Low,113,48.0,synthetic_incident
+F00014,2025-08-31,14,Perungudi,L1406,Perungudi Sector 6,12.968591,80.253381,Residential flooding,Severe,207,48.0,synthetic_incident
+F00015,2024-08-23,3,Madhavaram,L0303,Madhavaram Sector 3,13.143311,80.221344,Residential flooding,High,387,48.0,synthetic_incident
+F00016,2025-10-06,6,Thiru-Vi-Ka Nagar,L0607,Thiru-Vi-Ka Nagar Sector 7,13.114259,80.236471,Subway flooding,Moderate,75,62.0,synthetic_incident
+F00017,2024-12-05,7,Ambattur,L0701,Ambattur Sector 1,13.114546,80.152261,Street flooding,Moderate,326,110.0,synthetic_incident
+F00018,2021-09-22,12,Alandur,L1207,Alandur Sector 7,12.997712,80.193804,Street flooding,Severe,200,62.0,synthetic_incident
+F00019,2025-10-29,15,Sholinganallur,L1505,Sholinganallur Sector 5,12.901846,80.22682,Street flooding,Low,354,85.0,synthetic_incident
+F00020,2025-06-30,11,Valasaravakkam,L1106,Valasaravakkam Sector 6,13.051262,80.163398,Street flooding,High,227,62.0,synthetic_incident
+F00021,2021-09-18,6,Thiru-Vi-Ka Nagar,L0605,Thiru-Vi-Ka Nagar Sector 5,13.117293,80.234333,Residential flooding,Low,450,48.0,synthetic_incident
+F00022,2025-12-28,5,Royapuram,L0504,Royapuram Sector 4,13.119534,80.287769,Residential flooding,High,395,62.0,synthetic_incident
+F00023,2021-09-25,8,Anna Nagar,L0801,Anna Nagar Sector 1,13.095313,80.217395,Subway flooding,Severe,14,62.0,synthetic_incident
+F00024,2021-06-16,14,Perungudi,L1405,Perungudi Sector 5,12.96081,80.250916,Residential flooding,Low,128,135.0,synthetic_incident
+F00025,2025-08-31,15,Sholinganallur,L1502,Sholinganallur Sector 2,12.911352,80.224434,Canal overflow,Low,394,62.0,synthetic_incident
+F00026,2025-06-21,12,Alandur,L1203,Alandur Sector 3,12.993186,80.190723,Canal overflow,Moderate,140,20.0,synthetic_incident
+F00027,2025-06-11,14,Perungudi,L1407,Perungudi Sector 7,12.968783,80.246639,Residential flooding,Moderate,370,62.0,synthetic_incident
+F00028,2022-12-28,6,Thiru-Vi-Ka Nagar,L0606,Thiru-Vi-Ka Nagar Sector 6,13.09887,80.240118,Canal overflow,Severe,66,62.0,synthetic_incident
+F00029,2022-08-19,4,Tondiarpet,L0406,Tondiarpet Sector 6,13.116085,80.285808,Street flooding,Moderate,306,62.0,synthetic_incident
+F00030,2022-06-24,1,Tiruvottiyur,L0101,Tiruvottiyur Sector 1,13.156989,80.310817,Residential flooding,Low,21,48.0,synthetic_incident
+F00031,2023-07-05,1,Tiruvottiyur,L0104,Tiruvottiyur Sector 4,13.149394,80.308788,Subway flooding,Severe,114,48.0,synthetic_incident
+F00032,2025-07-05,2,Manali,L0208,Manali Sector 8,13.172581,80.262093,Residential flooding,Severe,418,35.0,synthetic_incident
+F00033,2023-12-09,3,Madhavaram,L0302,Madhavaram Sector 2,13.159175,80.238402,Canal overflow,High,221,35.0,synthetic_incident
+F00034,2023-12-17,6,Thiru-Vi-Ka Nagar,L0601,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959,Street flooding,Low,211,48.0,synthetic_incident
+F00035,2023-07-23,12,Alandur,L1202,Alandur Sector 2,13.007482,80.191301,Residential flooding,Moderate,102,85.0,synthetic_incident
+F00036,2025-06-29,6,Thiru-Vi-Ka Nagar,L0607,Thiru-Vi-Ka Nagar Sector 7,13.114259,80.236471,Residential flooding,High,241,62.0,synthetic_incident
+F00037,2022-08-23,14,Perungudi,L1402,Perungudi Sector 2,12.96617,80.249605,Canal overflow,Low,30,20.0,synthetic_incident
+F00038,2025-07-08,13,Adyar,L1302,Adyar Sector 2,13.002137,80.253381,Residential flooding,Moderate,213,110.0,synthetic_incident
+F00039,2024-10-17,7,Ambattur,L0707,Ambattur Sector 7,13.107491,80.143848,Street flooding,Moderate,199,48.0,synthetic_incident
+F00040,2020-06-05,15,Sholinganallur,L1505,Sholinganallur Sector 5,12.901846,80.22682,Canal overflow,High,221,85.0,synthetic_incident
+F00041,2025-08-08,10,Kodambakkam,L1008,Kodambakkam Sector 8,13.045703,80.230477,Residential flooding,Moderate,156,85.0,synthetic_incident
+F00042,2022-06-18,15,Sholinganallur,L1501,Sholinganallur Sector 1,12.894365,80.220856,Subway flooding,Low,30,62.0,synthetic_incident
+F00043,2025-10-05,7,Ambattur,L0703,Ambattur Sector 3,13.102754,80.157274,Street flooding,Low,440,85.0,synthetic_incident
+F00044,2021-11-14,1,Tiruvottiyur,L0102,Tiruvottiyur Sector 2,13.165568,80.302368,Residential flooding,Severe,66,62.0,synthetic_incident
+F00045,2025-09-05,4,Tondiarpet,L0401,Tondiarpet Sector 1,13.128121,80.282437,Street flooding,Severe,341,85.0,synthetic_incident
+F00046,2025-10-04,8,Anna Nagar,L0806,Anna Nagar Sector 6,13.080632,80.200641,Subway flooding,Moderate,347,85.0,synthetic_incident
+F00047,2023-06-02,4,Tondiarpet,L0407,Tondiarpet Sector 7,13.124328,80.284512,Residential flooding,High,239,35.0,synthetic_incident
+F00048,2023-06-06,14,Perungudi,L1402,Perungudi Sector 2,12.96617,80.249605,Street flooding,Severe,323,48.0,synthetic_incident
+F00049,2025-08-23,15,Sholinganallur,L1502,Sholinganallur Sector 2,12.911352,80.224434,Residential flooding,High,72,62.0,synthetic_incident
+F00050,2023-08-12,14,Perungudi,L1404,Perungudi Sector 4,12.970092,80.238694,Subway flooding,High,85,48.0,synthetic_incident
+F00051,2024-07-12,13,Adyar,L1305,Adyar Sector 5,13.009409,80.247019,Street flooding,High,344,48.0,synthetic_incident
+F00052,2020-12-30,15,Sholinganallur,L1503,Sholinganallur Sector 3,12.909409,80.230147,Subway flooding,Low,59,62.0,synthetic_incident
+F00053,2025-08-03,3,Madhavaram,L0305,Madhavaram Sector 5,13.138929,80.230884,Residential flooding,High,109,62.0,synthetic_incident
+F00054,2022-09-21,7,Ambattur,L0705,Ambattur Sector 5,13.123782,80.147983,Street flooding,Low,329,110.0,synthetic_incident
+F00055,2024-06-12,13,Adyar,L1301,Adyar Sector 1,13.01561,80.260194,Street flooding,High,399,48.0,synthetic_incident
+F00056,2021-07-24,9,Teynampet,L0905,Teynampet Sector 5,13.041451,80.254872,Residential flooding,Severe,287,20.0,synthetic_incident
+F00057,2024-06-20,8,Anna Nagar,L0802,Anna Nagar Sector 2,13.088202,80.218915,Street flooding,Moderate,284,48.0,synthetic_incident
+F00058,2020-08-13,13,Adyar,L1303,Adyar Sector 3,13.011423,80.266531,Canal overflow,Moderate,26,85.0,synthetic_incident
+F00059,2022-12-21,5,Royapuram,L0501,Royapuram Sector 1,13.107742,80.296025,Subway flooding,Moderate,354,48.0,synthetic_incident
+F00060,2022-08-23,10,Kodambakkam,L1006,Kodambakkam Sector 6,13.063656,80.218809,Canal overflow,Moderate,126,35.0,synthetic_incident
+F00061,2021-09-27,15,Sholinganallur,L1503,Sholinganallur Sector 3,12.909409,80.230147,Canal overflow,Low,96,48.0,synthetic_incident
+F00062,2023-07-09,12,Alandur,L1207,Alandur Sector 7,12.997712,80.193804,Residential flooding,High,86,85.0,synthetic_incident
+F00063,2021-06-08,6,Thiru-Vi-Ka Nagar,L0601,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959,Canal overflow,Moderate,107,35.0,synthetic_incident
+F00064,2024-08-26,5,Royapuram,L0504,Royapuram Sector 4,13.119534,80.287769,Residential flooding,Low,342,85.0,synthetic_incident
+F00065,2021-11-29,6,Thiru-Vi-Ka Nagar,L0605,Thiru-Vi-Ka Nagar Sector 5,13.117293,80.234333,Street flooding,High,184,35.0,synthetic_incident
+F00066,2024-12-05,6,Thiru-Vi-Ka Nagar,L0606,Thiru-Vi-Ka Nagar Sector 6,13.09887,80.240118,Street flooding,Low,138,135.0,synthetic_incident
+F00067,2021-10-30,9,Teynampet,L0905,Teynampet Sector 5,13.041451,80.254872,Street flooding,Low,310,62.0,synthetic_incident
+F00068,2024-07-04,5,Royapuram,L0506,Royapuram Sector 6,13.117965,80.300496,Canal overflow,Low,202,48.0,synthetic_incident
+F00069,2025-09-19,3,Madhavaram,L0301,Madhavaram Sector 1,13.137561,80.241773,Canal overflow,Low,271,62.0,synthetic_incident
+F00070,2025-07-03,10,Kodambakkam,L1004,Kodambakkam Sector 4,13.061798,80.218749,Subway flooding,Severe,40,35.0,synthetic_incident
+F00071,2023-07-05,9,Teynampet,L0902,Teynampet Sector 2,13.039018,80.243331,Subway flooding,High,346,48.0,synthetic_incident
+F00072,2023-12-12,5,Royapuram,L0505,Royapuram Sector 5,13.101133,80.302571,Residential flooding,Moderate,220,62.0,synthetic_incident
+F00073,2023-10-13,10,Kodambakkam,L1003,Kodambakkam Sector 3,13.041235,80.219688,Subway flooding,Severe,285,20.0,synthetic_incident
+F00074,2020-06-01,5,Royapuram,L0504,Royapuram Sector 4,13.119534,80.287769,Canal overflow,High,243,48.0,synthetic_incident
+F00075,2024-07-19,6,Thiru-Vi-Ka Nagar,L0604,Thiru-Vi-Ka Nagar Sector 4,13.113511,80.238301,Canal overflow,Moderate,342,62.0,synthetic_incident
+F00076,2020-11-21,4,Tondiarpet,L0406,Tondiarpet Sector 6,13.116085,80.285808,Street flooding,Moderate,349,85.0,synthetic_incident
+F00077,2022-12-25,4,Tondiarpet,L0404,Tondiarpet Sector 4,13.12935,80.300125,Residential flooding,Low,28,48.0,synthetic_incident
+F00078,2022-08-13,15,Sholinganallur,L1502,Sholinganallur Sector 2,12.911352,80.224434,Canal overflow,Severe,327,85.0,synthetic_incident
+F00079,2025-09-17,3,Madhavaram,L0307,Madhavaram Sector 7,13.142211,80.234901,Canal overflow,Severe,129,48.0,synthetic_incident
+F00080,2021-08-28,10,Kodambakkam,L1001,Kodambakkam Sector 1,13.046836,80.213885,Street flooding,Severe,117,62.0,synthetic_incident
+F00081,2021-10-25,12,Alandur,L1208,Alandur Sector 8,12.987234,80.209533,Street flooding,Moderate,439,62.0,synthetic_incident
+F00082,2021-07-05,6,Thiru-Vi-Ka Nagar,L0608,Thiru-Vi-Ka Nagar Sector 8,13.114503,80.234851,Subway flooding,Severe,318,20.0,synthetic_incident
+F00083,2024-11-25,6,Thiru-Vi-Ka Nagar,L0608,Thiru-Vi-Ka Nagar Sector 8,13.114503,80.234851,Residential flooding,Severe,235,135.0,synthetic_incident
+F00084,2022-09-11,12,Alandur,L1205,Alandur Sector 5,12.991191,80.20384,Canal overflow,Moderate,145,85.0,synthetic_incident
+F00085,2024-07-15,1,Tiruvottiyur,L0105,Tiruvottiyur Sector 5,13.162427,80.304994,Residential flooding,High,176,62.0,synthetic_incident
+F00086,2023-06-13,14,Perungudi,L1402,Perungudi Sector 2,12.96617,80.249605,Residential flooding,Moderate,123,48.0,synthetic_incident
+F00087,2023-10-21,10,Kodambakkam,L1004,Kodambakkam Sector 4,13.061798,80.218749,Street flooding,Severe,213,110.0,synthetic_incident
+F00088,2023-07-06,8,Anna Nagar,L0807,Anna Nagar Sector 7,13.07847,80.208251,Street flooding,Moderate,431,85.0,synthetic_incident
+F00089,2024-06-05,6,Thiru-Vi-Ka Nagar,L0601,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959,Canal overflow,Severe,8,35.0,synthetic_incident
+F00090,2023-08-18,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Canal overflow,Moderate,254,62.0,synthetic_incident
+F00091,2022-06-22,4,Tondiarpet,L0408,Tondiarpet Sector 8,13.13489,80.286562,Street flooding,Severe,177,48.0,synthetic_incident
+F00092,2023-12-04,11,Valasaravakkam,L1108,Valasaravakkam Sector 8,13.050484,80.167185,Residential flooding,Low,206,85.0,synthetic_incident
+F00093,2025-10-21,8,Anna Nagar,L0801,Anna Nagar Sector 1,13.095313,80.217395,Street flooding,Severe,74,62.0,synthetic_incident
+F00094,2024-08-29,3,Madhavaram,L0305,Madhavaram Sector 5,13.138929,80.230884,Canal overflow,High,113,48.0,synthetic_incident
+F00095,2024-08-15,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Subway flooding,Severe,134,110.0,synthetic_incident
+F00096,2020-11-15,7,Ambattur,L0701,Ambattur Sector 1,13.114546,80.152261,Subway flooding,Moderate,337,110.0,synthetic_incident
+F00097,2020-10-19,12,Alandur,L1201,Alandur Sector 1,13.001583,80.197282,Street flooding,Moderate,107,110.0,synthetic_incident
+F00098,2020-07-12,9,Teynampet,L0904,Teynampet Sector 4,13.05163,80.245757,Residential flooding,Severe,347,35.0,synthetic_incident
+F00099,2021-06-21,8,Anna Nagar,L0804,Anna Nagar Sector 4,13.094421,80.210944,Canal overflow,High,397,85.0,synthetic_incident
+F00100,2023-09-22,3,Madhavaram,L0302,Madhavaram Sector 2,13.159175,80.238402,Residential flooding,High,60,35.0,synthetic_incident
+F00101,2025-09-24,1,Tiruvottiyur,L0105,Tiruvottiyur Sector 5,13.162427,80.304994,Canal overflow,Severe,371,35.0,synthetic_incident
+F00102,2021-12-10,1,Tiruvottiyur,L0104,Tiruvottiyur Sector 4,13.149394,80.308788,Street flooding,High,440,35.0,synthetic_incident
+F00103,2025-11-07,13,Adyar,L1301,Adyar Sector 1,13.01561,80.260194,Subway flooding,Severe,343,85.0,synthetic_incident
+F00104,2023-09-25,1,Tiruvottiyur,L0106,Tiruvottiyur Sector 6,13.148494,80.311278,Street flooding,Severe,426,48.0,synthetic_incident
+F00105,2024-10-26,2,Manali,L0206,Manali Sector 6,13.162792,80.270342,Canal overflow,Moderate,227,110.0,synthetic_incident
+F00106,2021-10-25,11,Valasaravakkam,L1105,Valasaravakkam Sector 5,13.035979,80.177181,Canal overflow,Severe,228,85.0,synthetic_incident
+F00107,2025-10-22,4,Tondiarpet,L0404,Tondiarpet Sector 4,13.12935,80.300125,Street flooding,High,235,85.0,synthetic_incident
+F00108,2022-08-11,11,Valasaravakkam,L1107,Valasaravakkam Sector 7,13.04729,80.168436,Subway flooding,Low,258,110.0,synthetic_incident
+F00109,2023-06-24,3,Madhavaram,L0304,Madhavaram Sector 4,13.152422,80.229564,Subway flooding,High,179,62.0,synthetic_incident
+F00110,2022-10-23,14,Perungudi,L1405,Perungudi Sector 5,12.96081,80.250916,Street flooding,Moderate,48,110.0,synthetic_incident
+F00111,2022-08-06,11,Valasaravakkam,L1108,Valasaravakkam Sector 8,13.050484,80.167185,Residential flooding,Severe,335,48.0,synthetic_incident
+F00112,2024-10-28,6,Thiru-Vi-Ka Nagar,L0601,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959,Street flooding,High,118,110.0,synthetic_incident
+F00113,2023-12-04,10,Kodambakkam,L1005,Kodambakkam Sector 5,13.043477,80.224747,Subway flooding,Severe,288,110.0,synthetic_incident
+F00114,2025-06-18,5,Royapuram,L0506,Royapuram Sector 6,13.117965,80.300496,Subway flooding,Severe,143,48.0,synthetic_incident
+F00115,2022-12-17,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Residential flooding,High,66,48.0,synthetic_incident
+F00116,2025-06-28,15,Sholinganallur,L1503,Sholinganallur Sector 3,12.909409,80.230147,Residential flooding,Moderate,383,48.0,synthetic_incident
+F00117,2024-10-14,4,Tondiarpet,L0405,Tondiarpet Sector 5,13.117124,80.282704,Street flooding,Moderate,156,62.0,synthetic_incident
+F00118,2022-07-08,5,Royapuram,L0505,Royapuram Sector 5,13.101133,80.302571,Street flooding,Moderate,145,85.0,synthetic_incident
+F00119,2020-09-02,15,Sholinganallur,L1505,Sholinganallur Sector 5,12.901846,80.22682,Residential flooding,Severe,57,62.0,synthetic_incident
+F00120,2020-06-26,8,Anna Nagar,L0808,Anna Nagar Sector 8,13.092632,80.218658,Canal overflow,Severe,179,62.0,synthetic_incident
+F00121,2021-11-11,15,Sholinganallur,L1505,Sholinganallur Sector 5,12.901846,80.22682,Canal overflow,Low,425,20.0,synthetic_incident
+F00122,2020-10-12,6,Thiru-Vi-Ka Nagar,L0602,Thiru-Vi-Ka Nagar Sector 2,13.103942,80.224525,Street flooding,Moderate,81,110.0,synthetic_incident
+F00123,2025-08-22,15,Sholinganallur,L1502,Sholinganallur Sector 2,12.911352,80.224434,Residential flooding,Low,290,35.0,synthetic_incident
+F00124,2023-12-28,9,Teynampet,L0904,Teynampet Sector 4,13.05163,80.245757,Canal overflow,Severe,231,85.0,synthetic_incident
+F00125,2022-11-28,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Subway flooding,Low,317,48.0,synthetic_incident
+F00126,2020-12-21,15,Sholinganallur,L1504,Sholinganallur Sector 4,12.907075,80.227063,Residential flooding,High,343,62.0,synthetic_incident
+F00127,2020-11-14,3,Madhavaram,L0303,Madhavaram Sector 3,13.143311,80.221344,Street flooding,Moderate,6,20.0,synthetic_incident
+F00128,2023-12-12,6,Thiru-Vi-Ka Nagar,L0608,Thiru-Vi-Ka Nagar Sector 8,13.114503,80.234851,Subway flooding,Low,123,110.0,synthetic_incident
+F00129,2022-11-10,11,Valasaravakkam,L1108,Valasaravakkam Sector 8,13.050484,80.167185,Street flooding,Moderate,140,135.0,synthetic_incident
+F00130,2025-12-28,9,Teynampet,L0904,Teynampet Sector 4,13.05163,80.245757,Canal overflow,Low,283,35.0,synthetic_incident
+F00131,2022-07-03,10,Kodambakkam,L1005,Kodambakkam Sector 5,13.043477,80.224747,Residential flooding,Low,35,35.0,synthetic_incident
+F00132,2021-10-04,12,Alandur,L1205,Alandur Sector 5,12.991191,80.20384,Canal overflow,Low,244,20.0,synthetic_incident
+F00133,2022-12-12,10,Kodambakkam,L1005,Kodambakkam Sector 5,13.043477,80.224747,Canal overflow,Severe,46,20.0,synthetic_incident
+F00134,2025-11-02,1,Tiruvottiyur,L0107,Tiruvottiyur Sector 7,13.167979,80.293096,Subway flooding,High,18,62.0,synthetic_incident
+F00135,2020-12-05,4,Tondiarpet,L0401,Tondiarpet Sector 1,13.128121,80.282437,Subway flooding,Low,395,35.0,synthetic_incident
+F00136,2021-10-23,7,Ambattur,L0708,Ambattur Sector 8,13.108954,80.145869,Subway flooding,Moderate,304,48.0,synthetic_incident
+F00137,2024-07-07,9,Teynampet,L0908,Teynampet Sector 8,13.040934,80.245221,Street flooding,Severe,183,62.0,synthetic_incident
+F00138,2023-12-12,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Residential flooding,High,215,62.0,synthetic_incident
+F00139,2024-11-06,4,Tondiarpet,L0407,Tondiarpet Sector 7,13.124328,80.284512,Street flooding,Severe,50,48.0,synthetic_incident
+F00140,2023-06-03,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Canal overflow,Low,341,135.0,synthetic_incident
+F00141,2025-07-12,6,Thiru-Vi-Ka Nagar,L0601,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959,Residential flooding,High,323,35.0,synthetic_incident
+F00142,2024-11-12,9,Teynampet,L0901,Teynampet Sector 1,13.029167,80.250258,Residential flooding,High,286,35.0,synthetic_incident
+F00143,2021-07-25,14,Perungudi,L1408,Perungudi Sector 8,12.955248,80.241825,Canal overflow,Low,19,62.0,synthetic_incident
+F00144,2025-11-24,12,Alandur,L1203,Alandur Sector 3,12.993186,80.190723,Subway flooding,Low,287,48.0,synthetic_incident
+F00145,2023-12-11,2,Manali,L0202,Manali Sector 2,13.168367,80.264989,Canal overflow,Low,336,110.0,synthetic_incident
+F00146,2021-09-10,7,Ambattur,L0705,Ambattur Sector 5,13.123782,80.147983,Subway flooding,Severe,432,35.0,synthetic_incident
+F00147,2024-10-11,15,Sholinganallur,L1504,Sholinganallur Sector 4,12.907075,80.227063,Canal overflow,Moderate,201,85.0,synthetic_incident
+F00148,2021-11-24,14,Perungudi,L1403,Perungudi Sector 3,12.968647,80.238382,Street flooding,High,400,35.0,synthetic_incident
+F00149,2023-12-25,5,Royapuram,L0505,Royapuram Sector 5,13.101133,80.302571,Street flooding,High,376,48.0,synthetic_incident
+F00150,2022-12-01,13,Adyar,L1308,Adyar Sector 8,12.996435,80.260924,Residential flooding,Severe,280,85.0,synthetic_incident
+F00151,2024-10-14,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Canal overflow,High,450,35.0,synthetic_incident
+F00152,2021-11-20,15,Sholinganallur,L1504,Sholinganallur Sector 4,12.907075,80.227063,Canal overflow,Moderate,443,110.0,synthetic_incident
+F00153,2023-12-17,1,Tiruvottiyur,L0108,Tiruvottiyur Sector 8,13.152364,80.292402,Canal overflow,Severe,344,48.0,synthetic_incident
+F00154,2021-09-06,7,Ambattur,L0701,Ambattur Sector 1,13.114546,80.152261,Residential flooding,High,450,48.0,synthetic_incident
+F00155,2020-12-23,14,Perungudi,L1408,Perungudi Sector 8,12.955248,80.241825,Street flooding,Severe,12,48.0,synthetic_incident
+F00156,2021-08-21,6,Thiru-Vi-Ka Nagar,L0603,Thiru-Vi-Ka Nagar Sector 3,13.103464,80.230804,Street flooding,Severe,405,110.0,synthetic_incident
+F00157,2022-09-23,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Street flooding,High,441,85.0,synthetic_incident
+F00158,2025-06-23,6,Thiru-Vi-Ka Nagar,L0606,Thiru-Vi-Ka Nagar Sector 6,13.09887,80.240118,Canal overflow,Low,321,20.0,synthetic_incident
+F00159,2020-10-19,4,Tondiarpet,L0405,Tondiarpet Sector 5,13.117124,80.282704,Residential flooding,Low,227,110.0,synthetic_incident
+F00160,2020-12-19,12,Alandur,L1202,Alandur Sector 2,13.007482,80.191301,Canal overflow,Moderate,360,110.0,synthetic_incident
+F00161,2022-12-03,14,Perungudi,L1401,Perungudi Sector 1,12.953121,80.236859,Subway flooding,Low,155,62.0,synthetic_incident
+F00162,2023-09-01,5,Royapuram,L0503,Royapuram Sector 3,13.102789,80.306685,Residential flooding,Severe,294,48.0,synthetic_incident
+F00163,2021-11-02,3,Madhavaram,L0302,Madhavaram Sector 2,13.159175,80.238402,Canal overflow,Moderate,259,35.0,synthetic_incident
+F00164,2025-10-03,3,Madhavaram,L0308,Madhavaram Sector 8,13.143481,80.231482,Subway flooding,Severe,135,48.0,synthetic_incident
+F00165,2020-06-20,14,Perungudi,L1408,Perungudi Sector 8,12.955248,80.241825,Subway flooding,Moderate,42,110.0,synthetic_incident
+F00166,2024-07-19,15,Sholinganallur,L1505,Sholinganallur Sector 5,12.901846,80.22682,Canal overflow,High,238,35.0,synthetic_incident
+F00167,2022-12-08,3,Madhavaram,L0307,Madhavaram Sector 7,13.142211,80.234901,Canal overflow,Low,126,35.0,synthetic_incident
+F00168,2023-10-18,8,Anna Nagar,L0805,Anna Nagar Sector 5,13.092379,80.219506,Subway flooding,Low,429,48.0,synthetic_incident
+F00169,2023-11-16,4,Tondiarpet,L0401,Tondiarpet Sector 1,13.128121,80.282437,Canal overflow,High,402,48.0,synthetic_incident
+F00170,2022-07-14,9,Teynampet,L0906,Teynampet Sector 6,13.037727,80.261323,Residential flooding,Moderate,322,85.0,synthetic_incident
+F00171,2022-08-25,10,Kodambakkam,L1003,Kodambakkam Sector 3,13.041235,80.219688,Street flooding,Low,163,48.0,synthetic_incident
+F00172,2024-07-17,1,Tiruvottiyur,L0106,Tiruvottiyur Sector 6,13.148494,80.311278,Residential flooding,Low,156,35.0,synthetic_incident
+F00173,2023-06-28,11,Valasaravakkam,L1103,Valasaravakkam Sector 3,13.037167,80.183047,Residential flooding,Moderate,407,35.0,synthetic_incident
+F00174,2025-07-05,14,Perungudi,L1406,Perungudi Sector 6,12.968591,80.253381,Subway flooding,Moderate,136,62.0,synthetic_incident
+F00175,2024-10-09,15,Sholinganallur,L1505,Sholinganallur Sector 5,12.901846,80.22682,Subway flooding,Low,244,135.0,synthetic_incident
+F00176,2020-11-02,2,Manali,L0204,Manali Sector 4,13.165011,80.266793,Canal overflow,High,51,62.0,synthetic_incident
+F00177,2023-11-14,1,Tiruvottiyur,L0102,Tiruvottiyur Sector 2,13.165568,80.302368,Canal overflow,High,349,20.0,synthetic_incident
+F00178,2022-09-17,9,Teynampet,L0906,Teynampet Sector 6,13.037727,80.261323,Street flooding,Moderate,246,48.0,synthetic_incident
+F00179,2020-07-22,9,Teynampet,L0906,Teynampet Sector 6,13.037727,80.261323,Residential flooding,Low,330,48.0,synthetic_incident
+F00180,2024-09-03,14,Perungudi,L1405,Perungudi Sector 5,12.96081,80.250916,Canal overflow,Low,76,62.0,synthetic_incident
+F00181,2020-09-01,15,Sholinganallur,L1505,Sholinganallur Sector 5,12.901846,80.22682,Canal overflow,Low,54,110.0,synthetic_incident
+F00182,2022-07-23,14,Perungudi,L1403,Perungudi Sector 3,12.968647,80.238382,Canal overflow,Severe,194,135.0,synthetic_incident
+F00183,2025-07-07,6,Thiru-Vi-Ka Nagar,L0603,Thiru-Vi-Ka Nagar Sector 3,13.103464,80.230804,Canal overflow,Low,431,48.0,synthetic_incident
+F00184,2024-10-25,9,Teynampet,L0905,Teynampet Sector 5,13.041451,80.254872,Street flooding,High,116,110.0,synthetic_incident
+F00185,2024-07-23,6,Thiru-Vi-Ka Nagar,L0604,Thiru-Vi-Ka Nagar Sector 4,13.113511,80.238301,Subway flooding,Low,356,35.0,synthetic_incident
+F00186,2023-09-19,8,Anna Nagar,L0806,Anna Nagar Sector 6,13.080632,80.200641,Street flooding,Severe,146,62.0,synthetic_incident
+F00187,2021-11-22,15,Sholinganallur,L1508,Sholinganallur Sector 8,12.903491,80.219251,Street flooding,Moderate,333,48.0,synthetic_incident
+F00188,2025-10-31,15,Sholinganallur,L1501,Sholinganallur Sector 1,12.894365,80.220856,Subway flooding,Moderate,69,35.0,synthetic_incident
+F00189,2025-08-26,3,Madhavaram,L0304,Madhavaram Sector 4,13.152422,80.229564,Residential flooding,Moderate,173,35.0,synthetic_incident
+F00190,2021-08-28,12,Alandur,L1201,Alandur Sector 1,13.001583,80.197282,Subway flooding,Moderate,71,48.0,synthetic_incident
+F00191,2025-07-07,4,Tondiarpet,L0403,Tondiarpet Sector 3,13.137548,80.299476,Street flooding,Low,72,85.0,synthetic_incident
+F00192,2020-07-01,5,Royapuram,L0504,Royapuram Sector 4,13.119534,80.287769,Subway flooding,Low,94,135.0,synthetic_incident
+F00193,2022-09-24,1,Tiruvottiyur,L0107,Tiruvottiyur Sector 7,13.167979,80.293096,Street flooding,Low,248,20.0,synthetic_incident
+F00194,2024-08-02,12,Alandur,L1202,Alandur Sector 2,13.007482,80.191301,Canal overflow,Moderate,319,85.0,synthetic_incident
+F00195,2020-08-28,11,Valasaravakkam,L1105,Valasaravakkam Sector 5,13.035979,80.177181,Canal overflow,Low,36,62.0,synthetic_incident
+F00196,2024-10-03,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Street flooding,Severe,369,35.0,synthetic_incident
+F00197,2024-07-23,1,Tiruvottiyur,L0102,Tiruvottiyur Sector 2,13.165568,80.302368,Subway flooding,Moderate,38,48.0,synthetic_incident
+F00198,2021-07-15,4,Tondiarpet,L0406,Tondiarpet Sector 6,13.116085,80.285808,Canal overflow,High,237,62.0,synthetic_incident
+F00199,2024-11-27,9,Teynampet,L0902,Teynampet Sector 2,13.039018,80.243331,Street flooding,Moderate,225,85.0,synthetic_incident
+F00200,2024-08-08,14,Perungudi,L1407,Perungudi Sector 7,12.968783,80.246639,Subway flooding,Severe,209,48.0,synthetic_incident
+F00201,2023-12-27,11,Valasaravakkam,L1106,Valasaravakkam Sector 6,13.051262,80.163398,Canal overflow,High,345,85.0,synthetic_incident
+F00202,2022-09-03,5,Royapuram,L0503,Royapuram Sector 3,13.102789,80.306685,Canal overflow,Low,51,48.0,synthetic_incident
+F00203,2020-11-22,2,Manali,L0202,Manali Sector 2,13.168367,80.264989,Subway flooding,Moderate,289,110.0,synthetic_incident
+F00204,2020-10-01,9,Teynampet,L0906,Teynampet Sector 6,13.037727,80.261323,Street flooding,Severe,186,48.0,synthetic_incident
+F00205,2024-06-11,14,Perungudi,L1401,Perungudi Sector 1,12.953121,80.236859,Subway flooding,High,185,110.0,synthetic_incident
+F00206,2020-12-30,8,Anna Nagar,L0804,Anna Nagar Sector 4,13.094421,80.210944,Residential flooding,Severe,119,48.0,synthetic_incident
+F00207,2021-06-08,5,Royapuram,L0506,Royapuram Sector 6,13.117965,80.300496,Street flooding,High,298,62.0,synthetic_incident
+F00208,2022-07-06,13,Adyar,L1301,Adyar Sector 1,13.01561,80.260194,Subway flooding,Low,97,85.0,synthetic_incident
+F00209,2022-10-10,10,Kodambakkam,L1005,Kodambakkam Sector 5,13.043477,80.224747,Subway flooding,High,8,35.0,synthetic_incident
+F00210,2021-11-05,14,Perungudi,L1407,Perungudi Sector 7,12.968783,80.246639,Street flooding,Moderate,384,35.0,synthetic_incident
+F00211,2020-08-02,2,Manali,L0204,Manali Sector 4,13.165011,80.266793,Canal overflow,Severe,237,135.0,synthetic_incident
+F00212,2023-07-27,3,Madhavaram,L0305,Madhavaram Sector 5,13.138929,80.230884,Subway flooding,Low,31,35.0,synthetic_incident
+F00213,2021-09-13,3,Madhavaram,L0301,Madhavaram Sector 1,13.137561,80.241773,Street flooding,High,231,110.0,synthetic_incident
+F00214,2024-06-13,7,Ambattur,L0708,Ambattur Sector 8,13.108954,80.145869,Canal overflow,High,115,62.0,synthetic_incident
+F00215,2024-12-11,2,Manali,L0207,Manali Sector 7,13.172218,80.259115,Street flooding,High,352,35.0,synthetic_incident
+F00216,2025-10-23,7,Ambattur,L0705,Ambattur Sector 5,13.123782,80.147983,Street flooding,Moderate,207,62.0,synthetic_incident
+F00217,2025-11-05,1,Tiruvottiyur,L0104,Tiruvottiyur Sector 4,13.149394,80.308788,Subway flooding,Moderate,397,62.0,synthetic_incident
+F00218,2021-08-07,12,Alandur,L1205,Alandur Sector 5,12.991191,80.20384,Subway flooding,Low,8,35.0,synthetic_incident
+F00219,2024-11-10,11,Valasaravakkam,L1103,Valasaravakkam Sector 3,13.037167,80.183047,Residential flooding,Severe,277,85.0,synthetic_incident
+F00220,2022-07-14,7,Ambattur,L0706,Ambattur Sector 6,13.111849,80.160133,Street flooding,Severe,446,35.0,synthetic_incident
+F00221,2020-08-26,6,Thiru-Vi-Ka Nagar,L0608,Thiru-Vi-Ka Nagar Sector 8,13.114503,80.234851,Street flooding,High,299,35.0,synthetic_incident
+F00222,2024-06-24,8,Anna Nagar,L0807,Anna Nagar Sector 7,13.07847,80.208251,Subway flooding,Low,212,62.0,synthetic_incident
+F00223,2020-07-13,15,Sholinganallur,L1503,Sholinganallur Sector 3,12.909409,80.230147,Canal overflow,High,50,110.0,synthetic_incident
+F00224,2024-07-09,13,Adyar,L1304,Adyar Sector 4,13.01529,80.263717,Canal overflow,Severe,273,62.0,synthetic_incident
+F00225,2020-11-09,6,Thiru-Vi-Ka Nagar,L0605,Thiru-Vi-Ka Nagar Sector 5,13.117293,80.234333,Subway flooding,Moderate,175,20.0,synthetic_incident
+F00226,2021-10-09,1,Tiruvottiyur,L0102,Tiruvottiyur Sector 2,13.165568,80.302368,Residential flooding,High,184,62.0,synthetic_incident
+F00227,2021-08-28,4,Tondiarpet,L0403,Tondiarpet Sector 3,13.137548,80.299476,Subway flooding,Moderate,93,85.0,synthetic_incident
+F00228,2025-11-11,3,Madhavaram,L0302,Madhavaram Sector 2,13.159175,80.238402,Residential flooding,Severe,242,48.0,synthetic_incident
+F00229,2025-08-24,12,Alandur,L1208,Alandur Sector 8,12.987234,80.209533,Subway flooding,High,82,85.0,synthetic_incident
+F00230,2024-07-15,1,Tiruvottiyur,L0108,Tiruvottiyur Sector 8,13.152364,80.292402,Subway flooding,High,307,48.0,synthetic_incident
+F00231,2020-09-24,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Subway flooding,Severe,236,135.0,synthetic_incident
+F00232,2020-08-17,1,Tiruvottiyur,L0105,Tiruvottiyur Sector 5,13.162427,80.304994,Street flooding,Low,319,62.0,synthetic_incident
+F00233,2025-10-25,7,Ambattur,L0708,Ambattur Sector 8,13.108954,80.145869,Street flooding,Severe,419,110.0,synthetic_incident
+F00234,2025-09-09,10,Kodambakkam,L1006,Kodambakkam Sector 6,13.063656,80.218809,Canal overflow,Moderate,36,48.0,synthetic_incident
+F00235,2024-08-06,2,Manali,L0206,Manali Sector 6,13.162792,80.270342,Street flooding,Moderate,25,85.0,synthetic_incident
+F00236,2022-08-19,11,Valasaravakkam,L1108,Valasaravakkam Sector 8,13.050484,80.167185,Residential flooding,High,195,48.0,synthetic_incident
+F00237,2022-10-30,6,Thiru-Vi-Ka Nagar,L0606,Thiru-Vi-Ka Nagar Sector 6,13.09887,80.240118,Street flooding,High,38,48.0,synthetic_incident
+F00238,2023-07-04,2,Manali,L0207,Manali Sector 7,13.172218,80.259115,Subway flooding,High,375,35.0,synthetic_incident
+F00239,2025-11-12,14,Perungudi,L1406,Perungudi Sector 6,12.968591,80.253381,Street flooding,Moderate,184,85.0,synthetic_incident
+F00240,2022-12-25,15,Sholinganallur,L1507,Sholinganallur Sector 7,12.894739,80.215584,Residential flooding,Low,163,62.0,synthetic_incident
+F00241,2025-08-14,5,Royapuram,L0506,Royapuram Sector 6,13.117965,80.300496,Residential flooding,Low,335,48.0,synthetic_incident
+F00242,2024-06-12,7,Ambattur,L0701,Ambattur Sector 1,13.114546,80.152261,Subway flooding,High,97,20.0,synthetic_incident
+F00243,2022-06-11,5,Royapuram,L0508,Royapuram Sector 8,13.109603,80.285781,Residential flooding,Moderate,75,85.0,synthetic_incident
+F00244,2021-09-12,1,Tiruvottiyur,L0102,Tiruvottiyur Sector 2,13.165568,80.302368,Street flooding,High,397,85.0,synthetic_incident
+F00245,2025-12-13,2,Manali,L0207,Manali Sector 7,13.172218,80.259115,Residential flooding,Moderate,97,48.0,synthetic_incident
+F00246,2025-12-27,13,Adyar,L1303,Adyar Sector 3,13.011423,80.266531,Canal overflow,Low,215,85.0,synthetic_incident
+F00247,2023-09-13,10,Kodambakkam,L1004,Kodambakkam Sector 4,13.061798,80.218749,Canal overflow,High,390,110.0,synthetic_incident
+F00248,2024-08-03,4,Tondiarpet,L0404,Tondiarpet Sector 4,13.12935,80.300125,Subway flooding,Severe,432,48.0,synthetic_incident
+F00249,2021-12-01,5,Royapuram,L0508,Royapuram Sector 8,13.109603,80.285781,Canal overflow,High,403,85.0,synthetic_incident
+F00250,2023-10-19,7,Ambattur,L0707,Ambattur Sector 7,13.107491,80.143848,Residential flooding,Moderate,415,110.0,synthetic_incident
+F00251,2025-11-16,2,Manali,L0205,Manali Sector 5,13.168946,80.276844,Street flooding,Severe,195,62.0,synthetic_incident
+F00252,2025-08-05,14,Perungudi,L1402,Perungudi Sector 2,12.96617,80.249605,Subway flooding,Low,395,35.0,synthetic_incident
+F00253,2021-09-23,4,Tondiarpet,L0403,Tondiarpet Sector 3,13.137548,80.299476,Canal overflow,Low,118,20.0,synthetic_incident
+F00254,2024-08-07,14,Perungudi,L1401,Perungudi Sector 1,12.953121,80.236859,Canal overflow,Low,207,85.0,synthetic_incident
+F00255,2024-11-20,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Street flooding,High,119,62.0,synthetic_incident
+F00256,2020-07-28,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Subway flooding,Moderate,75,35.0,synthetic_incident
+F00257,2020-08-18,4,Tondiarpet,L0408,Tondiarpet Sector 8,13.13489,80.286562,Residential flooding,Severe,234,20.0,synthetic_incident
+F00258,2025-12-08,1,Tiruvottiyur,L0102,Tiruvottiyur Sector 2,13.165568,80.302368,Street flooding,High,115,62.0,synthetic_incident
+F00259,2021-09-01,8,Anna Nagar,L0807,Anna Nagar Sector 7,13.07847,80.208251,Street flooding,High,126,62.0,synthetic_incident
+F00260,2022-12-06,2,Manali,L0204,Manali Sector 4,13.165011,80.266793,Canal overflow,Severe,37,135.0,synthetic_incident
+F00261,2021-06-14,13,Adyar,L1308,Adyar Sector 8,12.996435,80.260924,Street flooding,Moderate,372,35.0,synthetic_incident
+F00262,2021-08-20,5,Royapuram,L0501,Royapuram Sector 1,13.107742,80.296025,Subway flooding,Moderate,297,35.0,synthetic_incident
+F00263,2023-12-29,3,Madhavaram,L0302,Madhavaram Sector 2,13.159175,80.238402,Subway flooding,Low,274,135.0,synthetic_incident
+F00264,2025-07-15,7,Ambattur,L0701,Ambattur Sector 1,13.114546,80.152261,Canal overflow,Severe,27,35.0,synthetic_incident
+F00265,2023-10-29,15,Sholinganallur,L1505,Sholinganallur Sector 5,12.901846,80.22682,Street flooding,High,408,110.0,synthetic_incident
+F00266,2020-10-17,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Subway flooding,Moderate,27,110.0,synthetic_incident
+F00267,2023-08-19,8,Anna Nagar,L0803,Anna Nagar Sector 3,13.092288,80.202478,Canal overflow,Severe,328,48.0,synthetic_incident
+F00268,2021-11-07,13,Adyar,L1302,Adyar Sector 2,13.002137,80.253381,Canal overflow,Low,155,48.0,synthetic_incident
+F00269,2021-12-16,1,Tiruvottiyur,L0104,Tiruvottiyur Sector 4,13.149394,80.308788,Street flooding,High,163,110.0,synthetic_incident
+F00270,2024-12-17,6,Thiru-Vi-Ka Nagar,L0608,Thiru-Vi-Ka Nagar Sector 8,13.114503,80.234851,Subway flooding,Low,390,85.0,synthetic_incident
+F00271,2021-11-25,4,Tondiarpet,L0401,Tondiarpet Sector 1,13.128121,80.282437,Subway flooding,High,68,110.0,synthetic_incident
+F00272,2023-09-20,6,Thiru-Vi-Ka Nagar,L0607,Thiru-Vi-Ka Nagar Sector 7,13.114259,80.236471,Canal overflow,Severe,178,110.0,synthetic_incident
+F00273,2021-11-16,7,Ambattur,L0708,Ambattur Sector 8,13.108954,80.145869,Subway flooding,High,415,62.0,synthetic_incident
+F00274,2020-11-17,11,Valasaravakkam,L1102,Valasaravakkam Sector 2,13.050205,80.175859,Canal overflow,Moderate,284,20.0,synthetic_incident
+F00275,2022-11-21,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Subway flooding,High,161,62.0,synthetic_incident
+F00276,2024-07-28,9,Teynampet,L0907,Teynampet Sector 7,13.052099,80.244043,Residential flooding,Severe,184,20.0,synthetic_incident
+F00277,2024-07-30,1,Tiruvottiyur,L0106,Tiruvottiyur Sector 6,13.148494,80.311278,Canal overflow,High,332,48.0,synthetic_incident
+F00278,2020-09-26,1,Tiruvottiyur,L0107,Tiruvottiyur Sector 7,13.167979,80.293096,Subway flooding,Moderate,20,35.0,synthetic_incident
+F00279,2021-08-18,13,Adyar,L1308,Adyar Sector 8,12.996435,80.260924,Street flooding,Moderate,39,62.0,synthetic_incident
+F00280,2022-07-26,12,Alandur,L1206,Alandur Sector 6,13.004613,80.201325,Subway flooding,Severe,295,35.0,synthetic_incident
+F00281,2020-08-06,9,Teynampet,L0908,Teynampet Sector 8,13.040934,80.245221,Subway flooding,High,232,62.0,synthetic_incident
+F00282,2020-11-05,8,Anna Nagar,L0806,Anna Nagar Sector 6,13.080632,80.200641,Canal overflow,High,337,20.0,synthetic_incident
+F00283,2022-10-21,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Street flooding,Moderate,260,48.0,synthetic_incident
+F00284,2024-12-22,6,Thiru-Vi-Ka Nagar,L0602,Thiru-Vi-Ka Nagar Sector 2,13.103942,80.224525,Subway flooding,High,365,48.0,synthetic_incident
+F00285,2024-07-28,4,Tondiarpet,L0405,Tondiarpet Sector 5,13.117124,80.282704,Canal overflow,Moderate,67,35.0,synthetic_incident
+F00286,2021-08-03,13,Adyar,L1308,Adyar Sector 8,12.996435,80.260924,Residential flooding,Severe,49,135.0,synthetic_incident
+F00287,2023-06-13,10,Kodambakkam,L1002,Kodambakkam Sector 2,13.05463,80.225064,Subway flooding,High,440,48.0,synthetic_incident
+F00288,2021-09-17,11,Valasaravakkam,L1103,Valasaravakkam Sector 3,13.037167,80.183047,Subway flooding,Moderate,67,62.0,synthetic_incident
+F00289,2021-12-15,12,Alandur,L1204,Alandur Sector 4,13.007193,80.209056,Canal overflow,Low,189,48.0,synthetic_incident
+F00290,2025-08-04,8,Anna Nagar,L0808,Anna Nagar Sector 8,13.092632,80.218658,Residential flooding,Low,38,85.0,synthetic_incident
+F00291,2022-12-23,6,Thiru-Vi-Ka Nagar,L0608,Thiru-Vi-Ka Nagar Sector 8,13.114503,80.234851,Canal overflow,Severe,426,85.0,synthetic_incident
+F00292,2025-09-16,1,Tiruvottiyur,L0106,Tiruvottiyur Sector 6,13.148494,80.311278,Street flooding,Severe,243,85.0,synthetic_incident
+F00293,2024-12-21,5,Royapuram,L0503,Royapuram Sector 3,13.102789,80.306685,Residential flooding,Severe,262,35.0,synthetic_incident
+F00294,2020-09-22,13,Adyar,L1303,Adyar Sector 3,13.011423,80.266531,Subway flooding,Moderate,87,48.0,synthetic_incident
+F00295,2023-06-19,14,Perungudi,L1404,Perungudi Sector 4,12.970092,80.238694,Subway flooding,High,438,35.0,synthetic_incident
+F00296,2020-11-09,4,Tondiarpet,L0405,Tondiarpet Sector 5,13.117124,80.282704,Residential flooding,High,319,85.0,synthetic_incident
+F00297,2025-06-23,2,Manali,L0203,Manali Sector 3,13.172684,80.261348,Residential flooding,Moderate,342,85.0,synthetic_incident
+F00298,2025-12-26,11,Valasaravakkam,L1106,Valasaravakkam Sector 6,13.051262,80.163398,Street flooding,Low,46,135.0,synthetic_incident
+F00299,2020-09-02,15,Sholinganallur,L1505,Sholinganallur Sector 5,12.901846,80.22682,Residential flooding,Severe,321,110.0,synthetic_incident
+F00300,2020-08-02,7,Ambattur,L0705,Ambattur Sector 5,13.123782,80.147983,Subway flooding,Severe,130,110.0,synthetic_incident
+F00301,2023-12-07,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Street flooding,Moderate,230,62.0,synthetic_incident
+F00302,2023-12-27,7,Ambattur,L0704,Ambattur Sector 4,13.109545,80.154206,Subway flooding,Moderate,165,35.0,synthetic_incident
+F00303,2023-06-12,11,Valasaravakkam,L1106,Valasaravakkam Sector 6,13.051262,80.163398,Canal overflow,Moderate,394,110.0,synthetic_incident
+F00304,2023-09-25,7,Ambattur,L0702,Ambattur Sector 2,13.10261,80.144589,Subway flooding,Moderate,243,110.0,synthetic_incident
+F00305,2021-07-07,4,Tondiarpet,L0404,Tondiarpet Sector 4,13.12935,80.300125,Residential flooding,Low,30,62.0,synthetic_incident
+F00306,2022-11-14,15,Sholinganallur,L1507,Sholinganallur Sector 7,12.894739,80.215584,Residential flooding,Moderate,421,62.0,synthetic_incident
+F00307,2023-06-29,14,Perungudi,L1406,Perungudi Sector 6,12.968591,80.253381,Residential flooding,Moderate,260,35.0,synthetic_incident
+F00308,2024-12-16,6,Thiru-Vi-Ka Nagar,L0605,Thiru-Vi-Ka Nagar Sector 5,13.117293,80.234333,Canal overflow,Low,51,48.0,synthetic_incident
+F00309,2023-11-11,7,Ambattur,L0704,Ambattur Sector 4,13.109545,80.154206,Residential flooding,High,29,85.0,synthetic_incident
+F00310,2020-09-12,4,Tondiarpet,L0408,Tondiarpet Sector 8,13.13489,80.286562,Subway flooding,Low,438,135.0,synthetic_incident
+F00311,2021-06-07,6,Thiru-Vi-Ka Nagar,L0605,Thiru-Vi-Ka Nagar Sector 5,13.117293,80.234333,Subway flooding,Severe,192,62.0,synthetic_incident
+F00312,2020-09-01,6,Thiru-Vi-Ka Nagar,L0604,Thiru-Vi-Ka Nagar Sector 4,13.113511,80.238301,Subway flooding,High,42,48.0,synthetic_incident
+F00313,2023-10-28,7,Ambattur,L0705,Ambattur Sector 5,13.123782,80.147983,Street flooding,Moderate,54,85.0,synthetic_incident
+F00314,2023-11-12,5,Royapuram,L0506,Royapuram Sector 6,13.117965,80.300496,Subway flooding,Moderate,106,110.0,synthetic_incident
+F00315,2025-11-11,7,Ambattur,L0701,Ambattur Sector 1,13.114546,80.152261,Street flooding,Low,75,85.0,synthetic_incident
+F00316,2023-07-11,12,Alandur,L1208,Alandur Sector 8,12.987234,80.209533,Residential flooding,Moderate,172,62.0,synthetic_incident
+F00317,2025-12-03,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Subway flooding,High,264,110.0,synthetic_incident
+F00318,2024-12-05,8,Anna Nagar,L0805,Anna Nagar Sector 5,13.092379,80.219506,Canal overflow,Low,193,85.0,synthetic_incident
+F00319,2023-07-07,10,Kodambakkam,L1007,Kodambakkam Sector 7,13.056131,80.231279,Subway flooding,Low,310,20.0,synthetic_incident
+F00320,2024-09-24,4,Tondiarpet,L0404,Tondiarpet Sector 4,13.12935,80.300125,Street flooding,Severe,92,135.0,synthetic_incident
+F00321,2025-06-04,9,Teynampet,L0907,Teynampet Sector 7,13.052099,80.244043,Residential flooding,Moderate,21,85.0,synthetic_incident
+F00322,2025-09-11,15,Sholinganallur,L1502,Sholinganallur Sector 2,12.911352,80.224434,Residential flooding,Low,230,62.0,synthetic_incident
+F00323,2023-06-01,6,Thiru-Vi-Ka Nagar,L0607,Thiru-Vi-Ka Nagar Sector 7,13.114259,80.236471,Residential flooding,Severe,261,20.0,synthetic_incident
+F00324,2025-11-30,14,Perungudi,L1401,Perungudi Sector 1,12.953121,80.236859,Residential flooding,Moderate,292,20.0,synthetic_incident
+F00325,2023-06-24,15,Sholinganallur,L1508,Sholinganallur Sector 8,12.903491,80.219251,Canal overflow,High,93,135.0,synthetic_incident
+F00326,2024-08-25,14,Perungudi,L1406,Perungudi Sector 6,12.968591,80.253381,Subway flooding,High,317,85.0,synthetic_incident
+F00327,2024-10-14,3,Madhavaram,L0304,Madhavaram Sector 4,13.152422,80.229564,Subway flooding,High,120,35.0,synthetic_incident
+F00328,2022-11-29,12,Alandur,L1204,Alandur Sector 4,13.007193,80.209056,Canal overflow,High,250,85.0,synthetic_incident
+F00329,2023-08-12,8,Anna Nagar,L0805,Anna Nagar Sector 5,13.092379,80.219506,Subway flooding,Low,298,35.0,synthetic_incident
+F00330,2025-07-13,6,Thiru-Vi-Ka Nagar,L0607,Thiru-Vi-Ka Nagar Sector 7,13.114259,80.236471,Subway flooding,Moderate,153,48.0,synthetic_incident
+F00331,2020-08-26,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Subway flooding,Severe,340,62.0,synthetic_incident
+F00332,2022-09-06,11,Valasaravakkam,L1104,Valasaravakkam Sector 4,13.042699,80.167476,Residential flooding,High,292,110.0,synthetic_incident
+F00333,2022-10-07,2,Manali,L0204,Manali Sector 4,13.165011,80.266793,Residential flooding,Low,347,20.0,synthetic_incident
+F00334,2025-06-18,4,Tondiarpet,L0404,Tondiarpet Sector 4,13.12935,80.300125,Street flooding,Low,216,35.0,synthetic_incident
+F00335,2023-07-05,11,Valasaravakkam,L1102,Valasaravakkam Sector 2,13.050205,80.175859,Residential flooding,Low,286,85.0,synthetic_incident
+F00336,2021-09-18,6,Thiru-Vi-Ka Nagar,L0608,Thiru-Vi-Ka Nagar Sector 8,13.114503,80.234851,Canal overflow,Moderate,392,135.0,synthetic_incident
+F00337,2022-11-08,5,Royapuram,L0501,Royapuram Sector 1,13.107742,80.296025,Street flooding,Moderate,278,85.0,synthetic_incident
+F00338,2020-08-16,14,Perungudi,L1403,Perungudi Sector 3,12.968647,80.238382,Canal overflow,Moderate,23,85.0,synthetic_incident
+F00339,2023-11-19,12,Alandur,L1203,Alandur Sector 3,12.993186,80.190723,Subway flooding,Low,9,62.0,synthetic_incident
+F00340,2022-12-01,8,Anna Nagar,L0802,Anna Nagar Sector 2,13.088202,80.218915,Subway flooding,High,237,48.0,synthetic_incident
+F00341,2025-07-13,8,Anna Nagar,L0803,Anna Nagar Sector 3,13.092288,80.202478,Canal overflow,High,103,35.0,synthetic_incident
+F00342,2021-06-17,5,Royapuram,L0508,Royapuram Sector 8,13.109603,80.285781,Subway flooding,Moderate,12,35.0,synthetic_incident
+F00343,2023-07-19,12,Alandur,L1204,Alandur Sector 4,13.007193,80.209056,Residential flooding,Severe,428,62.0,synthetic_incident
+F00344,2024-06-20,7,Ambattur,L0702,Ambattur Sector 2,13.10261,80.144589,Canal overflow,Low,99,135.0,synthetic_incident
+F00345,2021-08-13,7,Ambattur,L0704,Ambattur Sector 4,13.109545,80.154206,Street flooding,High,201,62.0,synthetic_incident
+F00346,2022-07-25,6,Thiru-Vi-Ka Nagar,L0605,Thiru-Vi-Ka Nagar Sector 5,13.117293,80.234333,Subway flooding,High,303,110.0,synthetic_incident
+F00347,2025-09-12,1,Tiruvottiyur,L0106,Tiruvottiyur Sector 6,13.148494,80.311278,Residential flooding,Low,346,48.0,synthetic_incident
+F00348,2021-06-29,6,Thiru-Vi-Ka Nagar,L0603,Thiru-Vi-Ka Nagar Sector 3,13.103464,80.230804,Canal overflow,High,358,48.0,synthetic_incident
+F00349,2021-06-27,9,Teynampet,L0905,Teynampet Sector 5,13.041451,80.254872,Subway flooding,Moderate,117,85.0,synthetic_incident
+F00350,2021-07-30,7,Ambattur,L0708,Ambattur Sector 8,13.108954,80.145869,Subway flooding,Severe,364,20.0,synthetic_incident
+F00351,2025-07-25,14,Perungudi,L1404,Perungudi Sector 4,12.970092,80.238694,Residential flooding,Low,274,48.0,synthetic_incident
+F00352,2024-07-29,8,Anna Nagar,L0806,Anna Nagar Sector 6,13.080632,80.200641,Street flooding,Low,36,62.0,synthetic_incident
+F00353,2025-07-22,14,Perungudi,L1404,Perungudi Sector 4,12.970092,80.238694,Residential flooding,Moderate,172,85.0,synthetic_incident
+F00354,2024-12-27,6,Thiru-Vi-Ka Nagar,L0604,Thiru-Vi-Ka Nagar Sector 4,13.113511,80.238301,Canal overflow,Low,266,62.0,synthetic_incident
+F00355,2024-07-27,13,Adyar,L1308,Adyar Sector 8,12.996435,80.260924,Residential flooding,Severe,238,110.0,synthetic_incident
+F00356,2025-08-24,1,Tiruvottiyur,L0108,Tiruvottiyur Sector 8,13.152364,80.292402,Subway flooding,Low,207,62.0,synthetic_incident
+F00357,2022-09-02,13,Adyar,L1304,Adyar Sector 4,13.01529,80.263717,Street flooding,Low,221,85.0,synthetic_incident
+F00358,2023-08-03,10,Kodambakkam,L1001,Kodambakkam Sector 1,13.046836,80.213885,Street flooding,Severe,21,48.0,synthetic_incident
+F00359,2022-11-07,6,Thiru-Vi-Ka Nagar,L0603,Thiru-Vi-Ka Nagar Sector 3,13.103464,80.230804,Canal overflow,High,200,48.0,synthetic_incident
+F00360,2024-08-02,14,Perungudi,L1407,Perungudi Sector 7,12.968783,80.246639,Canal overflow,Low,354,20.0,synthetic_incident
+F00361,2025-07-05,2,Manali,L0206,Manali Sector 6,13.162792,80.270342,Street flooding,Moderate,280,20.0,synthetic_incident
+F00362,2023-11-10,8,Anna Nagar,L0804,Anna Nagar Sector 4,13.094421,80.210944,Street flooding,Low,157,135.0,synthetic_incident
+F00363,2024-09-01,10,Kodambakkam,L1007,Kodambakkam Sector 7,13.056131,80.231279,Canal overflow,Moderate,131,62.0,synthetic_incident
+F00364,2024-08-27,5,Royapuram,L0505,Royapuram Sector 5,13.101133,80.302571,Residential flooding,Low,21,35.0,synthetic_incident
+F00365,2024-06-03,9,Teynampet,L0901,Teynampet Sector 1,13.029167,80.250258,Residential flooding,Moderate,39,48.0,synthetic_incident
+F00366,2020-12-24,9,Teynampet,L0908,Teynampet Sector 8,13.040934,80.245221,Street flooding,Moderate,384,85.0,synthetic_incident
+F00367,2020-08-30,6,Thiru-Vi-Ka Nagar,L0604,Thiru-Vi-Ka Nagar Sector 4,13.113511,80.238301,Residential flooding,Low,76,110.0,synthetic_incident
+F00368,2024-11-23,15,Sholinganallur,L1504,Sholinganallur Sector 4,12.907075,80.227063,Subway flooding,High,126,20.0,synthetic_incident
+F00369,2022-12-08,14,Perungudi,L1404,Perungudi Sector 4,12.970092,80.238694,Canal overflow,High,145,62.0,synthetic_incident
+F00370,2020-10-03,8,Anna Nagar,L0803,Anna Nagar Sector 3,13.092288,80.202478,Canal overflow,Severe,29,20.0,synthetic_incident
+F00371,2023-08-03,15,Sholinganallur,L1507,Sholinganallur Sector 7,12.894739,80.215584,Subway flooding,Severe,214,62.0,synthetic_incident
+F00372,2021-08-31,5,Royapuram,L0503,Royapuram Sector 3,13.102789,80.306685,Canal overflow,Moderate,439,85.0,synthetic_incident
+F00373,2022-07-04,5,Royapuram,L0503,Royapuram Sector 3,13.102789,80.306685,Canal overflow,Low,292,85.0,synthetic_incident
+F00374,2023-12-21,15,Sholinganallur,L1503,Sholinganallur Sector 3,12.909409,80.230147,Canal overflow,Moderate,135,48.0,synthetic_incident
+F00375,2021-12-20,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Canal overflow,High,52,48.0,synthetic_incident
+F00376,2025-06-27,11,Valasaravakkam,L1104,Valasaravakkam Sector 4,13.042699,80.167476,Street flooding,High,198,135.0,synthetic_incident
+F00377,2025-11-16,9,Teynampet,L0902,Teynampet Sector 2,13.039018,80.243331,Residential flooding,Moderate,250,35.0,synthetic_incident
+F00378,2021-12-31,14,Perungudi,L1406,Perungudi Sector 6,12.968591,80.253381,Subway flooding,Low,113,85.0,synthetic_incident
+F00379,2021-11-23,15,Sholinganallur,L1502,Sholinganallur Sector 2,12.911352,80.224434,Canal overflow,Moderate,361,85.0,synthetic_incident
+F00380,2025-11-15,10,Kodambakkam,L1007,Kodambakkam Sector 7,13.056131,80.231279,Residential flooding,High,402,85.0,synthetic_incident
+F00381,2022-10-30,6,Thiru-Vi-Ka Nagar,L0606,Thiru-Vi-Ka Nagar Sector 6,13.09887,80.240118,Subway flooding,High,189,85.0,synthetic_incident
+F00382,2024-12-12,14,Perungudi,L1408,Perungudi Sector 8,12.955248,80.241825,Street flooding,Severe,394,62.0,synthetic_incident
+F00383,2023-06-14,14,Perungudi,L1406,Perungudi Sector 6,12.968591,80.253381,Subway flooding,Severe,28,35.0,synthetic_incident
+F00384,2025-08-22,14,Perungudi,L1403,Perungudi Sector 3,12.968647,80.238382,Street flooding,High,288,62.0,synthetic_incident
+F00385,2025-10-05,8,Anna Nagar,L0807,Anna Nagar Sector 7,13.07847,80.208251,Subway flooding,Moderate,105,62.0,synthetic_incident
+F00386,2023-07-04,4,Tondiarpet,L0404,Tondiarpet Sector 4,13.12935,80.300125,Canal overflow,High,136,85.0,synthetic_incident
+F00387,2024-10-23,15,Sholinganallur,L1508,Sholinganallur Sector 8,12.903491,80.219251,Canal overflow,Moderate,380,110.0,synthetic_incident
+F00388,2023-08-19,3,Madhavaram,L0308,Madhavaram Sector 8,13.143481,80.231482,Residential flooding,Low,273,62.0,synthetic_incident
+F00389,2020-08-09,13,Adyar,L1302,Adyar Sector 2,13.002137,80.253381,Street flooding,Low,216,135.0,synthetic_incident
+F00390,2021-08-07,13,Adyar,L1304,Adyar Sector 4,13.01529,80.263717,Street flooding,Moderate,9,35.0,synthetic_incident
+F00391,2022-06-20,7,Ambattur,L0706,Ambattur Sector 6,13.111849,80.160133,Street flooding,Severe,342,48.0,synthetic_incident
+F00392,2024-10-22,1,Tiruvottiyur,L0107,Tiruvottiyur Sector 7,13.167979,80.293096,Street flooding,Low,276,35.0,synthetic_incident
+F00393,2022-10-13,8,Anna Nagar,L0805,Anna Nagar Sector 5,13.092379,80.219506,Street flooding,Severe,417,20.0,synthetic_incident
+F00394,2021-11-01,2,Manali,L0202,Manali Sector 2,13.168367,80.264989,Residential flooding,Moderate,103,62.0,synthetic_incident
+F00395,2025-12-17,8,Anna Nagar,L0806,Anna Nagar Sector 6,13.080632,80.200641,Subway flooding,Severe,45,85.0,synthetic_incident
+F00396,2023-10-01,15,Sholinganallur,L1508,Sholinganallur Sector 8,12.903491,80.219251,Residential flooding,Moderate,158,48.0,synthetic_incident
+F00397,2020-11-13,10,Kodambakkam,L1001,Kodambakkam Sector 1,13.046836,80.213885,Street flooding,Severe,199,62.0,synthetic_incident
+F00398,2023-10-09,8,Anna Nagar,L0801,Anna Nagar Sector 1,13.095313,80.217395,Street flooding,Moderate,47,62.0,synthetic_incident
+F00399,2024-11-15,13,Adyar,L1306,Adyar Sector 6,12.997879,80.266565,Street flooding,Low,122,20.0,synthetic_incident
+F00400,2022-06-05,14,Perungudi,L1408,Perungudi Sector 8,12.955248,80.241825,Subway flooding,Low,43,35.0,synthetic_incident
+F00401,2022-10-25,14,Perungudi,L1401,Perungudi Sector 1,12.953121,80.236859,Residential flooding,High,13,48.0,synthetic_incident
+F00402,2021-12-28,9,Teynampet,L0907,Teynampet Sector 7,13.052099,80.244043,Street flooding,High,88,85.0,synthetic_incident
+F00403,2025-08-24,4,Tondiarpet,L0407,Tondiarpet Sector 7,13.124328,80.284512,Subway flooding,Severe,391,110.0,synthetic_incident
+F00404,2021-08-12,12,Alandur,L1202,Alandur Sector 2,13.007482,80.191301,Subway flooding,Low,55,35.0,synthetic_incident
+F00405,2024-07-10,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Subway flooding,Severe,401,48.0,synthetic_incident
+F00406,2023-06-27,1,Tiruvottiyur,L0105,Tiruvottiyur Sector 5,13.162427,80.304994,Canal overflow,Severe,121,85.0,synthetic_incident
+F00407,2023-08-26,8,Anna Nagar,L0807,Anna Nagar Sector 7,13.07847,80.208251,Canal overflow,Moderate,353,135.0,synthetic_incident
+F00408,2025-10-08,10,Kodambakkam,L1002,Kodambakkam Sector 2,13.05463,80.225064,Subway flooding,Moderate,370,48.0,synthetic_incident
+F00409,2020-10-29,1,Tiruvottiyur,L0103,Tiruvottiyur Sector 3,13.151744,80.291744,Canal overflow,Moderate,383,48.0,synthetic_incident
+F00410,2023-11-03,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Street flooding,Low,162,48.0,synthetic_incident
+F00411,2024-07-25,5,Royapuram,L0505,Royapuram Sector 5,13.101133,80.302571,Street flooding,Moderate,49,35.0,synthetic_incident
+F00412,2021-11-17,6,Thiru-Vi-Ka Nagar,L0607,Thiru-Vi-Ka Nagar Sector 7,13.114259,80.236471,Street flooding,Low,50,62.0,synthetic_incident
+F00413,2023-08-22,8,Anna Nagar,L0806,Anna Nagar Sector 6,13.080632,80.200641,Canal overflow,Low,154,62.0,synthetic_incident
+F00414,2023-12-23,6,Thiru-Vi-Ka Nagar,L0602,Thiru-Vi-Ka Nagar Sector 2,13.103942,80.224525,Residential flooding,Moderate,355,35.0,synthetic_incident
+F00415,2023-10-16,3,Madhavaram,L0305,Madhavaram Sector 5,13.138929,80.230884,Subway flooding,High,257,48.0,synthetic_incident
+F00416,2021-08-24,1,Tiruvottiyur,L0107,Tiruvottiyur Sector 7,13.167979,80.293096,Subway flooding,Severe,158,35.0,synthetic_incident
+F00417,2024-10-14,12,Alandur,L1206,Alandur Sector 6,13.004613,80.201325,Subway flooding,Moderate,374,62.0,synthetic_incident
+F00418,2025-12-28,7,Ambattur,L0704,Ambattur Sector 4,13.109545,80.154206,Canal overflow,Low,74,85.0,synthetic_incident
+F00419,2022-12-13,1,Tiruvottiyur,L0107,Tiruvottiyur Sector 7,13.167979,80.293096,Subway flooding,Severe,416,48.0,synthetic_incident
+F00420,2023-07-03,6,Thiru-Vi-Ka Nagar,L0607,Thiru-Vi-Ka Nagar Sector 7,13.114259,80.236471,Residential flooding,High,169,85.0,synthetic_incident
+F00421,2025-11-13,15,Sholinganallur,L1504,Sholinganallur Sector 4,12.907075,80.227063,Canal overflow,High,95,110.0,synthetic_incident
+F00422,2023-11-21,15,Sholinganallur,L1505,Sholinganallur Sector 5,12.901846,80.22682,Canal overflow,Moderate,171,62.0,synthetic_incident
+F00423,2023-10-07,4,Tondiarpet,L0407,Tondiarpet Sector 7,13.124328,80.284512,Subway flooding,Low,293,110.0,synthetic_incident
+F00424,2021-12-13,9,Teynampet,L0903,Teynampet Sector 3,13.031877,80.246103,Street flooding,Severe,367,85.0,synthetic_incident
+F00425,2022-06-02,6,Thiru-Vi-Ka Nagar,L0605,Thiru-Vi-Ka Nagar Sector 5,13.117293,80.234333,Street flooding,Severe,349,35.0,synthetic_incident
+F00426,2024-11-14,2,Manali,L0205,Manali Sector 5,13.168946,80.276844,Residential flooding,High,342,48.0,synthetic_incident
+F00427,2021-09-10,11,Valasaravakkam,L1107,Valasaravakkam Sector 7,13.04729,80.168436,Street flooding,Severe,311,62.0,synthetic_incident
+F00428,2024-10-04,9,Teynampet,L0907,Teynampet Sector 7,13.052099,80.244043,Street flooding,High,364,48.0,synthetic_incident
+F00429,2025-06-30,9,Teynampet,L0902,Teynampet Sector 2,13.039018,80.243331,Street flooding,Moderate,341,20.0,synthetic_incident
+F00430,2023-08-25,3,Madhavaram,L0301,Madhavaram Sector 1,13.137561,80.241773,Canal overflow,High,412,48.0,synthetic_incident
+F00431,2024-06-26,2,Manali,L0202,Manali Sector 2,13.168367,80.264989,Subway flooding,Moderate,266,20.0,synthetic_incident
+F00432,2024-12-24,8,Anna Nagar,L0804,Anna Nagar Sector 4,13.094421,80.210944,Canal overflow,High,205,110.0,synthetic_incident
+F00433,2024-09-01,12,Alandur,L1203,Alandur Sector 3,12.993186,80.190723,Subway flooding,Low,252,85.0,synthetic_incident
+F00434,2021-06-01,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Street flooding,Moderate,183,20.0,synthetic_incident
+F00435,2022-12-28,5,Royapuram,L0504,Royapuram Sector 4,13.119534,80.287769,Canal overflow,High,248,20.0,synthetic_incident
+F00436,2020-12-17,6,Thiru-Vi-Ka Nagar,L0608,Thiru-Vi-Ka Nagar Sector 8,13.114503,80.234851,Subway flooding,Low,158,20.0,synthetic_incident
+F00437,2020-08-31,13,Adyar,L1302,Adyar Sector 2,13.002137,80.253381,Street flooding,High,336,85.0,synthetic_incident
+F00438,2021-06-10,10,Kodambakkam,L1003,Kodambakkam Sector 3,13.041235,80.219688,Residential flooding,Moderate,287,85.0,synthetic_incident
+F00439,2021-09-22,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Canal overflow,Moderate,413,85.0,synthetic_incident
+F00440,2023-12-05,9,Teynampet,L0903,Teynampet Sector 3,13.031877,80.246103,Canal overflow,Severe,19,35.0,synthetic_incident
+F00441,2025-12-05,14,Perungudi,L1408,Perungudi Sector 8,12.955248,80.241825,Canal overflow,Severe,7,135.0,synthetic_incident
+F00442,2022-06-12,3,Madhavaram,L0302,Madhavaram Sector 2,13.159175,80.238402,Street flooding,Moderate,192,110.0,synthetic_incident
+F00443,2023-06-26,3,Madhavaram,L0302,Madhavaram Sector 2,13.159175,80.238402,Subway flooding,Severe,275,85.0,synthetic_incident
+F00444,2022-12-31,9,Teynampet,L0907,Teynampet Sector 7,13.052099,80.244043,Street flooding,High,185,85.0,synthetic_incident
+F00445,2024-08-21,9,Teynampet,L0905,Teynampet Sector 5,13.041451,80.254872,Street flooding,Moderate,165,48.0,synthetic_incident
+F00446,2021-06-28,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Residential flooding,High,360,62.0,synthetic_incident
+F00447,2021-08-15,7,Ambattur,L0707,Ambattur Sector 7,13.107491,80.143848,Residential flooding,Severe,221,48.0,synthetic_incident
+F00448,2021-11-14,7,Ambattur,L0703,Ambattur Sector 3,13.102754,80.157274,Residential flooding,Severe,152,85.0,synthetic_incident
+F00449,2021-08-13,3,Madhavaram,L0308,Madhavaram Sector 8,13.143481,80.231482,Street flooding,High,9,48.0,synthetic_incident
+F00450,2024-10-15,2,Manali,L0207,Manali Sector 7,13.172218,80.259115,Canal overflow,Severe,355,135.0,synthetic_incident
+F00451,2024-10-30,6,Thiru-Vi-Ka Nagar,L0608,Thiru-Vi-Ka Nagar Sector 8,13.114503,80.234851,Canal overflow,Moderate,47,135.0,synthetic_incident
+F00452,2025-08-27,1,Tiruvottiyur,L0104,Tiruvottiyur Sector 4,13.149394,80.308788,Subway flooding,Low,145,48.0,synthetic_incident
+F00453,2022-07-03,8,Anna Nagar,L0803,Anna Nagar Sector 3,13.092288,80.202478,Canal overflow,Severe,286,110.0,synthetic_incident
+F00454,2024-12-08,2,Manali,L0202,Manali Sector 2,13.168367,80.264989,Subway flooding,High,282,35.0,synthetic_incident
+F00455,2020-08-25,12,Alandur,L1208,Alandur Sector 8,12.987234,80.209533,Residential flooding,Severe,57,48.0,synthetic_incident
+F00456,2022-08-18,5,Royapuram,L0501,Royapuram Sector 1,13.107742,80.296025,Canal overflow,High,183,48.0,synthetic_incident
+F00457,2020-11-26,6,Thiru-Vi-Ka Nagar,L0602,Thiru-Vi-Ka Nagar Sector 2,13.103942,80.224525,Residential flooding,Moderate,420,85.0,synthetic_incident
+F00458,2025-10-13,10,Kodambakkam,L1007,Kodambakkam Sector 7,13.056131,80.231279,Residential flooding,Moderate,406,110.0,synthetic_incident
+F00459,2021-12-27,13,Adyar,L1301,Adyar Sector 1,13.01561,80.260194,Subway flooding,High,310,48.0,synthetic_incident
+F00460,2025-07-04,3,Madhavaram,L0305,Madhavaram Sector 5,13.138929,80.230884,Subway flooding,High,444,62.0,synthetic_incident
+F00461,2024-12-15,15,Sholinganallur,L1502,Sholinganallur Sector 2,12.911352,80.224434,Residential flooding,Severe,35,48.0,synthetic_incident
+F00462,2022-10-18,14,Perungudi,L1403,Perungudi Sector 3,12.968647,80.238382,Residential flooding,Moderate,79,48.0,synthetic_incident
+F00463,2023-06-18,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Canal overflow,Moderate,300,62.0,synthetic_incident
+F00464,2022-10-01,9,Teynampet,L0907,Teynampet Sector 7,13.052099,80.244043,Canal overflow,Low,329,85.0,synthetic_incident
+F00465,2020-12-08,6,Thiru-Vi-Ka Nagar,L0605,Thiru-Vi-Ka Nagar Sector 5,13.117293,80.234333,Subway flooding,Severe,254,48.0,synthetic_incident
+F00466,2023-06-29,9,Teynampet,L0902,Teynampet Sector 2,13.039018,80.243331,Canal overflow,High,440,85.0,synthetic_incident
+F00467,2020-10-08,12,Alandur,L1207,Alandur Sector 7,12.997712,80.193804,Residential flooding,Severe,427,62.0,synthetic_incident
+F00468,2022-06-06,7,Ambattur,L0706,Ambattur Sector 6,13.111849,80.160133,Subway flooding,High,285,48.0,synthetic_incident
+F00469,2025-09-22,2,Manali,L0208,Manali Sector 8,13.172581,80.262093,Subway flooding,Low,28,48.0,synthetic_incident
+F00470,2020-12-21,9,Teynampet,L0908,Teynampet Sector 8,13.040934,80.245221,Street flooding,Low,444,135.0,synthetic_incident
+F00471,2021-09-18,6,Thiru-Vi-Ka Nagar,L0601,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959,Canal overflow,Moderate,357,62.0,synthetic_incident
+F00472,2021-07-27,14,Perungudi,L1405,Perungudi Sector 5,12.96081,80.250916,Residential flooding,High,52,62.0,synthetic_incident
+F00473,2023-09-05,4,Tondiarpet,L0406,Tondiarpet Sector 6,13.116085,80.285808,Residential flooding,Low,207,48.0,synthetic_incident
+F00474,2025-12-29,5,Royapuram,L0504,Royapuram Sector 4,13.119534,80.287769,Canal overflow,Low,365,62.0,synthetic_incident
+F00475,2020-12-12,1,Tiruvottiyur,L0108,Tiruvottiyur Sector 8,13.152364,80.292402,Street flooding,Moderate,308,35.0,synthetic_incident
+F00476,2022-07-06,7,Ambattur,L0708,Ambattur Sector 8,13.108954,80.145869,Street flooding,Low,361,62.0,synthetic_incident
+F00477,2023-08-01,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Residential flooding,Severe,41,110.0,synthetic_incident
+F00478,2022-07-11,6,Thiru-Vi-Ka Nagar,L0602,Thiru-Vi-Ka Nagar Sector 2,13.103942,80.224525,Street flooding,High,193,62.0,synthetic_incident
+F00479,2022-12-02,2,Manali,L0203,Manali Sector 3,13.172684,80.261348,Residential flooding,Low,276,110.0,synthetic_incident
+F00480,2025-08-23,1,Tiruvottiyur,L0103,Tiruvottiyur Sector 3,13.151744,80.291744,Canal overflow,High,374,20.0,synthetic_incident
+F00481,2022-06-09,9,Teynampet,L0903,Teynampet Sector 3,13.031877,80.246103,Canal overflow,Severe,445,35.0,synthetic_incident
+F00482,2022-06-17,2,Manali,L0202,Manali Sector 2,13.168367,80.264989,Residential flooding,Low,306,85.0,synthetic_incident
+F00483,2023-10-23,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Subway flooding,Moderate,131,85.0,synthetic_incident
+F00484,2022-10-18,9,Teynampet,L0904,Teynampet Sector 4,13.05163,80.245757,Subway flooding,Low,439,85.0,synthetic_incident
+F00485,2022-12-07,3,Madhavaram,L0304,Madhavaram Sector 4,13.152422,80.229564,Canal overflow,High,335,110.0,synthetic_incident
+F00486,2020-09-20,12,Alandur,L1204,Alandur Sector 4,13.007193,80.209056,Canal overflow,Severe,62,62.0,synthetic_incident
+F00487,2022-08-05,7,Ambattur,L0702,Ambattur Sector 2,13.10261,80.144589,Street flooding,High,167,85.0,synthetic_incident
+F00488,2021-07-27,6,Thiru-Vi-Ka Nagar,L0607,Thiru-Vi-Ka Nagar Sector 7,13.114259,80.236471,Subway flooding,Moderate,395,48.0,synthetic_incident
+F00489,2024-09-17,15,Sholinganallur,L1502,Sholinganallur Sector 2,12.911352,80.224434,Street flooding,Low,12,62.0,synthetic_incident
+F00490,2022-09-17,4,Tondiarpet,L0401,Tondiarpet Sector 1,13.128121,80.282437,Canal overflow,High,326,85.0,synthetic_incident
+F00491,2024-11-18,12,Alandur,L1207,Alandur Sector 7,12.997712,80.193804,Canal overflow,Low,332,85.0,synthetic_incident
+F00492,2025-06-29,8,Anna Nagar,L0803,Anna Nagar Sector 3,13.092288,80.202478,Subway flooding,Low,163,85.0,synthetic_incident
+F00493,2020-11-09,7,Ambattur,L0704,Ambattur Sector 4,13.109545,80.154206,Residential flooding,High,205,62.0,synthetic_incident
+F00494,2025-10-10,9,Teynampet,L0902,Teynampet Sector 2,13.039018,80.243331,Subway flooding,Severe,378,48.0,synthetic_incident
+F00495,2022-07-31,1,Tiruvottiyur,L0102,Tiruvottiyur Sector 2,13.165568,80.302368,Canal overflow,Low,237,48.0,synthetic_incident
+F00496,2025-12-01,9,Teynampet,L0905,Teynampet Sector 5,13.041451,80.254872,Residential flooding,Low,11,85.0,synthetic_incident
+F00497,2021-08-07,10,Kodambakkam,L1003,Kodambakkam Sector 3,13.041235,80.219688,Canal overflow,High,272,110.0,synthetic_incident
+F00498,2024-12-21,12,Alandur,L1205,Alandur Sector 5,12.991191,80.20384,Residential flooding,High,69,35.0,synthetic_incident
+F00499,2022-10-01,11,Valasaravakkam,L1102,Valasaravakkam Sector 2,13.050205,80.175859,Street flooding,High,418,48.0,synthetic_incident
+F00500,2024-06-24,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Subway flooding,Low,259,110.0,synthetic_incident
+F00501,2024-08-16,7,Ambattur,L0701,Ambattur Sector 1,13.114546,80.152261,Canal overflow,Moderate,193,20.0,synthetic_incident
+F00502,2021-09-17,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Street flooding,Moderate,384,48.0,synthetic_incident
+F00503,2024-12-04,1,Tiruvottiyur,L0101,Tiruvottiyur Sector 1,13.156989,80.310817,Residential flooding,Low,246,62.0,synthetic_incident
+F00504,2023-09-12,6,Thiru-Vi-Ka Nagar,L0603,Thiru-Vi-Ka Nagar Sector 3,13.103464,80.230804,Residential flooding,Low,288,35.0,synthetic_incident
+F00505,2024-06-03,4,Tondiarpet,L0404,Tondiarpet Sector 4,13.12935,80.300125,Canal overflow,High,143,85.0,synthetic_incident
+F00506,2020-11-07,8,Anna Nagar,L0802,Anna Nagar Sector 2,13.088202,80.218915,Street flooding,Moderate,119,48.0,synthetic_incident
+F00507,2024-12-18,15,Sholinganallur,L1507,Sholinganallur Sector 7,12.894739,80.215584,Street flooding,Severe,448,135.0,synthetic_incident
+F00508,2022-10-29,12,Alandur,L1205,Alandur Sector 5,12.991191,80.20384,Subway flooding,Low,288,20.0,synthetic_incident
+F00509,2024-08-19,1,Tiruvottiyur,L0104,Tiruvottiyur Sector 4,13.149394,80.308788,Subway flooding,High,383,110.0,synthetic_incident
+F00510,2025-12-23,4,Tondiarpet,L0406,Tondiarpet Sector 6,13.116085,80.285808,Canal overflow,Moderate,380,62.0,synthetic_incident
+F00511,2025-07-20,12,Alandur,L1204,Alandur Sector 4,13.007193,80.209056,Residential flooding,Low,214,62.0,synthetic_incident
+F00512,2020-07-19,4,Tondiarpet,L0406,Tondiarpet Sector 6,13.116085,80.285808,Street flooding,High,5,20.0,synthetic_incident
+F00513,2023-10-07,13,Adyar,L1305,Adyar Sector 5,13.009409,80.247019,Street flooding,Moderate,276,110.0,synthetic_incident
+F00514,2022-07-30,6,Thiru-Vi-Ka Nagar,L0601,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959,Residential flooding,High,52,110.0,synthetic_incident
+F00515,2020-08-29,14,Perungudi,L1407,Perungudi Sector 7,12.968783,80.246639,Subway flooding,Severe,387,62.0,synthetic_incident
+F00516,2020-11-21,9,Teynampet,L0903,Teynampet Sector 3,13.031877,80.246103,Canal overflow,Low,308,62.0,synthetic_incident
+F00517,2025-09-01,1,Tiruvottiyur,L0103,Tiruvottiyur Sector 3,13.151744,80.291744,Residential flooding,High,138,48.0,synthetic_incident
+F00518,2023-06-04,14,Perungudi,L1407,Perungudi Sector 7,12.968783,80.246639,Subway flooding,High,236,48.0,synthetic_incident
+F00519,2022-10-07,4,Tondiarpet,L0404,Tondiarpet Sector 4,13.12935,80.300125,Residential flooding,Low,84,62.0,synthetic_incident
+F00520,2021-06-03,3,Madhavaram,L0308,Madhavaram Sector 8,13.143481,80.231482,Subway flooding,Severe,66,20.0,synthetic_incident
+F00521,2025-06-28,5,Royapuram,L0504,Royapuram Sector 4,13.119534,80.287769,Canal overflow,High,242,20.0,synthetic_incident
+F00522,2022-09-23,13,Adyar,L1302,Adyar Sector 2,13.002137,80.253381,Residential flooding,High,428,110.0,synthetic_incident
+F00523,2025-11-13,1,Tiruvottiyur,L0106,Tiruvottiyur Sector 6,13.148494,80.311278,Residential flooding,Low,369,48.0,synthetic_incident
+F00524,2022-08-20,15,Sholinganallur,L1507,Sholinganallur Sector 7,12.894739,80.215584,Street flooding,High,138,135.0,synthetic_incident
+F00525,2021-10-21,1,Tiruvottiyur,L0107,Tiruvottiyur Sector 7,13.167979,80.293096,Canal overflow,Moderate,53,35.0,synthetic_incident
+F00526,2024-08-30,2,Manali,L0203,Manali Sector 3,13.172684,80.261348,Street flooding,Low,36,110.0,synthetic_incident
+F00527,2022-06-28,2,Manali,L0207,Manali Sector 7,13.172218,80.259115,Subway flooding,Low,303,85.0,synthetic_incident
+F00528,2025-10-09,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Street flooding,Low,106,48.0,synthetic_incident
+F00529,2024-07-23,13,Adyar,L1302,Adyar Sector 2,13.002137,80.253381,Subway flooding,Low,26,48.0,synthetic_incident
+F00530,2024-08-28,1,Tiruvottiyur,L0107,Tiruvottiyur Sector 7,13.167979,80.293096,Canal overflow,Severe,20,135.0,synthetic_incident
+F00531,2023-10-20,10,Kodambakkam,L1003,Kodambakkam Sector 3,13.041235,80.219688,Subway flooding,Moderate,100,48.0,synthetic_incident
+F00532,2022-10-14,4,Tondiarpet,L0403,Tondiarpet Sector 3,13.137548,80.299476,Street flooding,Moderate,336,62.0,synthetic_incident
+F00533,2022-11-24,7,Ambattur,L0708,Ambattur Sector 8,13.108954,80.145869,Street flooding,Low,148,135.0,synthetic_incident
+F00534,2023-10-21,2,Manali,L0204,Manali Sector 4,13.165011,80.266793,Residential flooding,Low,200,35.0,synthetic_incident
+F00535,2023-09-02,7,Ambattur,L0708,Ambattur Sector 8,13.108954,80.145869,Subway flooding,High,203,35.0,synthetic_incident
+F00536,2022-10-04,3,Madhavaram,L0306,Madhavaram Sector 6,13.136825,80.240824,Residential flooding,Low,420,35.0,synthetic_incident
+F00537,2022-10-26,1,Tiruvottiyur,L0108,Tiruvottiyur Sector 8,13.152364,80.292402,Subway flooding,Moderate,86,48.0,synthetic_incident
+F00538,2020-12-23,4,Tondiarpet,L0404,Tondiarpet Sector 4,13.12935,80.300125,Subway flooding,Low,396,85.0,synthetic_incident
+F00539,2022-06-22,8,Anna Nagar,L0807,Anna Nagar Sector 7,13.07847,80.208251,Subway flooding,Moderate,95,35.0,synthetic_incident
+F00540,2022-07-27,9,Teynampet,L0906,Teynampet Sector 6,13.037727,80.261323,Street flooding,High,295,20.0,synthetic_incident
+F00541,2025-08-24,3,Madhavaram,L0304,Madhavaram Sector 4,13.152422,80.229564,Canal overflow,High,94,85.0,synthetic_incident
+F00542,2024-10-27,1,Tiruvottiyur,L0101,Tiruvottiyur Sector 1,13.156989,80.310817,Residential flooding,Moderate,15,135.0,synthetic_incident
+F00543,2025-06-09,7,Ambattur,L0706,Ambattur Sector 6,13.111849,80.160133,Residential flooding,Moderate,179,62.0,synthetic_incident
+F00544,2021-10-28,14,Perungudi,L1406,Perungudi Sector 6,12.968591,80.253381,Street flooding,Low,80,48.0,synthetic_incident
+F00545,2025-10-10,11,Valasaravakkam,L1103,Valasaravakkam Sector 3,13.037167,80.183047,Street flooding,High,42,20.0,synthetic_incident
+F00546,2023-10-02,11,Valasaravakkam,L1107,Valasaravakkam Sector 7,13.04729,80.168436,Street flooding,High,159,62.0,synthetic_incident
+F00547,2023-06-19,2,Manali,L0203,Manali Sector 3,13.172684,80.261348,Canal overflow,Severe,337,48.0,synthetic_incident
+F00548,2023-06-08,3,Madhavaram,L0306,Madhavaram Sector 6,13.136825,80.240824,Residential flooding,Moderate,198,85.0,synthetic_incident
+F00549,2022-12-18,11,Valasaravakkam,L1105,Valasaravakkam Sector 5,13.035979,80.177181,Residential flooding,Moderate,378,135.0,synthetic_incident
+F00550,2020-06-04,15,Sholinganallur,L1507,Sholinganallur Sector 7,12.894739,80.215584,Street flooding,Moderate,313,20.0,synthetic_incident
+F00551,2023-06-10,14,Perungudi,L1404,Perungudi Sector 4,12.970092,80.238694,Street flooding,Severe,77,85.0,synthetic_incident
+F00552,2023-07-07,11,Valasaravakkam,L1104,Valasaravakkam Sector 4,13.042699,80.167476,Subway flooding,High,90,85.0,synthetic_incident
+F00553,2020-11-29,13,Adyar,L1306,Adyar Sector 6,12.997879,80.266565,Canal overflow,Low,140,62.0,synthetic_incident
+F00554,2022-06-02,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Subway flooding,High,407,85.0,synthetic_incident
+F00555,2021-06-08,11,Valasaravakkam,L1101,Valasaravakkam Sector 1,13.043827,80.178175,Canal overflow,Severe,380,48.0,synthetic_incident
+F00556,2024-06-04,15,Sholinganallur,L1507,Sholinganallur Sector 7,12.894739,80.215584,Canal overflow,Severe,184,35.0,synthetic_incident
+F00557,2025-07-19,5,Royapuram,L0508,Royapuram Sector 8,13.109603,80.285781,Residential flooding,Moderate,236,20.0,synthetic_incident
+F00558,2020-10-29,12,Alandur,L1201,Alandur Sector 1,13.001583,80.197282,Subway flooding,Low,168,48.0,synthetic_incident
+F00559,2022-09-15,15,Sholinganallur,L1502,Sholinganallur Sector 2,12.911352,80.224434,Subway flooding,Moderate,197,85.0,synthetic_incident
+F00560,2021-09-24,11,Valasaravakkam,L1102,Valasaravakkam Sector 2,13.050205,80.175859,Subway flooding,Severe,365,62.0,synthetic_incident
+F00561,2020-08-03,6,Thiru-Vi-Ka Nagar,L0603,Thiru-Vi-Ka Nagar Sector 3,13.103464,80.230804,Canal overflow,Moderate,32,35.0,synthetic_incident
+F00562,2020-12-25,5,Royapuram,L0504,Royapuram Sector 4,13.119534,80.287769,Canal overflow,High,343,48.0,synthetic_incident
+F00563,2022-10-27,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Street flooding,Severe,297,85.0,synthetic_incident
+F00564,2025-07-26,13,Adyar,L1303,Adyar Sector 3,13.011423,80.266531,Street flooding,High,6,110.0,synthetic_incident
+F00565,2024-06-20,2,Manali,L0208,Manali Sector 8,13.172581,80.262093,Residential flooding,Low,18,110.0,synthetic_incident
+F00566,2021-12-27,3,Madhavaram,L0305,Madhavaram Sector 5,13.138929,80.230884,Street flooding,Severe,437,85.0,synthetic_incident
+F00567,2021-06-23,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Canal overflow,Severe,343,35.0,synthetic_incident
+F00568,2022-09-23,2,Manali,L0207,Manali Sector 7,13.172218,80.259115,Residential flooding,High,200,110.0,synthetic_incident
+F00569,2023-09-23,3,Madhavaram,L0301,Madhavaram Sector 1,13.137561,80.241773,Subway flooding,Severe,243,110.0,synthetic_incident
+F00570,2022-09-20,4,Tondiarpet,L0405,Tondiarpet Sector 5,13.117124,80.282704,Street flooding,Moderate,390,110.0,synthetic_incident
+F00571,2020-12-16,2,Manali,L0206,Manali Sector 6,13.162792,80.270342,Canal overflow,Moderate,288,62.0,synthetic_incident
+F00572,2020-10-03,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Canal overflow,Moderate,248,110.0,synthetic_incident
+F00573,2022-12-02,1,Tiruvottiyur,L0101,Tiruvottiyur Sector 1,13.156989,80.310817,Residential flooding,Low,392,85.0,synthetic_incident
+F00574,2024-08-03,3,Madhavaram,L0303,Madhavaram Sector 3,13.143311,80.221344,Residential flooding,Moderate,69,62.0,synthetic_incident
+F00575,2020-08-27,6,Thiru-Vi-Ka Nagar,L0607,Thiru-Vi-Ka Nagar Sector 7,13.114259,80.236471,Residential flooding,Moderate,432,135.0,synthetic_incident
+F00576,2025-10-27,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Street flooding,Severe,289,48.0,synthetic_incident
+F00577,2023-11-19,8,Anna Nagar,L0805,Anna Nagar Sector 5,13.092379,80.219506,Canal overflow,Low,407,85.0,synthetic_incident
+F00578,2025-12-24,9,Teynampet,L0907,Teynampet Sector 7,13.052099,80.244043,Street flooding,Severe,81,20.0,synthetic_incident
+F00579,2021-08-29,8,Anna Nagar,L0802,Anna Nagar Sector 2,13.088202,80.218915,Street flooding,Low,407,62.0,synthetic_incident
+F00580,2022-11-05,14,Perungudi,L1406,Perungudi Sector 6,12.968591,80.253381,Canal overflow,High,201,110.0,synthetic_incident
+F00581,2024-10-17,8,Anna Nagar,L0808,Anna Nagar Sector 8,13.092632,80.218658,Street flooding,Moderate,146,48.0,synthetic_incident
+F00582,2023-12-01,3,Madhavaram,L0307,Madhavaram Sector 7,13.142211,80.234901,Street flooding,Severe,174,85.0,synthetic_incident
+F00583,2022-07-29,1,Tiruvottiyur,L0108,Tiruvottiyur Sector 8,13.152364,80.292402,Subway flooding,High,15,85.0,synthetic_incident
+F00584,2023-07-20,13,Adyar,L1305,Adyar Sector 5,13.009409,80.247019,Subway flooding,High,436,85.0,synthetic_incident
+F00585,2024-10-29,13,Adyar,L1302,Adyar Sector 2,13.002137,80.253381,Residential flooding,Moderate,158,110.0,synthetic_incident
+F00586,2024-07-22,12,Alandur,L1206,Alandur Sector 6,13.004613,80.201325,Subway flooding,Severe,314,62.0,synthetic_incident
+F00587,2020-11-30,3,Madhavaram,L0304,Madhavaram Sector 4,13.152422,80.229564,Canal overflow,Severe,393,35.0,synthetic_incident
+F00588,2024-12-19,14,Perungudi,L1401,Perungudi Sector 1,12.953121,80.236859,Residential flooding,Low,164,85.0,synthetic_incident
+F00589,2024-11-29,6,Thiru-Vi-Ka Nagar,L0601,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959,Residential flooding,Moderate,431,135.0,synthetic_incident
+F00590,2021-12-15,13,Adyar,L1304,Adyar Sector 4,13.01529,80.263717,Street flooding,Severe,30,85.0,synthetic_incident
+F00591,2023-09-05,11,Valasaravakkam,L1105,Valasaravakkam Sector 5,13.035979,80.177181,Subway flooding,Severe,263,110.0,synthetic_incident
+F00592,2023-11-18,9,Teynampet,L0902,Teynampet Sector 2,13.039018,80.243331,Street flooding,Moderate,195,110.0,synthetic_incident
+F00593,2024-10-24,9,Teynampet,L0903,Teynampet Sector 3,13.031877,80.246103,Canal overflow,High,181,20.0,synthetic_incident
+F00594,2021-09-29,13,Adyar,L1305,Adyar Sector 5,13.009409,80.247019,Street flooding,High,19,20.0,synthetic_incident
+F00595,2023-10-28,1,Tiruvottiyur,L0104,Tiruvottiyur Sector 4,13.149394,80.308788,Residential flooding,Moderate,351,62.0,synthetic_incident
+F00596,2021-12-27,4,Tondiarpet,L0407,Tondiarpet Sector 7,13.124328,80.284512,Street flooding,Low,247,110.0,synthetic_incident
+F00597,2021-07-27,10,Kodambakkam,L1001,Kodambakkam Sector 1,13.046836,80.213885,Residential flooding,High,316,48.0,synthetic_incident
+F00598,2022-12-15,11,Valasaravakkam,L1105,Valasaravakkam Sector 5,13.035979,80.177181,Canal overflow,Severe,441,110.0,synthetic_incident
+F00599,2023-08-12,6,Thiru-Vi-Ka Nagar,L0604,Thiru-Vi-Ka Nagar Sector 4,13.113511,80.238301,Canal overflow,High,351,48.0,synthetic_incident
+F00600,2024-12-28,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Street flooding,Low,266,62.0,synthetic_incident
+F00601,2023-10-03,8,Anna Nagar,L0805,Anna Nagar Sector 5,13.092379,80.219506,Subway flooding,Low,251,48.0,synthetic_incident
+F00602,2020-10-09,5,Royapuram,L0505,Royapuram Sector 5,13.101133,80.302571,Subway flooding,High,138,62.0,synthetic_incident
+F00603,2022-12-01,3,Madhavaram,L0304,Madhavaram Sector 4,13.152422,80.229564,Street flooding,Severe,343,62.0,synthetic_incident
+F00604,2023-06-13,10,Kodambakkam,L1001,Kodambakkam Sector 1,13.046836,80.213885,Canal overflow,High,137,62.0,synthetic_incident
+F00605,2024-06-02,6,Thiru-Vi-Ka Nagar,L0601,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959,Residential flooding,High,376,48.0,synthetic_incident
+F00606,2022-06-28,10,Kodambakkam,L1008,Kodambakkam Sector 8,13.045703,80.230477,Subway flooding,High,437,48.0,synthetic_incident
+F00607,2021-10-13,13,Adyar,L1303,Adyar Sector 3,13.011423,80.266531,Subway flooding,Low,246,62.0,synthetic_incident
+F00608,2021-07-19,11,Valasaravakkam,L1103,Valasaravakkam Sector 3,13.037167,80.183047,Subway flooding,Low,118,20.0,synthetic_incident
+F00609,2023-08-25,4,Tondiarpet,L0405,Tondiarpet Sector 5,13.117124,80.282704,Canal overflow,High,195,62.0,synthetic_incident
+F00610,2022-09-14,9,Teynampet,L0908,Teynampet Sector 8,13.040934,80.245221,Street flooding,Severe,32,20.0,synthetic_incident
+F00611,2025-10-04,9,Teynampet,L0902,Teynampet Sector 2,13.039018,80.243331,Canal overflow,Moderate,261,62.0,synthetic_incident
+F00612,2021-07-02,14,Perungudi,L1407,Perungudi Sector 7,12.968783,80.246639,Subway flooding,Severe,32,48.0,synthetic_incident
+F00613,2021-09-03,2,Manali,L0204,Manali Sector 4,13.165011,80.266793,Subway flooding,Severe,296,62.0,synthetic_incident
+F00614,2024-08-21,3,Madhavaram,L0303,Madhavaram Sector 3,13.143311,80.221344,Street flooding,Severe,175,110.0,synthetic_incident
+F00615,2021-10-27,5,Royapuram,L0501,Royapuram Sector 1,13.107742,80.296025,Street flooding,Severe,145,85.0,synthetic_incident
+F00616,2022-06-01,12,Alandur,L1203,Alandur Sector 3,12.993186,80.190723,Residential flooding,Severe,407,110.0,synthetic_incident
+F00617,2020-11-28,2,Manali,L0207,Manali Sector 7,13.172218,80.259115,Canal overflow,Severe,224,48.0,synthetic_incident
+F00618,2024-09-30,6,Thiru-Vi-Ka Nagar,L0601,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959,Residential flooding,High,12,48.0,synthetic_incident
+F00619,2023-06-18,12,Alandur,L1204,Alandur Sector 4,13.007193,80.209056,Street flooding,Low,325,48.0,synthetic_incident
+F00620,2022-08-21,4,Tondiarpet,L0406,Tondiarpet Sector 6,13.116085,80.285808,Subway flooding,Moderate,57,35.0,synthetic_incident
+F00621,2023-10-22,7,Ambattur,L0705,Ambattur Sector 5,13.123782,80.147983,Residential flooding,Low,426,85.0,synthetic_incident
+F00622,2020-09-02,5,Royapuram,L0505,Royapuram Sector 5,13.101133,80.302571,Canal overflow,High,227,85.0,synthetic_incident
+F00623,2021-07-31,5,Royapuram,L0508,Royapuram Sector 8,13.109603,80.285781,Subway flooding,Moderate,89,62.0,synthetic_incident
+F00624,2023-12-02,1,Tiruvottiyur,L0104,Tiruvottiyur Sector 4,13.149394,80.308788,Residential flooding,Moderate,380,35.0,synthetic_incident
+F00625,2020-07-15,9,Teynampet,L0903,Teynampet Sector 3,13.031877,80.246103,Street flooding,High,369,62.0,synthetic_incident
+F00626,2020-08-16,5,Royapuram,L0505,Royapuram Sector 5,13.101133,80.302571,Street flooding,Low,343,62.0,synthetic_incident
+F00627,2021-06-08,10,Kodambakkam,L1001,Kodambakkam Sector 1,13.046836,80.213885,Street flooding,Low,218,62.0,synthetic_incident
+F00628,2024-07-24,6,Thiru-Vi-Ka Nagar,L0605,Thiru-Vi-Ka Nagar Sector 5,13.117293,80.234333,Canal overflow,Moderate,110,62.0,synthetic_incident
+F00629,2020-06-20,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Subway flooding,Moderate,219,35.0,synthetic_incident
+F00630,2021-06-01,7,Ambattur,L0702,Ambattur Sector 2,13.10261,80.144589,Subway flooding,Low,406,62.0,synthetic_incident
+F00631,2021-06-04,7,Ambattur,L0704,Ambattur Sector 4,13.109545,80.154206,Subway flooding,Moderate,188,48.0,synthetic_incident
+F00632,2023-12-15,5,Royapuram,L0501,Royapuram Sector 1,13.107742,80.296025,Canal overflow,Moderate,357,48.0,synthetic_incident
+F00633,2024-10-07,5,Royapuram,L0501,Royapuram Sector 1,13.107742,80.296025,Street flooding,Low,61,85.0,synthetic_incident
+F00634,2025-09-14,10,Kodambakkam,L1003,Kodambakkam Sector 3,13.041235,80.219688,Street flooding,Low,375,85.0,synthetic_incident
+F00635,2020-12-25,14,Perungudi,L1404,Perungudi Sector 4,12.970092,80.238694,Canal overflow,High,140,135.0,synthetic_incident
+F00636,2024-09-03,1,Tiruvottiyur,L0103,Tiruvottiyur Sector 3,13.151744,80.291744,Street flooding,High,189,85.0,synthetic_incident
+F00637,2022-12-30,6,Thiru-Vi-Ka Nagar,L0602,Thiru-Vi-Ka Nagar Sector 2,13.103942,80.224525,Street flooding,Low,9,48.0,synthetic_incident
+F00638,2021-08-09,10,Kodambakkam,L1003,Kodambakkam Sector 3,13.041235,80.219688,Subway flooding,High,229,62.0,synthetic_incident
+F00639,2025-12-21,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Subway flooding,High,98,85.0,synthetic_incident
+F00640,2021-06-20,6,Thiru-Vi-Ka Nagar,L0608,Thiru-Vi-Ka Nagar Sector 8,13.114503,80.234851,Subway flooding,Severe,358,62.0,synthetic_incident
+F00641,2024-10-02,12,Alandur,L1203,Alandur Sector 3,12.993186,80.190723,Street flooding,Moderate,361,85.0,synthetic_incident
+F00642,2020-09-29,15,Sholinganallur,L1503,Sholinganallur Sector 3,12.909409,80.230147,Street flooding,Severe,307,110.0,synthetic_incident
+F00643,2024-10-11,12,Alandur,L1208,Alandur Sector 8,12.987234,80.209533,Residential flooding,Severe,403,85.0,synthetic_incident
+F00644,2023-09-01,9,Teynampet,L0903,Teynampet Sector 3,13.031877,80.246103,Canal overflow,Severe,62,35.0,synthetic_incident
+F00645,2023-12-18,6,Thiru-Vi-Ka Nagar,L0602,Thiru-Vi-Ka Nagar Sector 2,13.103942,80.224525,Subway flooding,High,11,48.0,synthetic_incident
+F00646,2025-06-05,12,Alandur,L1204,Alandur Sector 4,13.007193,80.209056,Subway flooding,Low,226,135.0,synthetic_incident
+F00647,2022-08-21,7,Ambattur,L0707,Ambattur Sector 7,13.107491,80.143848,Residential flooding,Low,10,48.0,synthetic_incident
+F00648,2021-09-16,7,Ambattur,L0708,Ambattur Sector 8,13.108954,80.145869,Canal overflow,Moderate,43,110.0,synthetic_incident
+F00649,2024-10-29,5,Royapuram,L0506,Royapuram Sector 6,13.117965,80.300496,Subway flooding,Low,264,35.0,synthetic_incident
+F00650,2022-06-29,8,Anna Nagar,L0807,Anna Nagar Sector 7,13.07847,80.208251,Canal overflow,Moderate,45,135.0,synthetic_incident
+F00651,2024-08-24,6,Thiru-Vi-Ka Nagar,L0608,Thiru-Vi-Ka Nagar Sector 8,13.114503,80.234851,Street flooding,Severe,233,35.0,synthetic_incident
+F00652,2023-06-06,2,Manali,L0208,Manali Sector 8,13.172581,80.262093,Street flooding,Low,211,135.0,synthetic_incident
+F00653,2023-12-20,1,Tiruvottiyur,L0101,Tiruvottiyur Sector 1,13.156989,80.310817,Street flooding,High,265,20.0,synthetic_incident
+F00654,2025-08-21,3,Madhavaram,L0308,Madhavaram Sector 8,13.143481,80.231482,Subway flooding,High,427,62.0,synthetic_incident
+F00655,2020-09-20,13,Adyar,L1308,Adyar Sector 8,12.996435,80.260924,Subway flooding,Severe,371,35.0,synthetic_incident
+F00656,2023-09-11,11,Valasaravakkam,L1102,Valasaravakkam Sector 2,13.050205,80.175859,Street flooding,Moderate,6,85.0,synthetic_incident
+F00657,2023-07-28,5,Royapuram,L0505,Royapuram Sector 5,13.101133,80.302571,Subway flooding,Low,28,110.0,synthetic_incident
+F00658,2021-10-01,7,Ambattur,L0707,Ambattur Sector 7,13.107491,80.143848,Street flooding,High,317,48.0,synthetic_incident
+F00659,2021-12-05,3,Madhavaram,L0307,Madhavaram Sector 7,13.142211,80.234901,Residential flooding,Severe,427,62.0,synthetic_incident
+F00660,2021-11-24,11,Valasaravakkam,L1102,Valasaravakkam Sector 2,13.050205,80.175859,Canal overflow,Low,329,20.0,synthetic_incident
+F00661,2025-10-14,2,Manali,L0208,Manali Sector 8,13.172581,80.262093,Canal overflow,Moderate,260,62.0,synthetic_incident
+F00662,2020-06-09,8,Anna Nagar,L0801,Anna Nagar Sector 1,13.095313,80.217395,Canal overflow,Severe,265,62.0,synthetic_incident
+F00663,2021-10-27,10,Kodambakkam,L1003,Kodambakkam Sector 3,13.041235,80.219688,Residential flooding,Low,203,62.0,synthetic_incident
+F00664,2025-11-07,9,Teynampet,L0906,Teynampet Sector 6,13.037727,80.261323,Canal overflow,Severe,316,110.0,synthetic_incident
+F00665,2022-08-20,4,Tondiarpet,L0406,Tondiarpet Sector 6,13.116085,80.285808,Subway flooding,Severe,417,35.0,synthetic_incident
+F00666,2021-07-30,2,Manali,L0205,Manali Sector 5,13.168946,80.276844,Subway flooding,Moderate,107,62.0,synthetic_incident
+F00667,2022-06-02,9,Teynampet,L0905,Teynampet Sector 5,13.041451,80.254872,Subway flooding,Moderate,368,48.0,synthetic_incident
+F00668,2021-10-29,7,Ambattur,L0706,Ambattur Sector 6,13.111849,80.160133,Street flooding,High,292,48.0,synthetic_incident
+F00669,2024-10-06,9,Teynampet,L0907,Teynampet Sector 7,13.052099,80.244043,Subway flooding,Severe,418,48.0,synthetic_incident
+F00670,2020-06-27,8,Anna Nagar,L0801,Anna Nagar Sector 1,13.095313,80.217395,Canal overflow,Moderate,32,110.0,synthetic_incident
+F00671,2020-09-24,3,Madhavaram,L0303,Madhavaram Sector 3,13.143311,80.221344,Subway flooding,High,79,48.0,synthetic_incident
+F00672,2020-10-06,10,Kodambakkam,L1005,Kodambakkam Sector 5,13.043477,80.224747,Residential flooding,Low,188,35.0,synthetic_incident
+F00673,2024-08-10,2,Manali,L0204,Manali Sector 4,13.165011,80.266793,Canal overflow,Moderate,266,62.0,synthetic_incident
+F00674,2022-11-09,10,Kodambakkam,L1001,Kodambakkam Sector 1,13.046836,80.213885,Canal overflow,Severe,218,48.0,synthetic_incident
+F00675,2022-12-30,15,Sholinganallur,L1501,Sholinganallur Sector 1,12.894365,80.220856,Street flooding,High,108,48.0,synthetic_incident
+F00676,2025-12-18,14,Perungudi,L1408,Perungudi Sector 8,12.955248,80.241825,Residential flooding,High,391,62.0,synthetic_incident
+F00677,2025-10-14,8,Anna Nagar,L0804,Anna Nagar Sector 4,13.094421,80.210944,Residential flooding,High,234,110.0,synthetic_incident
+F00678,2021-10-28,15,Sholinganallur,L1502,Sholinganallur Sector 2,12.911352,80.224434,Residential flooding,Moderate,381,110.0,synthetic_incident
+F00679,2024-12-14,2,Manali,L0201,Manali Sector 1,13.165302,80.270594,Canal overflow,High,289,62.0,synthetic_incident
+F00680,2022-09-22,2,Manali,L0205,Manali Sector 5,13.168946,80.276844,Street flooding,High,243,110.0,synthetic_incident
+F00681,2021-09-12,1,Tiruvottiyur,L0106,Tiruvottiyur Sector 6,13.148494,80.311278,Street flooding,High,256,35.0,synthetic_incident
+F00682,2025-09-11,8,Anna Nagar,L0802,Anna Nagar Sector 2,13.088202,80.218915,Subway flooding,Moderate,99,48.0,synthetic_incident
+F00683,2024-12-28,1,Tiruvottiyur,L0103,Tiruvottiyur Sector 3,13.151744,80.291744,Canal overflow,Severe,52,35.0,synthetic_incident
+F00684,2023-08-13,4,Tondiarpet,L0404,Tondiarpet Sector 4,13.12935,80.300125,Subway flooding,High,189,110.0,synthetic_incident
+F00685,2022-11-21,4,Tondiarpet,L0408,Tondiarpet Sector 8,13.13489,80.286562,Street flooding,Low,347,85.0,synthetic_incident
+F00686,2023-08-06,6,Thiru-Vi-Ka Nagar,L0604,Thiru-Vi-Ka Nagar Sector 4,13.113511,80.238301,Street flooding,High,200,85.0,synthetic_incident
+F00687,2021-06-19,6,Thiru-Vi-Ka Nagar,L0605,Thiru-Vi-Ka Nagar Sector 5,13.117293,80.234333,Street flooding,High,268,85.0,synthetic_incident
+F00688,2024-12-03,6,Thiru-Vi-Ka Nagar,L0601,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959,Subway flooding,Moderate,169,20.0,synthetic_incident
+F00689,2024-12-14,1,Tiruvottiyur,L0102,Tiruvottiyur Sector 2,13.165568,80.302368,Residential flooding,Low,325,35.0,synthetic_incident
+F00690,2020-10-13,3,Madhavaram,L0304,Madhavaram Sector 4,13.152422,80.229564,Canal overflow,Low,110,110.0,synthetic_incident
+F00691,2025-07-02,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Street flooding,Moderate,17,62.0,synthetic_incident
+F00692,2024-08-24,11,Valasaravakkam,L1101,Valasaravakkam Sector 1,13.043827,80.178175,Street flooding,Low,32,85.0,synthetic_incident
+F00693,2021-10-29,12,Alandur,L1202,Alandur Sector 2,13.007482,80.191301,Residential flooding,High,213,35.0,synthetic_incident
+F00694,2023-10-31,6,Thiru-Vi-Ka Nagar,L0607,Thiru-Vi-Ka Nagar Sector 7,13.114259,80.236471,Canal overflow,High,13,20.0,synthetic_incident
+F00695,2023-11-03,10,Kodambakkam,L1001,Kodambakkam Sector 1,13.046836,80.213885,Street flooding,Low,363,110.0,synthetic_incident
+F00696,2020-10-27,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Subway flooding,High,315,48.0,synthetic_incident
+F00697,2020-11-25,4,Tondiarpet,L0408,Tondiarpet Sector 8,13.13489,80.286562,Canal overflow,Severe,425,48.0,synthetic_incident
+F00698,2020-08-03,7,Ambattur,L0704,Ambattur Sector 4,13.109545,80.154206,Residential flooding,Severe,412,48.0,synthetic_incident
+F00699,2025-07-18,5,Royapuram,L0503,Royapuram Sector 3,13.102789,80.306685,Subway flooding,High,10,62.0,synthetic_incident
+F00700,2025-08-03,14,Perungudi,L1403,Perungudi Sector 3,12.968647,80.238382,Street flooding,Low,7,85.0,synthetic_incident
+F00701,2025-09-11,9,Teynampet,L0902,Teynampet Sector 2,13.039018,80.243331,Subway flooding,Moderate,388,110.0,synthetic_incident
+F00702,2023-08-02,3,Madhavaram,L0303,Madhavaram Sector 3,13.143311,80.221344,Residential flooding,Moderate,118,85.0,synthetic_incident
+F00703,2025-12-11,13,Adyar,L1304,Adyar Sector 4,13.01529,80.263717,Street flooding,Moderate,348,62.0,synthetic_incident
+F00704,2025-08-31,13,Adyar,L1308,Adyar Sector 8,12.996435,80.260924,Street flooding,High,348,35.0,synthetic_incident
+F00705,2020-10-16,4,Tondiarpet,L0404,Tondiarpet Sector 4,13.12935,80.300125,Canal overflow,High,187,35.0,synthetic_incident
+F00706,2021-07-19,10,Kodambakkam,L1004,Kodambakkam Sector 4,13.061798,80.218749,Street flooding,High,322,35.0,synthetic_incident
+F00707,2020-10-21,14,Perungudi,L1406,Perungudi Sector 6,12.968591,80.253381,Canal overflow,Severe,173,135.0,synthetic_incident
+F00708,2025-12-10,10,Kodambakkam,L1003,Kodambakkam Sector 3,13.041235,80.219688,Subway flooding,High,224,110.0,synthetic_incident
+F00709,2021-10-10,1,Tiruvottiyur,L0104,Tiruvottiyur Sector 4,13.149394,80.308788,Residential flooding,Severe,146,35.0,synthetic_incident
+F00710,2023-09-03,2,Manali,L0206,Manali Sector 6,13.162792,80.270342,Canal overflow,Severe,233,48.0,synthetic_incident
+F00711,2023-09-01,12,Alandur,L1208,Alandur Sector 8,12.987234,80.209533,Street flooding,Moderate,335,48.0,synthetic_incident
+F00712,2025-11-20,1,Tiruvottiyur,L0105,Tiruvottiyur Sector 5,13.162427,80.304994,Residential flooding,Moderate,139,48.0,synthetic_incident
+F00713,2025-12-31,1,Tiruvottiyur,L0102,Tiruvottiyur Sector 2,13.165568,80.302368,Street flooding,Low,421,20.0,synthetic_incident
+F00714,2025-09-30,8,Anna Nagar,L0804,Anna Nagar Sector 4,13.094421,80.210944,Street flooding,High,283,62.0,synthetic_incident
+F00715,2025-07-06,7,Ambattur,L0703,Ambattur Sector 3,13.102754,80.157274,Subway flooding,Severe,119,110.0,synthetic_incident
+F00716,2025-10-16,11,Valasaravakkam,L1105,Valasaravakkam Sector 5,13.035979,80.177181,Residential flooding,Severe,261,35.0,synthetic_incident
+F00717,2024-12-07,2,Manali,L0206,Manali Sector 6,13.162792,80.270342,Street flooding,Moderate,439,20.0,synthetic_incident
+F00718,2025-12-05,10,Kodambakkam,L1003,Kodambakkam Sector 3,13.041235,80.219688,Canal overflow,Moderate,96,85.0,synthetic_incident
+F00719,2025-08-29,15,Sholinganallur,L1503,Sholinganallur Sector 3,12.909409,80.230147,Canal overflow,High,25,85.0,synthetic_incident
+F00720,2022-06-21,12,Alandur,L1204,Alandur Sector 4,13.007193,80.209056,Street flooding,High,194,48.0,synthetic_incident
+F00721,2022-07-22,1,Tiruvottiyur,L0104,Tiruvottiyur Sector 4,13.149394,80.308788,Subway flooding,Severe,245,110.0,synthetic_incident
+F00722,2024-08-15,14,Perungudi,L1401,Perungudi Sector 1,12.953121,80.236859,Subway flooding,Low,365,85.0,synthetic_incident
+F00723,2024-12-29,9,Teynampet,L0905,Teynampet Sector 5,13.041451,80.254872,Subway flooding,Moderate,197,62.0,synthetic_incident
+F00724,2023-10-12,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Subway flooding,Severe,119,85.0,synthetic_incident
+F00725,2024-12-19,6,Thiru-Vi-Ka Nagar,L0606,Thiru-Vi-Ka Nagar Sector 6,13.09887,80.240118,Canal overflow,Severe,314,48.0,synthetic_incident
+F00726,2020-06-14,7,Ambattur,L0703,Ambattur Sector 3,13.102754,80.157274,Canal overflow,Moderate,122,48.0,synthetic_incident
+F00727,2020-11-05,7,Ambattur,L0705,Ambattur Sector 5,13.123782,80.147983,Residential flooding,Moderate,100,48.0,synthetic_incident
+F00728,2021-09-17,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Residential flooding,Severe,420,35.0,synthetic_incident
+F00729,2023-07-05,11,Valasaravakkam,L1108,Valasaravakkam Sector 8,13.050484,80.167185,Canal overflow,Severe,112,110.0,synthetic_incident
+F00730,2025-10-18,3,Madhavaram,L0307,Madhavaram Sector 7,13.142211,80.234901,Street flooding,Moderate,27,48.0,synthetic_incident
+F00731,2021-07-18,8,Anna Nagar,L0803,Anna Nagar Sector 3,13.092288,80.202478,Residential flooding,Low,298,110.0,synthetic_incident
+F00732,2021-08-26,1,Tiruvottiyur,L0105,Tiruvottiyur Sector 5,13.162427,80.304994,Residential flooding,Severe,311,110.0,synthetic_incident
+F00733,2025-08-24,9,Teynampet,L0905,Teynampet Sector 5,13.041451,80.254872,Street flooding,Moderate,234,35.0,synthetic_incident
+F00734,2025-11-20,15,Sholinganallur,L1508,Sholinganallur Sector 8,12.903491,80.219251,Residential flooding,Moderate,430,20.0,synthetic_incident
+F00735,2023-12-17,9,Teynampet,L0903,Teynampet Sector 3,13.031877,80.246103,Subway flooding,Moderate,375,135.0,synthetic_incident
+F00736,2023-07-30,14,Perungudi,L1402,Perungudi Sector 2,12.96617,80.249605,Residential flooding,Severe,202,35.0,synthetic_incident
+F00737,2021-07-27,2,Manali,L0204,Manali Sector 4,13.165011,80.266793,Canal overflow,Moderate,315,48.0,synthetic_incident
+F00738,2020-12-15,3,Madhavaram,L0301,Madhavaram Sector 1,13.137561,80.241773,Street flooding,Low,251,35.0,synthetic_incident
+F00739,2021-07-23,14,Perungudi,L1401,Perungudi Sector 1,12.953121,80.236859,Canal overflow,Severe,194,135.0,synthetic_incident
+F00740,2020-08-28,10,Kodambakkam,L1007,Kodambakkam Sector 7,13.056131,80.231279,Residential flooding,Severe,409,35.0,synthetic_incident
+F00741,2023-10-17,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Canal overflow,Moderate,135,85.0,synthetic_incident
+F00742,2024-09-30,12,Alandur,L1202,Alandur Sector 2,13.007482,80.191301,Subway flooding,Severe,136,110.0,synthetic_incident
+F00743,2021-11-21,1,Tiruvottiyur,L0101,Tiruvottiyur Sector 1,13.156989,80.310817,Street flooding,Low,197,110.0,synthetic_incident
+F00744,2021-12-24,10,Kodambakkam,L1006,Kodambakkam Sector 6,13.063656,80.218809,Canal overflow,High,59,62.0,synthetic_incident
+F00745,2021-09-11,6,Thiru-Vi-Ka Nagar,L0605,Thiru-Vi-Ka Nagar Sector 5,13.117293,80.234333,Subway flooding,Severe,294,62.0,synthetic_incident
+F00746,2023-09-15,9,Teynampet,L0907,Teynampet Sector 7,13.052099,80.244043,Residential flooding,Severe,287,62.0,synthetic_incident
+F00747,2025-08-11,7,Ambattur,L0706,Ambattur Sector 6,13.111849,80.160133,Canal overflow,High,162,62.0,synthetic_incident
+F00748,2025-09-22,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Residential flooding,Low,387,48.0,synthetic_incident
+F00749,2022-07-13,6,Thiru-Vi-Ka Nagar,L0603,Thiru-Vi-Ka Nagar Sector 3,13.103464,80.230804,Street flooding,Moderate,265,62.0,synthetic_incident
+F00750,2023-11-26,12,Alandur,L1201,Alandur Sector 1,13.001583,80.197282,Residential flooding,Severe,330,48.0,synthetic_incident
+F00751,2020-06-11,12,Alandur,L1203,Alandur Sector 3,12.993186,80.190723,Canal overflow,Severe,50,62.0,synthetic_incident
+F00752,2020-10-10,4,Tondiarpet,L0406,Tondiarpet Sector 6,13.116085,80.285808,Street flooding,Low,375,110.0,synthetic_incident
+F00753,2023-10-24,14,Perungudi,L1407,Perungudi Sector 7,12.968783,80.246639,Subway flooding,Low,401,20.0,synthetic_incident
+F00754,2021-10-23,9,Teynampet,L0908,Teynampet Sector 8,13.040934,80.245221,Street flooding,Moderate,440,110.0,synthetic_incident
+F00755,2024-12-23,4,Tondiarpet,L0401,Tondiarpet Sector 1,13.128121,80.282437,Residential flooding,Moderate,350,62.0,synthetic_incident
+F00756,2020-08-13,5,Royapuram,L0501,Royapuram Sector 1,13.107742,80.296025,Residential flooding,Low,146,62.0,synthetic_incident
+F00757,2023-11-24,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Canal overflow,Moderate,270,48.0,synthetic_incident
+F00758,2020-07-02,11,Valasaravakkam,L1102,Valasaravakkam Sector 2,13.050205,80.175859,Street flooding,High,376,135.0,synthetic_incident
+F00759,2025-08-15,14,Perungudi,L1406,Perungudi Sector 6,12.968591,80.253381,Subway flooding,High,120,62.0,synthetic_incident
+F00760,2025-11-19,15,Sholinganallur,L1508,Sholinganallur Sector 8,12.903491,80.219251,Canal overflow,Low,138,135.0,synthetic_incident
+F00761,2021-10-23,6,Thiru-Vi-Ka Nagar,L0602,Thiru-Vi-Ka Nagar Sector 2,13.103942,80.224525,Street flooding,High,179,85.0,synthetic_incident
+F00762,2021-06-26,12,Alandur,L1205,Alandur Sector 5,12.991191,80.20384,Subway flooding,Severe,198,110.0,synthetic_incident
+F00763,2025-08-23,7,Ambattur,L0704,Ambattur Sector 4,13.109545,80.154206,Subway flooding,Severe,353,48.0,synthetic_incident
+F00764,2024-08-27,14,Perungudi,L1401,Perungudi Sector 1,12.953121,80.236859,Canal overflow,Low,137,85.0,synthetic_incident
+F00765,2020-10-17,6,Thiru-Vi-Ka Nagar,L0604,Thiru-Vi-Ka Nagar Sector 4,13.113511,80.238301,Residential flooding,High,216,48.0,synthetic_incident
+F00766,2023-08-21,7,Ambattur,L0701,Ambattur Sector 1,13.114546,80.152261,Subway flooding,Moderate,152,110.0,synthetic_incident
+F00767,2020-12-08,6,Thiru-Vi-Ka Nagar,L0606,Thiru-Vi-Ka Nagar Sector 6,13.09887,80.240118,Street flooding,Moderate,248,135.0,synthetic_incident
+F00768,2023-06-01,5,Royapuram,L0505,Royapuram Sector 5,13.101133,80.302571,Residential flooding,Moderate,260,35.0,synthetic_incident
+F00769,2021-12-12,4,Tondiarpet,L0404,Tondiarpet Sector 4,13.12935,80.300125,Subway flooding,Moderate,122,85.0,synthetic_incident
+F00770,2021-12-19,13,Adyar,L1306,Adyar Sector 6,12.997879,80.266565,Residential flooding,Low,66,85.0,synthetic_incident
+F00771,2020-11-08,10,Kodambakkam,L1008,Kodambakkam Sector 8,13.045703,80.230477,Street flooding,Low,439,48.0,synthetic_incident
+F00772,2024-10-10,5,Royapuram,L0506,Royapuram Sector 6,13.117965,80.300496,Canal overflow,High,256,35.0,synthetic_incident
+F00773,2021-11-08,15,Sholinganallur,L1505,Sholinganallur Sector 5,12.901846,80.22682,Canal overflow,Moderate,389,48.0,synthetic_incident
+F00774,2025-09-20,2,Manali,L0207,Manali Sector 7,13.172218,80.259115,Canal overflow,Low,262,35.0,synthetic_incident
+F00775,2023-08-09,6,Thiru-Vi-Ka Nagar,L0603,Thiru-Vi-Ka Nagar Sector 3,13.103464,80.230804,Canal overflow,Low,362,110.0,synthetic_incident
+F00776,2024-12-23,6,Thiru-Vi-Ka Nagar,L0601,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959,Street flooding,Moderate,199,110.0,synthetic_incident
+F00777,2025-09-28,2,Manali,L0206,Manali Sector 6,13.162792,80.270342,Subway flooding,Moderate,285,85.0,synthetic_incident
+F00778,2022-09-19,4,Tondiarpet,L0408,Tondiarpet Sector 8,13.13489,80.286562,Subway flooding,High,99,85.0,synthetic_incident
+F00779,2024-11-13,6,Thiru-Vi-Ka Nagar,L0607,Thiru-Vi-Ka Nagar Sector 7,13.114259,80.236471,Subway flooding,High,442,48.0,synthetic_incident
+F00780,2023-11-26,4,Tondiarpet,L0403,Tondiarpet Sector 3,13.137548,80.299476,Residential flooding,Moderate,421,110.0,synthetic_incident
+F00781,2020-12-22,11,Valasaravakkam,L1104,Valasaravakkam Sector 4,13.042699,80.167476,Canal overflow,Severe,105,110.0,synthetic_incident
+F00782,2021-08-24,12,Alandur,L1203,Alandur Sector 3,12.993186,80.190723,Canal overflow,Low,95,110.0,synthetic_incident
+F00783,2024-06-08,7,Ambattur,L0706,Ambattur Sector 6,13.111849,80.160133,Canal overflow,High,133,62.0,synthetic_incident
+F00784,2025-08-21,13,Adyar,L1301,Adyar Sector 1,13.01561,80.260194,Canal overflow,Low,358,48.0,synthetic_incident
+F00785,2021-09-29,1,Tiruvottiyur,L0105,Tiruvottiyur Sector 5,13.162427,80.304994,Canal overflow,Low,235,85.0,synthetic_incident
+F00786,2023-07-14,4,Tondiarpet,L0406,Tondiarpet Sector 6,13.116085,80.285808,Subway flooding,High,15,85.0,synthetic_incident
+F00787,2023-12-19,2,Manali,L0204,Manali Sector 4,13.165011,80.266793,Residential flooding,High,186,85.0,synthetic_incident
+F00788,2023-06-24,10,Kodambakkam,L1008,Kodambakkam Sector 8,13.045703,80.230477,Canal overflow,Low,200,48.0,synthetic_incident
+F00789,2025-12-04,4,Tondiarpet,L0403,Tondiarpet Sector 3,13.137548,80.299476,Residential flooding,High,220,62.0,synthetic_incident
+F00790,2025-12-02,8,Anna Nagar,L0802,Anna Nagar Sector 2,13.088202,80.218915,Street flooding,Moderate,180,35.0,synthetic_incident
+F00791,2022-07-10,5,Royapuram,L0505,Royapuram Sector 5,13.101133,80.302571,Subway flooding,Severe,143,62.0,synthetic_incident
+F00792,2024-07-26,12,Alandur,L1206,Alandur Sector 6,13.004613,80.201325,Canal overflow,Severe,90,62.0,synthetic_incident
+F00793,2021-11-10,13,Adyar,L1303,Adyar Sector 3,13.011423,80.266531,Residential flooding,High,385,35.0,synthetic_incident
+F00794,2020-11-11,3,Madhavaram,L0307,Madhavaram Sector 7,13.142211,80.234901,Street flooding,Low,37,62.0,synthetic_incident
+F00795,2024-09-22,8,Anna Nagar,L0801,Anna Nagar Sector 1,13.095313,80.217395,Canal overflow,Low,58,48.0,synthetic_incident
+F00796,2022-09-18,9,Teynampet,L0902,Teynampet Sector 2,13.039018,80.243331,Canal overflow,High,122,85.0,synthetic_incident
+F00797,2022-08-18,11,Valasaravakkam,L1108,Valasaravakkam Sector 8,13.050484,80.167185,Residential flooding,Moderate,274,85.0,synthetic_incident
+F00798,2021-10-14,1,Tiruvottiyur,L0106,Tiruvottiyur Sector 6,13.148494,80.311278,Subway flooding,Severe,244,62.0,synthetic_incident
+F00799,2025-07-08,14,Perungudi,L1408,Perungudi Sector 8,12.955248,80.241825,Residential flooding,Moderate,307,110.0,synthetic_incident
+F00800,2025-11-01,6,Thiru-Vi-Ka Nagar,L0607,Thiru-Vi-Ka Nagar Sector 7,13.114259,80.236471,Subway flooding,High,251,35.0,synthetic_incident
+F00801,2025-07-06,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Canal overflow,High,192,85.0,synthetic_incident
+F00802,2023-12-20,4,Tondiarpet,L0405,Tondiarpet Sector 5,13.117124,80.282704,Street flooding,Low,272,62.0,synthetic_incident
+F00803,2021-08-05,5,Royapuram,L0508,Royapuram Sector 8,13.109603,80.285781,Street flooding,Severe,391,48.0,synthetic_incident
+F00804,2024-09-30,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Subway flooding,Moderate,412,48.0,synthetic_incident
+F00805,2020-06-15,8,Anna Nagar,L0804,Anna Nagar Sector 4,13.094421,80.210944,Canal overflow,Severe,207,48.0,synthetic_incident
+F00806,2022-08-23,3,Madhavaram,L0307,Madhavaram Sector 7,13.142211,80.234901,Canal overflow,Moderate,139,62.0,synthetic_incident
+F00807,2020-11-10,6,Thiru-Vi-Ka Nagar,L0604,Thiru-Vi-Ka Nagar Sector 4,13.113511,80.238301,Subway flooding,High,337,110.0,synthetic_incident
+F00808,2025-06-20,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Residential flooding,Low,98,62.0,synthetic_incident
+F00809,2021-08-05,4,Tondiarpet,L0408,Tondiarpet Sector 8,13.13489,80.286562,Canal overflow,High,363,62.0,synthetic_incident
+F00810,2025-12-23,7,Ambattur,L0706,Ambattur Sector 6,13.111849,80.160133,Street flooding,Moderate,30,85.0,synthetic_incident
+F00811,2025-06-26,1,Tiruvottiyur,L0102,Tiruvottiyur Sector 2,13.165568,80.302368,Subway flooding,High,69,48.0,synthetic_incident
+F00812,2024-07-12,11,Valasaravakkam,L1104,Valasaravakkam Sector 4,13.042699,80.167476,Street flooding,Moderate,12,48.0,synthetic_incident
+F00813,2024-11-02,4,Tondiarpet,L0407,Tondiarpet Sector 7,13.124328,80.284512,Subway flooding,Severe,195,110.0,synthetic_incident
+F00814,2024-09-02,10,Kodambakkam,L1001,Kodambakkam Sector 1,13.046836,80.213885,Subway flooding,Low,436,20.0,synthetic_incident
+F00815,2021-08-25,1,Tiruvottiyur,L0107,Tiruvottiyur Sector 7,13.167979,80.293096,Street flooding,Severe,97,62.0,synthetic_incident
+F00816,2021-11-27,14,Perungudi,L1405,Perungudi Sector 5,12.96081,80.250916,Canal overflow,Low,67,62.0,synthetic_incident
+F00817,2022-08-21,6,Thiru-Vi-Ka Nagar,L0608,Thiru-Vi-Ka Nagar Sector 8,13.114503,80.234851,Residential flooding,Low,106,62.0,synthetic_incident
+F00818,2024-08-27,11,Valasaravakkam,L1102,Valasaravakkam Sector 2,13.050205,80.175859,Residential flooding,Severe,204,85.0,synthetic_incident
+F00819,2022-12-29,15,Sholinganallur,L1503,Sholinganallur Sector 3,12.909409,80.230147,Street flooding,Low,134,62.0,synthetic_incident
+F00820,2024-10-08,9,Teynampet,L0904,Teynampet Sector 4,13.05163,80.245757,Subway flooding,Low,447,110.0,synthetic_incident
+F00821,2022-06-19,15,Sholinganallur,L1504,Sholinganallur Sector 4,12.907075,80.227063,Canal overflow,High,12,48.0,synthetic_incident
+F00822,2021-10-07,12,Alandur,L1202,Alandur Sector 2,13.007482,80.191301,Canal overflow,Moderate,9,48.0,synthetic_incident
+F00823,2020-08-26,9,Teynampet,L0908,Teynampet Sector 8,13.040934,80.245221,Residential flooding,High,399,135.0,synthetic_incident
+F00824,2020-12-01,4,Tondiarpet,L0408,Tondiarpet Sector 8,13.13489,80.286562,Street flooding,High,393,48.0,synthetic_incident
+F00825,2025-12-28,1,Tiruvottiyur,L0106,Tiruvottiyur Sector 6,13.148494,80.311278,Residential flooding,Low,69,35.0,synthetic_incident
+F00826,2024-10-22,4,Tondiarpet,L0406,Tondiarpet Sector 6,13.116085,80.285808,Canal overflow,Moderate,15,62.0,synthetic_incident
+F00827,2023-10-10,5,Royapuram,L0503,Royapuram Sector 3,13.102789,80.306685,Subway flooding,Low,253,135.0,synthetic_incident
+F00828,2024-07-11,8,Anna Nagar,L0808,Anna Nagar Sector 8,13.092632,80.218658,Residential flooding,Moderate,283,85.0,synthetic_incident
+F00829,2023-08-10,5,Royapuram,L0508,Royapuram Sector 8,13.109603,80.285781,Subway flooding,Moderate,40,62.0,synthetic_incident
+F00830,2025-06-18,3,Madhavaram,L0305,Madhavaram Sector 5,13.138929,80.230884,Subway flooding,High,237,62.0,synthetic_incident
+F00831,2020-06-02,12,Alandur,L1207,Alandur Sector 7,12.997712,80.193804,Residential flooding,Low,322,135.0,synthetic_incident
+F00832,2023-09-12,12,Alandur,L1204,Alandur Sector 4,13.007193,80.209056,Subway flooding,Low,342,85.0,synthetic_incident
+F00833,2025-07-04,13,Adyar,L1304,Adyar Sector 4,13.01529,80.263717,Canal overflow,Moderate,318,35.0,synthetic_incident
+F00834,2022-10-30,5,Royapuram,L0506,Royapuram Sector 6,13.117965,80.300496,Street flooding,Low,272,62.0,synthetic_incident
+F00835,2020-10-15,1,Tiruvottiyur,L0103,Tiruvottiyur Sector 3,13.151744,80.291744,Residential flooding,Low,108,135.0,synthetic_incident
+F00836,2021-06-06,7,Ambattur,L0702,Ambattur Sector 2,13.10261,80.144589,Street flooding,Severe,341,35.0,synthetic_incident
+F00837,2024-10-26,8,Anna Nagar,L0805,Anna Nagar Sector 5,13.092379,80.219506,Street flooding,High,118,85.0,synthetic_incident
+F00838,2025-11-18,11,Valasaravakkam,L1101,Valasaravakkam Sector 1,13.043827,80.178175,Residential flooding,Severe,431,62.0,synthetic_incident
+F00839,2020-11-11,7,Ambattur,L0701,Ambattur Sector 1,13.114546,80.152261,Subway flooding,Severe,425,35.0,synthetic_incident
+F00840,2023-09-22,12,Alandur,L1201,Alandur Sector 1,13.001583,80.197282,Subway flooding,Low,380,110.0,synthetic_incident
+F00841,2020-10-23,13,Adyar,L1302,Adyar Sector 2,13.002137,80.253381,Residential flooding,Low,56,85.0,synthetic_incident
+F00842,2022-07-16,8,Anna Nagar,L0804,Anna Nagar Sector 4,13.094421,80.210944,Residential flooding,Moderate,296,20.0,synthetic_incident
+F00843,2025-12-28,15,Sholinganallur,L1507,Sholinganallur Sector 7,12.894739,80.215584,Street flooding,High,350,110.0,synthetic_incident
+F00844,2024-08-23,10,Kodambakkam,L1007,Kodambakkam Sector 7,13.056131,80.231279,Street flooding,Moderate,410,62.0,synthetic_incident
+F00845,2021-11-03,8,Anna Nagar,L0806,Anna Nagar Sector 6,13.080632,80.200641,Residential flooding,Severe,185,85.0,synthetic_incident
+F00846,2023-06-04,8,Anna Nagar,L0806,Anna Nagar Sector 6,13.080632,80.200641,Subway flooding,Severe,396,62.0,synthetic_incident
+F00847,2024-06-26,13,Adyar,L1306,Adyar Sector 6,12.997879,80.266565,Residential flooding,Moderate,197,48.0,synthetic_incident
+F00848,2025-07-27,14,Perungudi,L1405,Perungudi Sector 5,12.96081,80.250916,Subway flooding,Severe,234,35.0,synthetic_incident
+F00849,2023-11-19,1,Tiruvottiyur,L0101,Tiruvottiyur Sector 1,13.156989,80.310817,Subway flooding,Low,270,85.0,synthetic_incident
+F00850,2021-08-02,15,Sholinganallur,L1505,Sholinganallur Sector 5,12.901846,80.22682,Street flooding,High,118,85.0,synthetic_incident
+F00851,2022-06-12,13,Adyar,L1301,Adyar Sector 1,13.01561,80.260194,Subway flooding,Moderate,53,110.0,synthetic_incident
+F00852,2020-08-17,6,Thiru-Vi-Ka Nagar,L0603,Thiru-Vi-Ka Nagar Sector 3,13.103464,80.230804,Residential flooding,High,192,62.0,synthetic_incident
+F00853,2025-10-01,4,Tondiarpet,L0405,Tondiarpet Sector 5,13.117124,80.282704,Subway flooding,Low,297,20.0,synthetic_incident
+F00854,2023-11-24,8,Anna Nagar,L0804,Anna Nagar Sector 4,13.094421,80.210944,Street flooding,High,410,62.0,synthetic_incident
+F00855,2024-10-11,3,Madhavaram,L0302,Madhavaram Sector 2,13.159175,80.238402,Subway flooding,Low,379,35.0,synthetic_incident
+F00856,2025-09-19,6,Thiru-Vi-Ka Nagar,L0601,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959,Subway flooding,High,423,62.0,synthetic_incident
+F00857,2024-07-04,6,Thiru-Vi-Ka Nagar,L0602,Thiru-Vi-Ka Nagar Sector 2,13.103942,80.224525,Residential flooding,Low,329,35.0,synthetic_incident
+F00858,2023-10-20,1,Tiruvottiyur,L0101,Tiruvottiyur Sector 1,13.156989,80.310817,Subway flooding,Moderate,172,135.0,synthetic_incident
+F00859,2024-11-20,10,Kodambakkam,L1003,Kodambakkam Sector 3,13.041235,80.219688,Street flooding,Severe,233,35.0,synthetic_incident
+F00860,2025-10-27,8,Anna Nagar,L0802,Anna Nagar Sector 2,13.088202,80.218915,Residential flooding,Severe,153,110.0,synthetic_incident
+F00861,2023-11-13,3,Madhavaram,L0306,Madhavaram Sector 6,13.136825,80.240824,Street flooding,Severe,297,62.0,synthetic_incident
+F00862,2020-09-09,8,Anna Nagar,L0805,Anna Nagar Sector 5,13.092379,80.219506,Street flooding,Severe,261,48.0,synthetic_incident
+F00863,2024-07-04,12,Alandur,L1203,Alandur Sector 3,12.993186,80.190723,Residential flooding,Severe,291,85.0,synthetic_incident
+F00864,2021-12-09,7,Ambattur,L0704,Ambattur Sector 4,13.109545,80.154206,Residential flooding,Moderate,41,135.0,synthetic_incident
+F00865,2022-09-26,12,Alandur,L1206,Alandur Sector 6,13.004613,80.201325,Street flooding,Low,348,35.0,synthetic_incident
+F00866,2023-12-23,6,Thiru-Vi-Ka Nagar,L0606,Thiru-Vi-Ka Nagar Sector 6,13.09887,80.240118,Residential flooding,High,181,110.0,synthetic_incident
+F00867,2025-10-25,10,Kodambakkam,L1005,Kodambakkam Sector 5,13.043477,80.224747,Residential flooding,High,320,110.0,synthetic_incident
+F00868,2024-07-20,9,Teynampet,L0908,Teynampet Sector 8,13.040934,80.245221,Street flooding,Moderate,107,85.0,synthetic_incident
+F00869,2023-10-02,3,Madhavaram,L0302,Madhavaram Sector 2,13.159175,80.238402,Street flooding,Low,129,48.0,synthetic_incident
+F00870,2025-12-19,14,Perungudi,L1405,Perungudi Sector 5,12.96081,80.250916,Street flooding,High,360,85.0,synthetic_incident
+F00871,2021-06-14,5,Royapuram,L0508,Royapuram Sector 8,13.109603,80.285781,Street flooding,High,112,20.0,synthetic_incident
+F00872,2025-07-02,3,Madhavaram,L0305,Madhavaram Sector 5,13.138929,80.230884,Canal overflow,Moderate,360,35.0,synthetic_incident
+F00873,2020-07-08,5,Royapuram,L0501,Royapuram Sector 1,13.107742,80.296025,Subway flooding,Moderate,35,48.0,synthetic_incident
+F00874,2022-11-01,3,Madhavaram,L0305,Madhavaram Sector 5,13.138929,80.230884,Street flooding,Severe,340,48.0,synthetic_incident
+F00875,2020-06-18,1,Tiruvottiyur,L0105,Tiruvottiyur Sector 5,13.162427,80.304994,Subway flooding,Low,14,62.0,synthetic_incident
+F00876,2022-11-19,14,Perungudi,L1407,Perungudi Sector 7,12.968783,80.246639,Residential flooding,Severe,265,62.0,synthetic_incident
+F00877,2020-12-21,14,Perungudi,L1408,Perungudi Sector 8,12.955248,80.241825,Street flooding,Moderate,106,48.0,synthetic_incident
+F00878,2024-11-17,15,Sholinganallur,L1501,Sholinganallur Sector 1,12.894365,80.220856,Street flooding,Moderate,276,85.0,synthetic_incident
+F00879,2022-12-14,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Residential flooding,Low,182,20.0,synthetic_incident
+F00880,2023-08-18,5,Royapuram,L0505,Royapuram Sector 5,13.101133,80.302571,Residential flooding,High,420,48.0,synthetic_incident
+F00881,2020-10-05,9,Teynampet,L0907,Teynampet Sector 7,13.052099,80.244043,Street flooding,High,120,48.0,synthetic_incident
+F00882,2021-09-05,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Residential flooding,Low,378,48.0,synthetic_incident
+F00883,2023-10-19,8,Anna Nagar,L0804,Anna Nagar Sector 4,13.094421,80.210944,Canal overflow,Moderate,298,48.0,synthetic_incident
+F00884,2021-09-07,6,Thiru-Vi-Ka Nagar,L0605,Thiru-Vi-Ka Nagar Sector 5,13.117293,80.234333,Subway flooding,Severe,282,20.0,synthetic_incident
+F00885,2021-07-26,3,Madhavaram,L0303,Madhavaram Sector 3,13.143311,80.221344,Residential flooding,Moderate,163,110.0,synthetic_incident
+F00886,2025-06-03,14,Perungudi,L1407,Perungudi Sector 7,12.968783,80.246639,Residential flooding,Moderate,167,85.0,synthetic_incident
+F00887,2020-10-17,8,Anna Nagar,L0802,Anna Nagar Sector 2,13.088202,80.218915,Residential flooding,High,434,20.0,synthetic_incident
+F00888,2021-08-24,11,Valasaravakkam,L1106,Valasaravakkam Sector 6,13.051262,80.163398,Canal overflow,Severe,160,48.0,synthetic_incident
+F00889,2024-07-22,11,Valasaravakkam,L1105,Valasaravakkam Sector 5,13.035979,80.177181,Residential flooding,Moderate,59,62.0,synthetic_incident
+F00890,2021-07-26,3,Madhavaram,L0305,Madhavaram Sector 5,13.138929,80.230884,Residential flooding,Moderate,123,35.0,synthetic_incident
+F00891,2020-07-24,5,Royapuram,L0508,Royapuram Sector 8,13.109603,80.285781,Residential flooding,Severe,369,110.0,synthetic_incident
+F00892,2023-10-02,3,Madhavaram,L0307,Madhavaram Sector 7,13.142211,80.234901,Canal overflow,Severe,75,85.0,synthetic_incident
+F00893,2021-09-30,3,Madhavaram,L0301,Madhavaram Sector 1,13.137561,80.241773,Canal overflow,Low,143,110.0,synthetic_incident
+F00894,2023-12-21,4,Tondiarpet,L0404,Tondiarpet Sector 4,13.12935,80.300125,Residential flooding,Low,95,85.0,synthetic_incident
+F00895,2024-07-14,14,Perungudi,L1408,Perungudi Sector 8,12.955248,80.241825,Subway flooding,Severe,131,48.0,synthetic_incident
+F00896,2024-06-20,6,Thiru-Vi-Ka Nagar,L0601,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959,Canal overflow,High,206,62.0,synthetic_incident
+F00897,2025-11-30,15,Sholinganallur,L1501,Sholinganallur Sector 1,12.894365,80.220856,Street flooding,Severe,238,20.0,synthetic_incident
+F00898,2020-08-26,14,Perungudi,L1404,Perungudi Sector 4,12.970092,80.238694,Canal overflow,Low,290,62.0,synthetic_incident
+F00899,2023-10-30,7,Ambattur,L0701,Ambattur Sector 1,13.114546,80.152261,Residential flooding,High,230,85.0,synthetic_incident
+F00900,2023-11-21,14,Perungudi,L1405,Perungudi Sector 5,12.96081,80.250916,Canal overflow,Moderate,221,85.0,synthetic_incident
+F00901,2022-11-22,9,Teynampet,L0901,Teynampet Sector 1,13.029167,80.250258,Residential flooding,Severe,429,85.0,synthetic_incident
+F00902,2024-08-09,2,Manali,L0202,Manali Sector 2,13.168367,80.264989,Residential flooding,Moderate,206,48.0,synthetic_incident
+F00903,2023-12-22,5,Royapuram,L0501,Royapuram Sector 1,13.107742,80.296025,Residential flooding,Severe,307,35.0,synthetic_incident
+F00904,2021-12-17,14,Perungudi,L1402,Perungudi Sector 2,12.96617,80.249605,Subway flooding,High,359,62.0,synthetic_incident
+F00905,2021-09-30,11,Valasaravakkam,L1102,Valasaravakkam Sector 2,13.050205,80.175859,Street flooding,Low,366,62.0,synthetic_incident
+F00906,2024-08-04,9,Teynampet,L0902,Teynampet Sector 2,13.039018,80.243331,Canal overflow,Moderate,198,85.0,synthetic_incident
+F00907,2025-07-28,6,Thiru-Vi-Ka Nagar,L0603,Thiru-Vi-Ka Nagar Sector 3,13.103464,80.230804,Subway flooding,Moderate,88,35.0,synthetic_incident
+F00908,2021-08-22,3,Madhavaram,L0301,Madhavaram Sector 1,13.137561,80.241773,Canal overflow,High,163,20.0,synthetic_incident
+F00909,2024-07-28,4,Tondiarpet,L0403,Tondiarpet Sector 3,13.137548,80.299476,Street flooding,Moderate,108,85.0,synthetic_incident
+F00910,2020-06-08,9,Teynampet,L0905,Teynampet Sector 5,13.041451,80.254872,Street flooding,Severe,259,85.0,synthetic_incident
+F00911,2024-11-13,8,Anna Nagar,L0801,Anna Nagar Sector 1,13.095313,80.217395,Canal overflow,Moderate,116,35.0,synthetic_incident
+F00912,2025-10-14,10,Kodambakkam,L1008,Kodambakkam Sector 8,13.045703,80.230477,Canal overflow,Severe,45,110.0,synthetic_incident
+F00913,2025-11-09,9,Teynampet,L0904,Teynampet Sector 4,13.05163,80.245757,Subway flooding,Moderate,30,48.0,synthetic_incident
+F00914,2021-11-12,3,Madhavaram,L0306,Madhavaram Sector 6,13.136825,80.240824,Street flooding,Moderate,442,62.0,synthetic_incident
+F00915,2020-08-06,10,Kodambakkam,L1005,Kodambakkam Sector 5,13.043477,80.224747,Subway flooding,Low,30,35.0,synthetic_incident
+F00916,2021-06-10,6,Thiru-Vi-Ka Nagar,L0603,Thiru-Vi-Ka Nagar Sector 3,13.103464,80.230804,Residential flooding,High,317,135.0,synthetic_incident
+F00917,2025-10-27,8,Anna Nagar,L0803,Anna Nagar Sector 3,13.092288,80.202478,Canal overflow,High,23,85.0,synthetic_incident
+F00918,2020-12-08,12,Alandur,L1206,Alandur Sector 6,13.004613,80.201325,Subway flooding,Severe,424,48.0,synthetic_incident
+F00919,2020-10-17,12,Alandur,L1202,Alandur Sector 2,13.007482,80.191301,Subway flooding,Severe,73,135.0,synthetic_incident
+F00920,2021-07-06,10,Kodambakkam,L1005,Kodambakkam Sector 5,13.043477,80.224747,Subway flooding,Severe,273,48.0,synthetic_incident
+F00921,2022-06-02,10,Kodambakkam,L1001,Kodambakkam Sector 1,13.046836,80.213885,Street flooding,Low,252,62.0,synthetic_incident
+F00922,2025-11-16,14,Perungudi,L1405,Perungudi Sector 5,12.96081,80.250916,Canal overflow,High,137,35.0,synthetic_incident
+F00923,2025-06-07,8,Anna Nagar,L0806,Anna Nagar Sector 6,13.080632,80.200641,Residential flooding,Severe,271,62.0,synthetic_incident
+F00924,2024-11-11,7,Ambattur,L0703,Ambattur Sector 3,13.102754,80.157274,Residential flooding,High,104,135.0,synthetic_incident
+F00925,2020-06-04,2,Manali,L0208,Manali Sector 8,13.172581,80.262093,Street flooding,Moderate,414,62.0,synthetic_incident
+F00926,2025-12-08,15,Sholinganallur,L1507,Sholinganallur Sector 7,12.894739,80.215584,Street flooding,High,184,85.0,synthetic_incident
+F00927,2025-08-17,13,Adyar,L1304,Adyar Sector 4,13.01529,80.263717,Street flooding,Moderate,358,135.0,synthetic_incident
+F00928,2022-10-27,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Subway flooding,High,264,85.0,synthetic_incident
+F00929,2025-07-27,5,Royapuram,L0501,Royapuram Sector 1,13.107742,80.296025,Street flooding,High,179,48.0,synthetic_incident
+F00930,2023-11-17,11,Valasaravakkam,L1101,Valasaravakkam Sector 1,13.043827,80.178175,Residential flooding,Moderate,174,48.0,synthetic_incident
+F00931,2023-07-21,14,Perungudi,L1408,Perungudi Sector 8,12.955248,80.241825,Canal overflow,Low,335,48.0,synthetic_incident
+F00932,2021-08-04,7,Ambattur,L0708,Ambattur Sector 8,13.108954,80.145869,Subway flooding,Severe,406,135.0,synthetic_incident
+F00933,2023-12-23,14,Perungudi,L1401,Perungudi Sector 1,12.953121,80.236859,Subway flooding,High,289,110.0,synthetic_incident
+F00934,2025-06-28,1,Tiruvottiyur,L0106,Tiruvottiyur Sector 6,13.148494,80.311278,Subway flooding,Low,81,85.0,synthetic_incident
+F00935,2022-10-25,13,Adyar,L1306,Adyar Sector 6,12.997879,80.266565,Canal overflow,Moderate,297,20.0,synthetic_incident
+F00936,2025-11-18,6,Thiru-Vi-Ka Nagar,L0602,Thiru-Vi-Ka Nagar Sector 2,13.103942,80.224525,Subway flooding,High,368,85.0,synthetic_incident
+F00937,2020-08-04,4,Tondiarpet,L0402,Tondiarpet Sector 2,13.13827,80.296603,Canal overflow,Moderate,195,110.0,synthetic_incident
+F00938,2024-08-09,13,Adyar,L1305,Adyar Sector 5,13.009409,80.247019,Residential flooding,High,94,85.0,synthetic_incident
+F00939,2021-06-16,5,Royapuram,L0501,Royapuram Sector 1,13.107742,80.296025,Residential flooding,Low,232,35.0,synthetic_incident
+F00940,2024-11-28,1,Tiruvottiyur,L0108,Tiruvottiyur Sector 8,13.152364,80.292402,Residential flooding,Moderate,179,48.0,synthetic_incident
+F00941,2024-10-13,11,Valasaravakkam,L1105,Valasaravakkam Sector 5,13.035979,80.177181,Subway flooding,Moderate,398,110.0,synthetic_incident
+F00942,2020-12-19,13,Adyar,L1303,Adyar Sector 3,13.011423,80.266531,Residential flooding,Low,240,62.0,synthetic_incident
+F00943,2023-10-30,11,Valasaravakkam,L1102,Valasaravakkam Sector 2,13.050205,80.175859,Street flooding,High,27,48.0,synthetic_incident
+F00944,2025-10-26,14,Perungudi,L1406,Perungudi Sector 6,12.968591,80.253381,Canal overflow,Low,57,85.0,synthetic_incident
+F00945,2024-12-28,12,Alandur,L1205,Alandur Sector 5,12.991191,80.20384,Street flooding,High,332,62.0,synthetic_incident
+F00946,2022-06-02,5,Royapuram,L0504,Royapuram Sector 4,13.119534,80.287769,Subway flooding,High,277,62.0,synthetic_incident
+F00947,2023-06-12,12,Alandur,L1202,Alandur Sector 2,13.007482,80.191301,Subway flooding,Moderate,85,48.0,synthetic_incident
+F00948,2022-10-11,2,Manali,L0202,Manali Sector 2,13.168367,80.264989,Residential flooding,High,286,85.0,synthetic_incident
+F00949,2023-06-11,4,Tondiarpet,L0405,Tondiarpet Sector 5,13.117124,80.282704,Residential flooding,Moderate,41,62.0,synthetic_incident
+F00950,2022-12-27,9,Teynampet,L0906,Teynampet Sector 6,13.037727,80.261323,Canal overflow,Low,71,110.0,synthetic_incident
+F00951,2020-07-30,7,Ambattur,L0701,Ambattur Sector 1,13.114546,80.152261,Street flooding,Severe,32,110.0,synthetic_incident
+F00952,2020-11-24,6,Thiru-Vi-Ka Nagar,L0603,Thiru-Vi-Ka Nagar Sector 3,13.103464,80.230804,Canal overflow,High,164,135.0,synthetic_incident
+F00953,2023-07-09,13,Adyar,L1302,Adyar Sector 2,13.002137,80.253381,Canal overflow,Moderate,52,85.0,synthetic_incident
+F00954,2024-09-12,2,Manali,L0205,Manali Sector 5,13.168946,80.276844,Canal overflow,Severe,123,35.0,synthetic_incident
+F00955,2022-07-01,3,Madhavaram,L0305,Madhavaram Sector 5,13.138929,80.230884,Subway flooding,Severe,98,48.0,synthetic_incident
+F00956,2023-07-05,12,Alandur,L1206,Alandur Sector 6,13.004613,80.201325,Canal overflow,Severe,20,85.0,synthetic_incident
+F00957,2020-10-12,7,Ambattur,L0706,Ambattur Sector 6,13.111849,80.160133,Canal overflow,Severe,438,35.0,synthetic_incident
+F00958,2021-10-14,4,Tondiarpet,L0406,Tondiarpet Sector 6,13.116085,80.285808,Residential flooding,Low,212,85.0,synthetic_incident
+F00959,2021-06-06,5,Royapuram,L0502,Royapuram Sector 2,13.104382,80.302253,Subway flooding,Severe,210,48.0,synthetic_incident
+F00960,2025-10-18,6,Thiru-Vi-Ka Nagar,L0604,Thiru-Vi-Ka Nagar Sector 4,13.113511,80.238301,Residential flooding,Severe,201,48.0,synthetic_incident
+F00961,2020-10-14,5,Royapuram,L0507,Royapuram Sector 7,13.11951,80.284777,Canal overflow,High,283,62.0,synthetic_incident
+F00962,2022-07-26,3,Madhavaram,L0302,Madhavaram Sector 2,13.159175,80.238402,Canal overflow,Low,308,35.0,synthetic_incident
+F00963,2025-10-29,6,Thiru-Vi-Ka Nagar,L0602,Thiru-Vi-Ka Nagar Sector 2,13.103942,80.224525,Canal overflow,Moderate,162,85.0,synthetic_incident
+F00964,2023-12-07,1,Tiruvottiyur,L0102,Tiruvottiyur Sector 2,13.165568,80.302368,Canal overflow,High,258,62.0,synthetic_incident
+F00965,2020-10-04,2,Manali,L0203,Manali Sector 3,13.172684,80.261348,Street flooding,Moderate,343,62.0,synthetic_incident
+F00966,2021-08-31,6,Thiru-Vi-Ka Nagar,L0605,Thiru-Vi-Ka Nagar Sector 5,13.117293,80.234333,Canal overflow,Severe,105,35.0,synthetic_incident
+F00967,2021-12-25,10,Kodambakkam,L1006,Kodambakkam Sector 6,13.063656,80.218809,Subway flooding,High,227,62.0,synthetic_incident
+F00968,2023-08-03,15,Sholinganallur,L1501,Sholinganallur Sector 1,12.894365,80.220856,Canal overflow,Moderate,441,85.0,synthetic_incident
+F00969,2022-11-22,1,Tiruvottiyur,L0101,Tiruvottiyur Sector 1,13.156989,80.310817,Street flooding,High,61,85.0,synthetic_incident
+F00970,2022-10-28,14,Perungudi,L1404,Perungudi Sector 4,12.970092,80.238694,Canal overflow,Severe,325,62.0,synthetic_incident
+F00971,2023-06-10,11,Valasaravakkam,L1107,Valasaravakkam Sector 7,13.04729,80.168436,Canal overflow,Severe,284,35.0,synthetic_incident
+F00972,2022-06-05,10,Kodambakkam,L1008,Kodambakkam Sector 8,13.045703,80.230477,Residential flooding,Moderate,289,62.0,synthetic_incident
+F00973,2023-10-24,13,Adyar,L1306,Adyar Sector 6,12.997879,80.266565,Canal overflow,Moderate,152,85.0,synthetic_incident
+F00974,2021-07-14,2,Manali,L0202,Manali Sector 2,13.168367,80.264989,Street flooding,Moderate,374,62.0,synthetic_incident
+F00975,2024-10-19,10,Kodambakkam,L1003,Kodambakkam Sector 3,13.041235,80.219688,Street flooding,Moderate,333,85.0,synthetic_incident
+F00976,2023-12-27,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Residential flooding,Severe,265,48.0,synthetic_incident
+F00977,2024-06-13,8,Anna Nagar,L0808,Anna Nagar Sector 8,13.092632,80.218658,Canal overflow,High,120,48.0,synthetic_incident
+F00978,2021-11-14,6,Thiru-Vi-Ka Nagar,L0601,Thiru-Vi-Ka Nagar Sector 1,13.116714,80.237959,Canal overflow,Moderate,369,135.0,synthetic_incident
+F00979,2024-11-19,4,Tondiarpet,L0406,Tondiarpet Sector 6,13.116085,80.285808,Street flooding,Low,295,110.0,synthetic_incident
+F00980,2024-10-12,11,Valasaravakkam,L1102,Valasaravakkam Sector 2,13.050205,80.175859,Canal overflow,Low,77,35.0,synthetic_incident
+F00981,2025-06-09,15,Sholinganallur,L1505,Sholinganallur Sector 5,12.901846,80.22682,Canal overflow,Low,272,48.0,synthetic_incident
+F00982,2025-11-27,2,Manali,L0208,Manali Sector 8,13.172581,80.262093,Street flooding,High,318,62.0,synthetic_incident
+F00983,2020-09-17,14,Perungudi,L1401,Perungudi Sector 1,12.953121,80.236859,Canal overflow,Severe,267,62.0,synthetic_incident
+F00984,2024-09-13,8,Anna Nagar,L0806,Anna Nagar Sector 6,13.080632,80.200641,Canal overflow,High,413,20.0,synthetic_incident
+F00985,2022-11-23,4,Tondiarpet,L0401,Tondiarpet Sector 1,13.128121,80.282437,Subway flooding,High,36,110.0,synthetic_incident
+F00986,2024-09-22,8,Anna Nagar,L0801,Anna Nagar Sector 1,13.095313,80.217395,Subway flooding,Low,151,85.0,synthetic_incident
+F00987,2024-10-15,1,Tiruvottiyur,L0102,Tiruvottiyur Sector 2,13.165568,80.302368,Subway flooding,High,72,85.0,synthetic_incident
+F00988,2025-12-09,4,Tondiarpet,L0405,Tondiarpet Sector 5,13.117124,80.282704,Street flooding,Low,314,85.0,synthetic_incident
+F00989,2021-10-22,14,Perungudi,L1403,Perungudi Sector 3,12.968647,80.238382,Canal overflow,High,418,35.0,synthetic_incident
+F00990,2021-10-24,4,Tondiarpet,L0404,Tondiarpet Sector 4,13.12935,80.300125,Canal overflow,Moderate,414,48.0,synthetic_incident
+F00991,2025-06-11,13,Adyar,L1306,Adyar Sector 6,12.997879,80.266565,Street flooding,Moderate,309,48.0,synthetic_incident
+F00992,2021-09-10,13,Adyar,L1307,Adyar Sector 7,13.008554,80.245221,Canal overflow,Moderate,343,135.0,synthetic_incident
+F00993,2024-07-16,11,Valasaravakkam,L1103,Valasaravakkam Sector 3,13.037167,80.183047,Residential flooding,High,32,35.0,synthetic_incident
+F00994,2022-09-22,12,Alandur,L1202,Alandur Sector 2,13.007482,80.191301,Street flooding,Moderate,242,62.0,synthetic_incident
+F00995,2023-11-22,7,Ambattur,L0708,Ambattur Sector 8,13.108954,80.145869,Residential flooding,Severe,354,85.0,synthetic_incident
+F00996,2023-11-04,7,Ambattur,L0703,Ambattur Sector 3,13.102754,80.157274,Canal overflow,Low,152,62.0,synthetic_incident
+F00997,2024-08-03,6,Thiru-Vi-Ka Nagar,L0606,Thiru-Vi-Ka Nagar Sector 6,13.09887,80.240118,Street flooding,Low,277,62.0,synthetic_incident
+F00998,2023-08-22,15,Sholinganallur,L1507,Sholinganallur Sector 7,12.894739,80.215584,Subway flooding,High,143,35.0,synthetic_incident
+F00999,2022-09-27,12,Alandur,L1205,Alandur Sector 5,12.991191,80.20384,Canal overflow,Severe,400,35.0,synthetic_incident
+F01000,2022-08-07,11,Valasaravakkam,L1104,Valasaravakkam Sector 4,13.042699,80.167476,Subway flooding,Moderate,165,85.0,synthetic_incident
