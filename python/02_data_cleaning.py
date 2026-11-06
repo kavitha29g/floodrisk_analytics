@@ -1,29 +1,9 @@
-
-
 import pandas as pd
 import numpy as np
 from pathlib import Path
 
 # Find project folder
 project_path = Path(__file__).resolve().parent.parent
-
-# Raw and Silver folder paths
-raw_path = project_path / "data" / "raw"
-silver_path = project_path / "data" / "silver"
-
-# Create Silver folder if it does not exist
-silver_path.mkdir(parents=True, exist_ok=True)
-
-print("Project path:", project_path)
-print("Raw folder:", raw_path)
-print("Silver folder:", silver_path)
-
-print("\nData cleaning setup completed!")
-
-
-
-
-
 
 # Define data folder paths
 raw_path = project_path / "data" / "raw"
@@ -34,6 +14,11 @@ silver_path = project_path / "data" / "silver"
 bronze_path.mkdir(parents=True, exist_ok=True)
 silver_path.mkdir(parents=True, exist_ok=True)
 
+print("Project path:", project_path)
+print("Raw folder:", raw_path)
+print("Silver folder:", silver_path)
+
+print("\nData cleaning setup completed!")
 print("Folder setup completed successfully!")
 
 
