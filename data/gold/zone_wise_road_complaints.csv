@@ -1,0 +1,16 @@
+zone_id,zone_name,total_road_complaints,resolved_complaints,critical_road_complaints,damaged_locations,unresolved_complaints
+1,Tiruvottiyur,349,93,86,8,256
+10,Kodambakkam,361,90,68,8,271
+11,Valasaravakkam,341,95,83,8,246
+12,Alandur,325,77,73,8,248
+13,Adyar,371,97,89,8,274
+14,Perungudi,334,89,91,8,245
+15,Sholinganallur,299,83,66,8,216
+2,Manali,312,85,90,8,227
+3,Madhavaram,324,85,95,8,239
+4,Tondiarpet,331,88,82,8,243
+5,Royapuram,320,86,77,8,234
+6,Thiru-Vi-Ka Nagar,342,87,98,8,255
+7,Ambattur,359,82,88,8,277
+8,Anna Nagar,353,86,103,8,267
+9,Teynampet,279,75,83,8,204

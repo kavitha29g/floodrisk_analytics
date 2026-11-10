@@ -1,0 +1,9 @@
+dataset,rows,columns,missing_values,duplicate_rows,status
+Rainfall,32880,7,109,0,Loaded Successfully
+Flood,1000,13,0,0,Loaded Successfully
+Road Complaints,5000,13,0,0,Loaded Successfully
+Traffic,15000,13,0,0,Loaded Successfully
+Public Grievances,6000,14,0,0,Loaded Successfully
+Waterlogging,320,12,0,0,Loaded Successfully
+Population,90,6,0,0,Loaded Successfully
+Emergency Response,1600,16,0,0,Loaded Successfully

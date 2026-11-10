@@ -1,0 +1,16 @@
+zone_id,zone_name,total_waterlogging_sites,unique_waterlogging_locations,total_historical_reports,high_risk_waterlogging_sites
+1,Tiruvottiyur,13,7,99,2
+10,Kodambakkam,19,6,122,4
+11,Valasaravakkam,32,8,192,8
+12,Alandur,26,7,176,9
+13,Adyar,21,8,124,5
+14,Perungudi,28,8,181,9
+15,Sholinganallur,19,8,148,5
+2,Manali,21,7,151,6
+3,Madhavaram,25,8,157,8
+4,Tondiarpet,18,7,117,7
+5,Royapuram,23,8,171,10
+6,Thiru-Vi-Ka Nagar,13,7,93,3
+7,Ambattur,18,6,99,5
+8,Anna Nagar,25,8,149,12
+9,Teynampet,19,8,93,5

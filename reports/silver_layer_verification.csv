@@ -1,0 +1,9 @@
+dataset,file,status,rows,columns,missing_values,duplicate_rows
+Rainfall,rainfall_cleaned.csv,Available,32880,7,109,0
+Flood,flood_cleaned.csv,Available,1000,13,0,0
+Road Complaints,road_complaints_cleaned.csv,Available,5000,13,0,0
+Traffic,traffic_cleaned.csv,Available,15000,13,0,0
+Public Grievances,public_grievances_cleaned.csv,Available,6000,14,0,0
+Waterlogging,waterlogging_locations_cleaned.csv,Available,320,12,0,0
+Population,population_cleaned.csv,Available,90,6,0,0
+Emergency Response,emergency_response_cleaned.csv,Available,1600,16,0,0

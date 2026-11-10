@@ -1,0 +1,24 @@
+import pandas as pd
+from pathlib import Path
+
+project_path = Path(
+    r"D:\Kavitha\FloodRisk_And_PublicSafety_Analytics"
+)
+
+silver_path = project_path / "data" / "silver"
+
+rainfall_check = pd.read_csv(
+    silver_path / "rainfall_cleaned.csv"
+)
+
+print("Total Records:", len(rainfall_check))
+
+print(
+    "Valid Rainfall Records:",
+    rainfall_check["rainfall_mm"].count()
+)
+
+print(
+    "Missing Rainfall Records:",
+    rainfall_check["rainfall_mm"].isnull().sum()
+)

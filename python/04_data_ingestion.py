@@ -69,3 +69,49 @@ if raw_files == bronze_files:
 else:
 
     print("\nWARNING: Raw and Bronze files do not match.")
+
+
+
+# =====================================================================
+# REUSABLE INGESTION FRAMEWORK
+
+
+def ingest_dataset(source_path, destination_path):
+
+    try:
+
+        # Load dataset
+
+        df = load_dataset(source_path)
+
+
+        # Display dataset information
+
+        print("\nDataset:", source_path.name)
+
+        print("Rows:", df.shape[0])
+
+        print("Columns:", df.shape[1])
+
+
+        # Save dataset into Bronze layer
+
+        destination_path.parent.mkdir(
+            parents=True,
+            exist_ok=True)
+
+        df.to_csv(destination_path, index=False)
+
+
+        print("Ingestion Successful:", destination_path.name)
+
+        return True
+
+
+    except Exception as error:
+
+        print("Ingestion Failed:", source_path.name)
+
+        print("Error:", error)
+
+        return False

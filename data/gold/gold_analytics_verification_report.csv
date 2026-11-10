@@ -1,0 +1,10 @@
+dataset,rows,columns,missing_values,duplicate_rows,status
+zone_wise_rainfall.csv,15,9,0,0,Created Successfully
+zone_wise_flood_risk.csv,15,7,0,0,Created Successfully
+zone_wise_road_complaints.csv,15,7,0,0,Created Successfully
+zone_wise_traffic.csv,15,8,0,0,Created Successfully
+zone_wise_public_grievances.csv,15,8,0,0,Created Successfully
+zone_wise_waterlogging.csv,15,6,0,0,Created Successfully
+zone_wise_population.csv,90,5,0,0,Created Successfully
+zone_wise_emergency_response.csv,15,7,0,0,Created Successfully
+zone_wise_smart_city_summary.csv,15,43,0,0,Created Successfully
