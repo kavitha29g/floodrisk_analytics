@@ -49,3 +49,96 @@ select
     sum(free_flow_speed_kmph is null) as missing_free_flow_speed
 from fact_traffic;
 
+select
+    count(*) as total_records,
+    sum(grievance_id is null) as missing_grievance_id,
+    sum(complaint_date is null) as missing_complaint_date,
+    sum(zone_id is null) as missing_zone_id,
+    sum(zone_name is null) as missing_zone_name,
+    sum(location_id is null) as missing_location_id,
+    sum(location_name is null) as missing_location_name
+from fact_public_grievances;
+
+select
+    count(*) as total_records,
+    sum(waterlogging_id is null) as missing_waterlogging_id,
+    sum(zone_id is null) as missing_zone_id,
+    sum(zone_name is null) as missing_zone_name,
+    sum(location_id is null) as missing_location_id,
+    sum(location_name is null) as missing_location_name,
+    sum(latitude is null) as missing_latitude,
+    sum(longitude is null) as missing_longitude,
+    sum(site_type is null) as missing_site_type,
+    sum(historical_risk_level is null) as missing_risk_level
+from fact_waterlogging_locations;
+
+select
+    count(*) as total_records,
+    sum(zone_id is null) as missing_zone_id,
+    sum(zone_name is null) as missing_zone_name,
+    sum(population_density_per_sq_km is null) as missing_population_density
+from fact_population;
+
+select
+    count(*) as total_records,
+    sum(response_id is null) as missing_response_id,
+    sum(zone_id is null) as missing_zone_id,
+    sum(zone_name is null) as missing_zone_name,
+    sum(response_time_minutes is null) as missing_response_time
+from fact_emergency_response;
+
+# duplication check 
+select
+    'rainfall' as dataset,
+    count(*) - count(distinct observation_date, zone_id) as duplicate_records
+from fact_rainfall
+
+union all
+
+select
+    'flood',
+    count(*) - count(distinct flood_event_id)
+from fact_flood
+
+union all
+
+select
+    'road complaints',
+    count(*) - count(distinct road_complaint_id)
+from fact_road_complaints
+
+union all
+
+select
+    'traffic',
+    count(*) - count(distinct traffic_record_id)
+from fact_traffic
+
+union all
+
+select
+    'public grievances',
+    count(*) - count(distinct grievance_id)
+from fact_public_grievances
+
+union all
+
+select
+    'waterlogging',
+    count(*) - count(distinct waterlogging_id)
+from fact_waterlogging_locations
+
+union all
+
+select
+    'population',
+    count(*) - count(distinct zone_id)
+from fact_population
+
+union all
+
+select
+    'emergency response',
+    count(*) - count(distinct response_id)
+from fact_emergency_response;
+
