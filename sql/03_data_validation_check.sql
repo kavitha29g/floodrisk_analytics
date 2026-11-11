@@ -215,3 +215,76 @@ select
     sum(case when response_time_minutes < 0 then 1 else 0 end) as negative_response_time
 from fact_emergency_response;
 
+# Data Quality Rules Validation
+
+select
+    count(*) as total_records,
+
+    sum(case
+        when zone_id is null then 1
+        else 0
+    end) as missing_zone_id,
+
+    sum(case
+        when unit <> 'mm' then 1
+        else 0
+    end) as invalid_unit,
+
+    sum(case
+        when rainfall_mm < 0 then 1
+        else 0
+    end) as invalid_rainfall
+
+from fact_rainfall;
+
+select
+    count(*) as total_records,
+
+    sum(case
+        when severity not in ('Low', 'Moderate', 'High', 'Severe')
+        or severity is null then 1
+        else 0
+    end) as invalid_severity,
+
+    sum(case
+        when flood_type not in (
+            'Residential flooding',
+            'Canal overflow',
+            'Street flooding',
+            'Subway flooding'
+        )
+        or flood_type is null then 1
+        else 0
+    end) as invalid_flood_type
+
+from fact_flood;
+
+select
+    count(*) as total_records,
+
+    sum(case
+        when status not in (
+            'Open',
+            'Assigned',
+            'In Progress',
+            'Resolved'
+        ) or status is null then 1
+        else 0
+    end) as invalid_status,
+
+    sum(case
+        when severity not in (
+            'Low',
+            'Medium',
+            'High',
+            'Critical'
+        ) or severity is null then 1
+        else 0
+    end) as invalid_severity
+
+from fact_road_complaints;
+
+select distinct zone_id
+from fact_rainfall
+where zone_id not between 1 and 15
+   or zone_id is null;
