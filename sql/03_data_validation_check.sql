@@ -142,3 +142,76 @@ select
     count(*) - count(distinct response_id)
 from fact_emergency_response;
 
+# abnormal value check
+
+select
+    count(*) as total_records,
+    min(rainfall_mm) as minimum_rainfall,
+    max(rainfall_mm) as maximum_rainfall,
+    sum(case
+        when rainfall_mm < 0 then 1
+        else 0
+    end) as negative_rainfall,
+    sum(case
+        when rainfall_mm = 999 then 1
+        else 0
+    end) as invalid_placeholder
+from fact_rainfall;
+
+select
+    count(*) as total_records,
+    min(estimated_affected_people) as minimum_affected,
+    max(estimated_affected_people) as maximum_affected,
+    sum(case
+        when estimated_affected_people < 0 then 1
+        else 0
+    end) as negative_affected_people
+from fact_flood;
+
+select
+    count(*) as total_records,
+    sum(case
+        when latitude < 8 or latitude > 14 then 1
+        else 0
+    end) as invalid_latitude,
+    sum(case
+        when longitude < 76 or longitude > 82 then 1
+        else 0
+    end) as invalid_longitude
+from fact_road_complaints;
+
+select
+    count(*) as total_records,
+    min(vehicle_count) as minimum_vehicles,
+    max(vehicle_count) as maximum_vehicles,
+    sum(case when vehicle_count < 0 then 1 else 0 end) as negative_vehicles
+from fact_traffic;
+
+
+
+select
+    count(*) as total_records,
+    sum(case when grievance_id is null then 1 else 0 end) as missing_grievance_id
+from fact_public_grievances;
+
+select
+    count(*) as total_records,
+    sum(case when latitude < 8 or latitude > 14 then 1 else 0 end) as invalid_latitude,
+    sum(case when longitude < 76 or longitude > 82 then 1 else 0 end) as invalid_longitude
+from fact_waterlogging_locations;
+select
+    count(*) as total_records,
+    min(population_density_per_sq_km) as minimum_population,
+    max(population_density_per_sq_km) as maximum_population,
+    sum(case when population_density_per_sq_km < 0 then 1 else 0 end) as negative_population
+from fact_population;
+
+select * from fact_population limit 2;
+
+select
+    count(*) as total_records,
+    min(response_time_minutes) as minimum_response_time,
+    max(response_time_minutes) as maximum_response_time,
+    sum(case when response_time_minutes < 0 then 1 else 0 end) as negative_response_time
+from fact_emergency_response;
+
