@@ -69,3 +69,36 @@ union all
 select 'fact_traffic', count(*) from fact_traffic
 union all
 select 'fact_waterlogging_locations', count(*) from fact_waterlogging_locations;
+
+
+
+set session group_concat_max_len = 1000000;
+
+select
+    group_concat(
+        concat(
+            'select ',
+            quote(concat(table_name, '.', column_name)),
+            ' as relationship, ',
+            'count(*) as orphan_records from `',
+            table_name,
+            '` f where f.`',
+            column_name,
+            '` is not null and not exists (select 1 from `',
+            referenced_table_name,
+            '` d where d.`',
+            referenced_column_name,
+            '` = f.`',
+            column_name,
+            '`)'
+        )
+        separator ' union all '
+    )
+into @orphan_sql
+from information_schema.key_column_usage
+where table_schema = 'chennai_urban_intelligence'
+and referenced_table_name is not null;
+
+prepare orphan_check from @orphan_sql;
+execute orphan_check;
+deallocate prepare orphan_check;
