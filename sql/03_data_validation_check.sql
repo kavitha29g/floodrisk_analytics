@@ -288,3 +288,249 @@ select distinct zone_id
 from fact_rainfall
 where zone_id not between 1 and 15
    or zone_id is null;
+
+   # Final Data Quality Validation Report
+   use chennai_smart_city;
+
+select 'Rainfall' as dataset, count(*) as total_records
+from fact_rainfall
+
+union all
+
+select 'Flood', count(*)
+from fact_flood
+
+union all
+
+select 'Road Complaints', count(*)
+from fact_road_complaints
+
+union all
+
+select 'Traffic', count(*)
+from fact_traffic
+
+union all
+
+select 'Public Grievances', count(*)
+from fact_public_grievances
+
+union all
+
+select 'Waterlogging', count(*)
+from fact_waterlogging_locations
+
+union all
+
+select 'Population', count(*)
+from fact_population
+
+union all
+
+select 'Emergency Response', count(*)
+from fact_emergency_response;
+
+select
+    table_name,
+    column_name,
+    data_type,
+    is_nullable,
+    column_key
+from information_schema.columns
+where table_schema = 'chennai_urban_intelligence'
+and table_name in (
+    'fact_rainfall',
+    'fact_flood',
+    'fact_road_complaints',
+    'fact_traffic',
+    'fact_public_grievances',
+    'fact_waterlogging_locations',
+    'fact_population',
+    'fact_emergency_response')
+order by table_name, ordinal_position;
+
+drop table data_quality_validation_report;
+create table data_quality_validation_report (
+    dataset_name varchar(100),
+    total_records int,
+    missing_values int,
+    duplicate_records int,
+    abnormal_values int,
+    business_rule_errors int,
+    validation_status varchar(30)
+);
+
+insert into data_quality_validation_report
+(dataset_name, total_records)
+select 'Rainfall', count(*) from fact_rainfall
+
+union all
+select 'Flood', count(*) from fact_flood
+
+union all
+select 'Road Complaints', count(*) from fact_road_complaints
+
+union all
+select 'Traffic', count(*) from fact_traffic
+
+union all
+select 'Public Grievances', count(*) from fact_public_grievances
+
+union all
+select 'Waterlogging', count(*) from fact_waterlogging_locations
+
+union all
+select 'Population', count(*) from fact_population
+
+union all
+select 'Emergency Response', count(*) from fact_emergency_response;
+
+update data_quality_validation_report
+set
+    missing_values = 109,
+    duplicate_records = 0,
+    abnormal_values = 0,
+    business_rule_errors = 0,
+    validation_status = 'Validated'
+where dataset_name = 'Rainfall';
+
+select * from data_quality_validation_report;
+update data_quality_validation_report
+set missing_values = 109
+where dataset_name = 'Rainfall';
+
+update data_quality_validation_report
+set missing_values = 0
+where dataset_name = 'Flood';
+
+update data_quality_validation_report
+set missing_values = 0
+where dataset_name = 'Road Complaints';
+
+update data_quality_validation_report
+set missing_values = 0
+where dataset_name = 'Traffic';
+
+update data_quality_validation_report
+set missing_values = 0
+where dataset_name = 'Public Grievances';
+
+update data_quality_validation_report
+set missing_values = 0
+where dataset_name = 'Waterlogging';
+
+update data_quality_validation_report
+set missing_values = 0
+where dataset_name = 'Population';
+
+update data_quality_validation_report
+set missing_values = 0
+where dataset_name = 'Emergency Response';
+
+update data_quality_validation_report
+set duplicate_records = 0
+where dataset_name = 'Rainfall';
+
+update data_quality_validation_report
+set duplicate_records = 0
+where dataset_name = 'Flood';
+
+update data_quality_validation_report
+set duplicate_records = 0
+where dataset_name = 'Road Complaints';
+
+update data_quality_validation_report
+set duplicate_records = 0
+where dataset_name = 'Traffic';
+
+update data_quality_validation_report
+set duplicate_records = 0
+where dataset_name = 'Public Grievances';
+
+update data_quality_validation_report
+set duplicate_records = 0
+where dataset_name = 'Waterlogging';
+
+update data_quality_validation_report
+set duplicate_records = 0
+where dataset_name = 'Population';
+
+update data_quality_validation_report
+set duplicate_records = 0
+where dataset_name = 'Emergency Response';
+
+update data_quality_validation_report
+set abnormal_values = 0
+where dataset_name = 'Rainfall';
+
+update data_quality_validation_report
+set abnormal_values = 0
+where dataset_name = 'Flood';
+
+update data_quality_validation_report
+set abnormal_values = 0
+where dataset_name = 'Road Complaints';
+
+update data_quality_validation_report
+set abnormal_values = 0
+where dataset_name = 'Traffic';
+
+update data_quality_validation_report
+set abnormal_values = 0
+where dataset_name = 'Public Grievances';
+
+update data_quality_validation_report
+set abnormal_values = 0
+where dataset_name = 'Waterlogging';
+
+update data_quality_validation_report
+set abnormal_values = 0
+where dataset_name = 'Population';
+
+update data_quality_validation_report
+set abnormal_values = 0
+where dataset_name = 'Emergency Response';
+
+update data_quality_validation_report
+set business_rule_errors = 0
+where dataset_name = 'Rainfall';
+
+update data_quality_validation_report
+set business_rule_errors = 0
+where dataset_name = 'Flood';
+
+update data_quality_validation_report
+set business_rule_errors = 0
+where dataset_name = 'Road Complaints';
+
+update data_quality_validation_report
+set business_rule_errors = 0
+where dataset_name = 'Traffic';
+
+update data_quality_validation_report
+set business_rule_errors = 0
+where dataset_name = 'Public Grievances';
+
+update data_quality_validation_report
+set business_rule_errors = 0
+where dataset_name = 'Waterlogging';
+
+update data_quality_validation_report
+set business_rule_errors = 0
+where dataset_name = 'Population';
+
+update data_quality_validation_report
+set business_rule_errors = 0
+where dataset_name = 'Emergency Response';
+
+select * from data_quality_validation_report;
+update data_quality_validation_report
+set validation_status =
+case
+    when missing_values = 0
+     and duplicate_records = 0
+     and abnormal_values = 0
+     and business_rule_errors = 0
+    then 'Passed'
+    else 'Review Required'
+end;
